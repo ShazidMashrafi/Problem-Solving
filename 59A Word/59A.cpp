@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int i,len,uppercase=0,lowercase=0;
-    char s[100];
+    char s[1000];
     cin>>s;
     len=strlen(s);
     for(i=0;i<len;i++)
