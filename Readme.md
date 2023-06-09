@@ -15,6 +15,7 @@ Feel free to check these codes out.
 | 1A | Theater Square | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1A%20Theater%20Square/1A.cpp)
 | 4A | Watermelon | [Question](https://codeforces.com/contest/4/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4A%20Watermelon/4A.cpp)
 | 50A | Domino Piling | [Question](https://codeforces.com/contest/50/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/50A%20DominoPiling/50A.cpp)
+| 59A | Word | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/59A%20Word/59A.cpp)
 | 71A | Way Too Long Words | [Question](https://codeforces.com/contest/71/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/71A%20Way%20Too%20Long%20Words/71A.cpp)
 | 112A | Petya And Strings | [Question](https://codeforces.com/contest/112/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/112A%20Petya%20And%20Strings/112A.cpp)
 | 158A | Next Round | [Question](https://codeforces.com/contest/158/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/158A%20Next%20Round/158A.cpp)
