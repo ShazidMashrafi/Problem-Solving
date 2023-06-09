@@ -17,6 +17,7 @@ Feel free to check these codes out.
 | 50A | Domino Piling | [Question](https://codeforces.com/contest/50/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/50A%20DominoPiling/50A.cpp)
 | 59A | Word | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/59A%20Word/59A.cpp)
 | 71A | Way Too Long Words | [Question](https://codeforces.com/contest/71/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/71A%20Way%20Too%20Long%20Words/71A.cpp)
+|110A | Nearly Lucky Number | [Question](https://codeforces.com/problemset/problem/110/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/110A%20Nearly%20Lucky%20Number/110A.cpp)
 | 112A | Petya And Strings | [Question](https://codeforces.com/contest/112/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/112A%20Petya%20And%20Strings/112A.cpp)
 | 158A | Next Round | [Question](https://codeforces.com/contest/158/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/158A%20Next%20Round/158A.cpp)
 | 231A | Team | [Question](https://codeforces.com/contest/231/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/231A%20Team/231A.cpp)
