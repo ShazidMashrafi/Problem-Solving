@@ -29,6 +29,7 @@ Feel free to check these codes out.
 | 339A | Helpful Maths | [Question](https://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/339A%20Helpful%20Maths/339A.cpp)
 | 546A | Soldier and Bananas | [Question](https://codeforces.com/contest/546/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/546A%20Soldier%20and%20Bananas/546A.cpp)
 | 617A | Elephant | [Question](https://codeforces.com/contest/617/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/617A%20Elephant/617A.cpp)
+| 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
 | 791A | Bear And Big Brother | [Question](https://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/791A%20Bear%20And%20Big%20Brother/791A.cpp)
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [SOlution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
 | 1792A | Gaming Forces | [Question](https://codeforces.com/problemset/problem/1792/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1792A%20Gaming%20Forces/1792A.cpp)
