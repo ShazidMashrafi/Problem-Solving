@@ -1,5 +1,4 @@
 *.exe
 test/
 .vscode
-Template.cpp
 .cph/
