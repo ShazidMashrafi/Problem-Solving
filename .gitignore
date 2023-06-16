@@ -2,3 +2,4 @@
 test/
 .vscode
 .cph/
+*.bin
