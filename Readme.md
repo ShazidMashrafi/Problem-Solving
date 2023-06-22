@@ -40,6 +40,8 @@ Feel free to check these codes out.
 | 1822A | TubeTube Feed | [Question](https://codeforces.com/problemset/problem/1822/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1822A%20TubeTube%20Feed/1822A.cpp) 
 | 1829A | Love Story | [Question](https://codeforces.com/contest/1829/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1829A%20Love%20Story)
 | 1829B | Blank Spaces | [Question](https://codeforces.com/contest/1829/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829B%20Blank%20Spaces/1829B.cpp)
+| 1829C | Mr. Perfectly Fine | [Question](https://codeforces.com/problemset/problem/1829/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829C%20Mr.%20Perfectly%20Fine/1829C.cpp)
+| 1829D | Gold Rush | [Question](https://codeforces.com/problemset/problem/1829/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829D%20Gold%20Rush/1829D.cpp)
 | 1833C | Vlad Building Beautiful Array | [Question](https://codeforces.com/contest/1833/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1833C%20Vlad%20Building%20Beautiful%20Array/1833C.cpp)
 
 
