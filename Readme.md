@@ -48,6 +48,6 @@ Feel free to check these codes out.
 
 ## 🚀 About Me
 
-I am Computer Science and Engineering student, working my way on the programming world.  
+I am Shazid, studying Computer Science and Engineering. I am trying to work my way up in the programming world.
 Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codeforces account ](https://codeforces.com/profile/shazid456).  
 Want to know more about me? Visit [My website](https://shazidmashrafi.com).  
