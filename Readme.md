@@ -22,6 +22,7 @@ Feel free to check these codes out.
 | 231A | Team | [Question](https://codeforces.com/contest/231/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/231A%20Team/231A.cpp)
 | 236A | Boy Or Girl | [Question](https://codeforces.com/contest/236/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/236A%20Boy%20Or%20Girl/236A.cpp) 
 | 263A | Beautiful Matrix | [Question](https://codeforces.com/contest/263/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/263A%20Beautiful%20Matrix)
+| 266A | Stones on the Table | [Question](https://codeforces.com/problemset/problem/266/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/266A%20Stones%20on%20the%20Table/266A.cpp)
 | 281A | Word Capitalization | [Question](https://codeforces.com/contest/281/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/281A%20Word%20Capitalization/281A.cpp)
 | 282A | Bit++ | [Question](https://codeforces.com/contest/282/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/282A%20Bit%2B%2B/282A.cpp)
 | 339A | Helpful Maths | [Question](https://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/339A%20Helpful%20Maths/339A.cpp)
