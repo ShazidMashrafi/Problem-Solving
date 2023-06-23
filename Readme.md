@@ -1,7 +1,4 @@
-<div align="center">
-
 # Codeforces Solutions
-</div>
 
 This repository contains my source codes of Codeforces problems. They are in C++ language.  
 Feel free to check these codes out.
@@ -43,12 +40,13 @@ Feel free to check these codes out.
 | 1829C | Mr. Perfectly Fine | [Question](https://codeforces.com/problemset/problem/1829/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829C%20Mr.%20Perfectly%20Fine/1829C.cpp)
 | 1829D | Gold Rush | [Question](https://codeforces.com/problemset/problem/1829/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829D%20Gold%20Rush/1829D.cpp)
 | 1833C | Vlad Building Beautiful Array | [Question](https://codeforces.com/contest/1833/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1833C%20Vlad%20Building%20Beautiful%20Array/1833C.cpp)
+| 1843A | Sasha and Array Coloring | [Question](https://codeforces.com/contest/1843/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1843A%20Sasha%20and%20Array%20Coloring/1843A.cpp)
 
 
 <br> 
+</div>
 
 ## 🚀 About Me
-</div>
 
 I am Computer Science and Engineering student, working my way on the programming world.  
 Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codeforces account ](https://codeforces.com/profile/shazid456).  
