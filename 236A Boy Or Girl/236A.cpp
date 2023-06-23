@@ -1,20 +1,33 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+using ll = long long;
+
+int l[26];
+
+void solve()
+{
+    string s;
+    cin>>s;
+    for(int i=0; i<s.size(); ++i)
+    {
+        l[s[i]-'a']++;
+    }
+    int ct=0;
+    for(int i=0; i<26; ++i)
+    {
+        if(l[i]>0) ct++;
+    }
+    if(ct%2==0) cout<<"CHAT WITH HER!"<<endl;
+    else cout<<"IGNORE HIM!"<<endl;
+}
 
 int main()
 {
-    char name[100];
-    cin>>name;
-    int i,j,len,count=0;
-    len=strlen(name);
-    for(i=0;i<len;i++)
-    {
-        for(j=i+i;j<len;j++)
-        {
-            if(name[i]==name[j]) count++;
-        }
-    }
-    cout<<len-count<<endl;
-    if((len-count)%2!=0) cout<<"IGNORE HIM!"<<endl;
-    else cout<<"CHAT WITH HER!"<<endl;
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int TC = 1;
+    //cin >> TC;
+    //cin.ignore();
+    while (TC--) solve();
 }
