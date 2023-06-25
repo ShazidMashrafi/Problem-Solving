@@ -18,6 +18,8 @@ Feel free to check these codes out.
 |110A | Nearly Lucky Number | [Question](https://codeforces.com/problemset/problem/110/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/110A%20Nearly%20Lucky%20Number/110A.cpp)
 | 112A | Petya And Strings | [Question](https://codeforces.com/contest/112/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/112A%20Petya%20And%20Strings/112A.cpp)
 | 116A | Tram | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/116A%20Tram/116A.cpp)
+| 122A | Lucky Division | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122A%20Lucky%20Division/122A.cpp)
+| 122B | Lucky Substring | [Question](https://codeforces.com/problemset/problem/122/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122B%20Lucky%20Substring/122B.cpp)
 | 158A | Next Round | [Question](https://codeforces.com/contest/158/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/158A%20Next%20Round/158A.cpp)
 | 231A | Team | [Question](https://codeforces.com/contest/231/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/231A%20Team/231A.cpp)
 | 236A | Boy Or Girl | [Question](https://codeforces.com/contest/236/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/236A%20Boy%20Or%20Girl/236A.cpp) 
