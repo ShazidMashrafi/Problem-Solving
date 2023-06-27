@@ -38,6 +38,7 @@ Feel free to check these codes out.
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [SOlution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
 | 1721B | Deadly Lasers | [Question](https://codeforces.com/problemset/problem/1721/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1721B%20Deadly%20Laser/1721B.cpp)
 | 1742C | Stripes | [Question](https://codeforces.com/problemset/problem/1742/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742C%20Stripes/1742C.cpp)
+| 1746B | Rebellion | [Question](https://codeforces.com/problemset/problem/1746/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1746B%20Rebellion/1746B.cpp)
 | 1792A | Gaming Forces | [Question](https://codeforces.com/problemset/problem/1792/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1792A%20Gaming%20Forces/1792A.cpp)
 | 1818B | Indivisible | [Question](https://codeforces.com/problemset/problem/1818/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1818B%20Indivisible/1818B.cpp)
 | 1822A | TubeTube Feed | [Question](https://codeforces.com/problemset/problem/1822/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1822A%20TubeTube%20Feed/1822A.cpp) 
