@@ -39,6 +39,7 @@ Feel free to check these codes out.
 | 1721B | Deadly Lasers | [Question](https://codeforces.com/problemset/problem/1721/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1721B%20Deadly%20Laser/1721B.cpp)
 | 1742C | Stripes | [Question](https://codeforces.com/problemset/problem/1742/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742C%20Stripes/1742C.cpp)
 | 1792A | Gaming Forces | [Question](https://codeforces.com/problemset/problem/1792/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1792A%20Gaming%20Forces/1792A.cpp)
+| 1818B | Indivisible | [Question](https://codeforces.com/problemset/problem/1818/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1818B%20Indivisible/1818B.cpp)
 | 1822A | TubeTube Feed | [Question](https://codeforces.com/problemset/problem/1822/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1822A%20TubeTube%20Feed/1822A.cpp) 
 | 1829A | Love Story | [Question](https://codeforces.com/contest/1829/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1829A%20Love%20Story)
 | 1829B | Blank Spaces | [Question](https://codeforces.com/contest/1829/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829B%20Blank%20Spaces/1829B.cpp)
