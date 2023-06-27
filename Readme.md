@@ -30,6 +30,7 @@ Feel free to check these codes out.
 | 282A | Bit++ | [Question](https://codeforces.com/contest/282/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/282A%20Bit%2B%2B/282A.cpp)
 | 339A | Helpful Maths | [Question](https://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/339A%20Helpful%20Maths/339A.cpp)
 | 411A | Password Check | [Question](https://codeforces.com/problemset/problem/411/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/411A%20Password%20Check/411A.cpp)
+| 525A | Vitaliy and Pie | [Question](https://codeforces.com/problemset/problem/525/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/525A%20Vitaliy%20and%20Pie/525A.cpp)
 | 546A | Soldier and Bananas | [Question](https://codeforces.com/contest/546/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/546A%20Soldier%20and%20Bananas/546A.cpp)
 | 617A | Elephant | [Question](https://codeforces.com/contest/617/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/617A%20Elephant/617A.cpp)
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
