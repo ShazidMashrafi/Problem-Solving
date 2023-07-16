@@ -9,13 +9,14 @@ void solve()
     cin>>n>>m>>k;
     int x,y;
     cin>>x>>y;
+    int vika_color=(x+y)%2;
     bool caught=false;
     while(k--)
     {
         int p,q;
         cin>>p>>q;
-        int d=abs(x-p)+abs(y-q);
-        if(d%2==0)
+        int friend_color=(p+q)%2;
+        if(vika_color==friend_color)
         {
             caught=true;
         }
