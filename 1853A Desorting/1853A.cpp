@@ -14,16 +14,8 @@ void solve()
         cin>>x;
         v.push_back(x);
     }
-    bool unsorted=0;
-    for(int i=1; i<n; ++i)
-    {
-        if(v[i]<v[i-1])
-        {
-            unsorted=1;
-            break;
-        }
-    }
-    if(unsorted)
+    
+    if(!is_sorted(v.begin(),v.end()))
         cout<<0<<endl;
     else
     {
