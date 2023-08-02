@@ -100,7 +100,8 @@ Feel free to check these codes out.
 | 1850C | Word on the Paper | [Question](https://codeforces.com/contest/1850/problem/C) |
 | 1851A | Escalator Conversations | [Question](https://codeforces.com/problemset/problem/1851/A) | 
 | 1851B | Parity Sort | [Question](https://codeforces.com/problemset/problem/1851/B) | 
-| 1853A | Desorting | [Question](https://codeforces.com/contest/1853/problem/A)
+| 1853A | Desorting | [Question](https://codeforces.com/contest/1853/problem/A) | 
+| 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | 
 <br> 
 </div>
 
