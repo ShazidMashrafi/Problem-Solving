@@ -1,6 +1,6 @@
 {
     "cph.general.onceMaintainerMessage": false,
-    "cph.general.saveLocation": "D:\\Programming\\Unwanted\\cph",
+    "cph.general.saveLocation": "/home/shazid/Programming/Unwanted/CPH",
     "files.associations": {
         "iostream": "cpp"
     }
