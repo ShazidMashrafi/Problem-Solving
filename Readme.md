@@ -62,7 +62,7 @@ Feel free to check these codes out.
 | 1343B | Balanced Array | [Question](https://codeforces.com/contest/1343/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1343B%20Balanced%20Array/1343B.cpp)
 | 1367B | Even Array | [Question](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1367B%20%20Even%20Array/1367B.cpp)
 | 1389A | LCM Problem | [Question](https://codeforces.com/problemset/problem/1389/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1389A%20LCM%20Problem/1389A.cpp)
-| 1399A | Remove Smallest | [Question](https://codeforces.com/problemset/problem/1399/A) | [Solution]
+| 1399A | Remove Smallest | [Question](https://codeforces.com/problemset/problem/1399/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1399A%20Remove%20Smallest/1399A.cpp)
 | 1426A | Floor Number | [Question](https://codeforces.com/contest/1426/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1426A%20Floor%20Number/1426A.cpp)
 | 1512A | Spy Detected! | [Question](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1512A%20Spy%20Detected!/1512A.cpp)
 | 1624B | Make AP | [Question](https://codeforces.com/contest/1624/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1624B%20Make%20AP/1624B.cpp)
