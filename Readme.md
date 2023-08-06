@@ -35,6 +35,7 @@ Feel free to check these codes out.
 | 158A | Next Round | [Question](https://codeforces.com/contest/158/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/158A%20Next%20Round/158A.cpp)
 | 158B | Taxi | [Question](https://codeforces.com/problemset/problem/158/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/158B%20Taxi/158B.cpp)
 | 189A | Cut Ribbon | [Question](https://codeforces.com/contest/189/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/189A%20Cut%20Ribbon/189A.cpp)
+| 200B | Drinks | [Question](https://codeforces.com/problemset/problem/200/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/200B%20Drinks/200B.cpp)
 | 208A | Dubstep | [Question](https://codeforces.com/problemset/problem/208/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/208A%20Dubstep/208A.cpp)
 | 230B | T-primes | [Question](https://codeforces.com/problemset/problem/230/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/230B%20T-primes/230B.cpp)
 | 231A | Team | [Question](https://codeforces.com/contest/231/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/231A%20Team/231A.cpp)
