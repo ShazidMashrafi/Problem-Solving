@@ -26,7 +26,7 @@ Feel free to check these codes out.
 | 122A | Lucky Division | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122A%20Lucky%20Division/122A.cpp)
 | 122B | Lucky Substring | [Question](https://codeforces.com/problemset/problem/122/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122B%20Lucky%20Substring/122B.cpp)
 | 131A | cAPS lOCK | [Question](https://codeforces.com/problemset/problem/131/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/131A%20cAPS%20lOCK/131A.cpp)
-| 136A | Presents | [Question](https://codeforces.com/problemset/problem/136/A)) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/136A%20Presents/136A.cpp)
+| 136A | Presents | [Question](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/136A%20Presents/136A.cpp)
 | 141A | Amusing Joke | [Question](https://codeforces.com/problemset/problem/141/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/141A%20Amusing%20Joke/141A.cpp)
 | 144A | Arrival of the General | [Question](https://codeforces.com/contest/144/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/144A%20Arrival%20of%20the%20General/144A.cpp)  
 | 148A | Insomnia cure | [Question](https://codeforces.com/problemset/problem/148/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/148A%20Insomnia%20cure/148A.cpp)
