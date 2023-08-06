@@ -42,6 +42,7 @@ Feel free to check these codes out.
 | 263A | Beautiful Matrix | [Question](https://codeforces.com/contest/263/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/263A%20Beautiful%20Matrix)
 | 266A | Stones on the Table | [Question](https://codeforces.com/problemset/problem/266/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/266A%20Stones%20on%20the%20Table/266A.cpp)
 | 266B | Queue at the School | [Question](https://codeforces.com/problemset/problem/266/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/266B%20Queue%20at%20the%20School/266B.cpp)
+| 268A | Games | [Question](https://codeforces.com/contest/268/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/268A%20Games/268A.cpp) 
 | 271A | Beautiful Year | [Question](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/271A%20Beautiful%20Year/271A.cpp)
 | 281A | Word Capitalization | [Question](https://codeforces.com/contest/281/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/281A%20Word%20Capitalization/281A.cpp)
 | 282A | Bit++ | [Question](https://codeforces.com/contest/282/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/282A%20Bit%2B%2B/282A.cpp)
