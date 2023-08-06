@@ -43,11 +43,12 @@ void solve()
         return;
     }
     sort(all(v));
-    for(int i=1; i<n; i++)
+    fro(n)
     {
         if(v[i]-v[i-1]>1)
         {
             no;
+
             return;
         }
     }
