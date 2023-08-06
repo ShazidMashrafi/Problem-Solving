@@ -47,6 +47,7 @@ Feel free to check these codes out.
 | 271A | Beautiful Year | [Question](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/271A%20Beautiful%20Year/271A.cpp)
 | 281A | Word Capitalization | [Question](https://codeforces.com/contest/281/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/281A%20Word%20Capitalization/281A.cpp)
 | 282A | Bit++ | [Question](https://codeforces.com/contest/282/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/282A%20Bit%2B%2B/282A.cpp)
+| 318A | Even Odds | [Question](https://codeforces.com/problemset/problem/318/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/318A%20Even%20Odds/318A.cpp)
 | 339A | Helpful Maths | [Question](https://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/339A%20Helpful%20Maths/339A.cpp)
 | 411A | Password Check | [Question](https://codeforces.com/problemset/problem/411/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/411A%20Password%20Check/411A.cpp)
 | 486A | Calculating Function | [Question](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/486A%20Calculating%20Function/486A.cpp)
