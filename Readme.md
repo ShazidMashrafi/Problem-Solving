@@ -50,6 +50,7 @@ Feel free to check these codes out.
 | 411A | Password Check | [Question](https://codeforces.com/problemset/problem/411/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/411A%20Password%20Check/411A.cpp)
 | 486A | Calculating Function | [Question](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/486A%20Calculating%20Function/486A.cpp)
 | 492A | Vanya and Cubes | [Question](https://codeforces.com/problemset/problem/492/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/492A%20Vanya%20and%20Cubes/492A.cpp)
+| 510A | Fox And Snake | [Question](https://codeforces.com/problemset/problem/510/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/510A%20Fox%20And%20Snake/510A.cpp)
 | 525A | Vitaliy and Pie | [Question](https://codeforces.com/problemset/problem/525/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/525A%20Vitaliy%20and%20Pie/525A.cpp)
 | 546A | Soldier and Bananas | [Question](https://codeforces.com/contest/546/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/546A%20Soldier%20and%20Bananas/546A.cpp)
 | 584A | Olesya and Rodion | [Question](https://codeforces.com/contest/584/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/584A%20Olesya%20and%20Rodion/584A.cpp)
