@@ -17,6 +17,7 @@ Feel free to check these codes out.
 | 34A | Reconnaissance 2 | [Question](https://codeforces.com/contest/34/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/34A%20Reconnaissance%202/34A.cpp)
 | 34B | Sale | [Question](https://codeforces.com/problemset/problem/34/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/34B%20Sale/34B.cpp)
 | 41A | Translation | [Question](https://codeforces.com/problemset/problem/41/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/41A%20Translation/41A.cpp)
+| 45A | Codecraft III | [Question](https://codeforces.com/contest/45/problem/A) | [Solution]
 | 50A | Domino Piling | [Question](https://codeforces.com/contest/50/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/50A%20DominoPiling/50A.cpp)
 | 59A | Word | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/59A%20Word/59A.cpp)
 | 71A | Way Too Long Words | [Question](https://codeforces.com/contest/71/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/71A%20Way%20Too%20Long%20Words/71A.cpp)
@@ -61,6 +62,7 @@ Feel free to check these codes out.
 | 706B | Interesting drink | [Question](https://codeforces.com/problemset/problem/706/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/706B%20Interesting%20drink/706B.cpp)
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
 | 791A | Bear And Big Brother | [Question](https://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/791A%20Bear%20And%20Big%20Brother/791A.cpp)
+| 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution]
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
 | 1311A | Add Odd or Subtract Even | [Question](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1311A%20Add%20Odd%20or%20Subtract%20Even/1311A.cpp)
 | 1343B | Balanced Array | [Question](https://codeforces.com/contest/1343/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1343B%20Balanced%20Array/1343B.cpp)
@@ -72,6 +74,7 @@ Feel free to check these codes out.
 | 1624B | Make AP | [Question](https://codeforces.com/contest/1624/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1624B%20Make%20AP/1624B.cpp)
 | 1676A | Lucky? | [Question](https://codeforces.com/problemset/problem/1676/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1676A%20Lucky/1676A.cpp)
 | 1692A | Marathon | [Question](https://codeforces.com/problemset/problem/1692/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1692A%20Marathon/1692A.cpp)
+| 1703A | YES or YES? | [Question](https://codeforces.com/problemset/problem/1703/A) | [Solution]
 | 1719A | Chip Game | [Question](https://codeforces.com/contest/1719/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1719A%20Chip%20Game/1719A.cpp)
 | 1721B | Deadly Lasers | [Question](https://codeforces.com/problemset/problem/1721/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1721B%20Deadly%20Laser/1721B.cpp)
 | 1742A | Sum | [Question](https://codeforces.com/problemset/problem/1742/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742A%20Sum/1742A.cpp)
@@ -103,10 +106,12 @@ Feel free to check these codes out.
 | 1850A | To My Critics | [Question](https://codeforces.com/contest/1850/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850A%20To%20My%20Critics/1850A.cpp)
 | 1850B | Ten Words of Wisdom | [Question](https://codeforces.com/contest/1850/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850B%20Ten%20Words%20of%20Wisdom/1850B.cpp)
 | 1850C | Word on the Paper | [Question](https://codeforces.com/contest/1850/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850C%20Word%20on%20the%20Paper/1850C.cpp)
+| 1850D | Balanced Round | [Question](https://codeforces.com/problemset/problem/1850/D) | [Solution]
 | 1851A | Escalator Conversations | [Question](https://codeforces.com/problemset/problem/1851/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851A%20Escalator%20Conversations/1851A.cpp)
 | 1851B | Parity Sort | [Question](https://codeforces.com/problemset/problem/1851/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851B%20Parity%20Sort/1851B.cpp)
 | 1853A | Desorting | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1853A%20Desorting/1853A.cpp)
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1855A%20Dalton%20the%20Teacher/1855A.cpp)
+| 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution]
 </div>
 
 ## 🚀 About Me
