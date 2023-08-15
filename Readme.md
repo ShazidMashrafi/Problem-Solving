@@ -12,6 +12,7 @@ Feel free to check these codes out.
 | 1A | Theater Square | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1A%20Theater%20Square/1A.cpp)
 | 4A | Watermelon | [Question](https://codeforces.com/contest/4/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4A%20Watermelon/4A.cpp)
 | 4C | Registration System | [Question](https://codeforces.com/problemset/problem/4/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4C%20Registration%20System/4C.cpp)
+| 9A | Die Roll | [Question](https://codeforces.com/problemset/problem/9/A) | [Solution]
 | 11A | Increasing Sequence | [Question](https://codeforces.com/contest/11/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/11A%20Increasing%20Sequence/11A.cpp)
 | 22A | Second Order Statistics | [Question](https://codeforces.com/contest/22/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/22A%20Second%20Order%20Statistics/22A.cpp)
 | 34A | Reconnaissance 2 | [Question](https://codeforces.com/contest/34/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/34A%20Reconnaissance%202/34A.cpp)
@@ -24,6 +25,7 @@ Feel free to check these codes out.
 |110A | Nearly Lucky Number | [Question](https://codeforces.com/problemset/problem/110/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/110A%20Nearly%20Lucky%20Number/110A.cpp)
 | 112A | Petya And Strings | [Question](https://codeforces.com/contest/112/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/112A%20Petya%20And%20Strings/112A.cpp)
 | 116A | Tram | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/116A%20Tram/116A.cpp)
+| 118B | Present from Lena | [Question](https://codeforces.com/problemset/problem/118/B) | [Solution]
 | 122A | Lucky Division | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122A%20Lucky%20Division/122A.cpp)
 | 122B | Lucky Substring | [Question](https://codeforces.com/problemset/problem/122/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122B%20Lucky%20Substring/122B.cpp)
 | 131A | cAPS lOCK | [Question](https://codeforces.com/problemset/problem/131/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/131A%20cAPS%20lOCK/131A.cpp)
@@ -67,6 +69,8 @@ Feel free to check these codes out.
 | 1311A | Add Odd or Subtract Even | [Question](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1311A%20Add%20Odd%20or%20Subtract%20Even/1311A.cpp)
 | 1343B | Balanced Array | [Question](https://codeforces.com/contest/1343/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1343B%20Balanced%20Array/1343B.cpp)
 | 1367B | Even Array | [Question](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1367B%20%20Even%20Array/1367B.cpp)
+| 1328A | Divisibility Problem | [Question](https://codeforces.com/problemset/problem/1328/A) | [Solution]()
+| 1360B | Honest Coach | [Question](https://codeforces.com/contest/1360/problem/B) | [Solution]
 | 1389A | LCM Problem | [Question](https://codeforces.com/problemset/problem/1389/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1389A%20LCM%20Problem/1389A.cpp)
 | 1399A | Remove Smallest | [Question](https://codeforces.com/problemset/problem/1399/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1399A%20Remove%20Smallest/1399A.cpp)
 | 1426A | Floor Number | [Question](https://codeforces.com/contest/1426/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1426A%20Floor%20Number/1426A.cpp)
@@ -88,12 +92,14 @@ Feel free to check these codes out.
 | 1811A | Insert Digit | [Question](https://codeforces.com/problemset/problem/1811/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1811A%20Insert%20Digit/1811A.cpp)
 | 1818B | Indivisible | [Question](https://codeforces.com/problemset/problem/1818/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1818B%20Indivisible/1818B.cpp)
 | 1822A | TubeTube Feed | [Question](https://codeforces.com/problemset/problem/1822/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1822A%20TubeTube%20Feed/1822A.cpp)
+| 1822C | Bun Lover | [Question](https://codeforces.com/problemset/problem/1822/C) | [Solution]
 | 1828A | Divisible Array | [Question](https://codeforces.com/problemset/problem/1828/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1828A%20Divisible%20Array/1828A.cpp)
 | 1829A | Love Story | [Question](https://codeforces.com/contest/1829/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1829A%20Love%20Story)
 | 1829B | Blank Spaces | [Question](https://codeforces.com/contest/1829/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829B%20Blank%20Spaces/1829B.cpp)
 | 1829C | Mr. Perfectly Fine | [Question](https://codeforces.com/problemset/problem/1829/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829C%20Mr.%20Perfectly%20Fine/1829C.cpp)
 | 1829D | Gold Rush | [Question](https://codeforces.com/problemset/problem/1829/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829D%20Gold%20Rush/1829D.cpp)
 | 1833C | Vlad Building Beautiful Array | [Question](https://codeforces.com/contest/1833/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1833C%20Vlad%20Building%20Beautiful%20Array/1833C.cpp)
+| 1837A | Grasshopper on a Line | [Question](https://codeforces.com/problemset/problem/1837/A) | [Solution]()
 | 1841B | Keep it Beautiful | [Question](https://codeforces.com/problemset/problem/1841/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1841B%20Keep%20it%20Beautiful/1841B.cpp)
 | 1843A | Sasha and Array Coloring | [Question](https://codeforces.com/contest/1843/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1843A%20Sasha%20and%20Array%20Coloring/1843A.cpp)
 | 1844A | Subtraction Game | [Question](https://codeforces.com/contest/1844/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1844A%20Subtraction%20Game/1844A.cpp)
