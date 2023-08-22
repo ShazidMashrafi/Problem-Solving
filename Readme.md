@@ -12,20 +12,20 @@ Feel free to check these codes out.
 | 1A | Theater Square | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1A%20Theater%20Square/1A.cpp)
 | 4A | Watermelon | [Question](https://codeforces.com/contest/4/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4A%20Watermelon/4A.cpp)
 | 4C | Registration System | [Question](https://codeforces.com/problemset/problem/4/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4C%20Registration%20System/4C.cpp)
-| 9A | Die Roll | [Question](https://codeforces.com/problemset/problem/9/A) | [Solution]
+| 9A | Die Roll | [Question](https://codeforces.com/problemset/problem/9/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/9A%20Die%20Roll/9A.cpp)
 | 11A | Increasing Sequence | [Question](https://codeforces.com/contest/11/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/11A%20Increasing%20Sequence/11A.cpp)
 | 22A | Second Order Statistics | [Question](https://codeforces.com/contest/22/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/22A%20Second%20Order%20Statistics/22A.cpp)
 | 34A | Reconnaissance 2 | [Question](https://codeforces.com/contest/34/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/34A%20Reconnaissance%202/34A.cpp)
 | 34B | Sale | [Question](https://codeforces.com/problemset/problem/34/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/34B%20Sale/34B.cpp)
 | 41A | Translation | [Question](https://codeforces.com/problemset/problem/41/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/41A%20Translation/41A.cpp)
-| 45A | Codecraft III | [Question](https://codeforces.com/contest/45/problem/A) | [Solution]
+| 45A | Codecraft III | [Question](https://codeforces.com/contest/45/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/45A%20Codecraft%20III/45A.cpp)
 | 50A | Domino Piling | [Question](https://codeforces.com/contest/50/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/50A%20DominoPiling/50A.cpp)
 | 59A | Word | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/59A%20Word/59A.cpp)
 | 71A | Way Too Long Words | [Question](https://codeforces.com/contest/71/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/71A%20Way%20Too%20Long%20Words/71A.cpp)
 |110A | Nearly Lucky Number | [Question](https://codeforces.com/problemset/problem/110/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/110A%20Nearly%20Lucky%20Number/110A.cpp)
 | 112A | Petya And Strings | [Question](https://codeforces.com/contest/112/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/112A%20Petya%20And%20Strings/112A.cpp)
 | 116A | Tram | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/116A%20Tram/116A.cpp)
-| 118B | Present from Lena | [Question](https://codeforces.com/problemset/problem/118/B) | [Solution]
+| 118B | Present from Lena | [Question](https://codeforces.com/problemset/problem/118/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/118B%20Present%20from%20Lena/118B.cpp)
 | 122A | Lucky Division | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122A%20Lucky%20Division/122A.cpp)
 | 122B | Lucky Substring | [Question](https://codeforces.com/problemset/problem/122/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/122B%20Lucky%20Substring/122B.cpp)
 | 131A | cAPS lOCK | [Question](https://codeforces.com/problemset/problem/131/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/131A%20cAPS%20lOCK/131A.cpp)
@@ -50,7 +50,7 @@ Feel free to check these codes out.
 | 271A | Beautiful Year | [Question](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/271A%20Beautiful%20Year/271A.cpp)
 | 281A | Word Capitalization | [Question](https://codeforces.com/contest/281/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/281A%20Word%20Capitalization/281A.cpp)
 | 282A | Bit++ | [Question](https://codeforces.com/contest/282/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/282A%20Bit%2B%2B/282A.cpp)
-| 313A | Ilya and Bank Account | [Question](https://codeforces.com/problemset/problem/313/A) | [Solution]
+| 313A | Ilya and Bank Account | [Question](https://codeforces.com/problemset/problem/313/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/313A%20Ilya%20and%20Bank%20Account/313A.cpp)
 | 318A | Even Odds | [Question](https://codeforces.com/problemset/problem/318/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/318A%20Even%20Odds/318A.cpp)
 | 339A | Helpful Maths | [Question](https://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/339A%20Helpful%20Maths/339A.cpp)
 | 349A | Cinema Line | [Question](https://codeforces.com/problemset/problem/349/A) | [Solution]
@@ -61,16 +61,16 @@ Feel free to check these codes out.
 | 525A | Vitaliy and Pie | [Question](https://codeforces.com/problemset/problem/525/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/525A%20Vitaliy%20and%20Pie/525A.cpp)
 | 546A | Soldier and Bananas | [Question](https://codeforces.com/contest/546/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/546A%20Soldier%20and%20Bananas/546A.cpp)
 | 584A | Olesya and Rodion | [Question](https://codeforces.com/contest/584/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/584A%20Olesya%20and%20Rodion/584A.cpp)
-| 599A | Patrick and Shopping | [Question](https://codeforces.com/contest/599/problem/A) | [Solution]
+| 599A | Patrick and Shopping | [Question](https://codeforces.com/contest/599/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/599A%20Patrick%20and%20Shopping/599A.cpp)
 | 617A | Elephant | [Question](https://codeforces.com/contest/617/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/617A%20Elephant/617A.cpp)
 | 677A | Vanya and Fence | [Question](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/677A%20Vanya%20and%20Fence/677A.cpp)
 | 706B | Interesting drink | [Question](https://codeforces.com/problemset/problem/706/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/706B%20Interesting%20drink/706B.cpp)
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
 | 791A | Bear And Big Brother | [Question](https://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/791A%20Bear%20And%20Big%20Brother/791A.cpp)
-| 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution]
+| 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/855A%20Tom%20Riddle's%20Diary/855A.cpp)
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
-| 1196A | Three Piles of Candies | [Question](https://codeforces.com/problemset/problem/1196/A) | [Solution]
-| 1295A | Display The Number | [Question](https://codeforces.com/problemset/problem/1295/A) | [Solution]
+| 1196A | Three Piles of Candies | [Question](https://codeforces.com/problemset/problem/1196/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1196A%20Three%20Piles%20of%20Candies/1196A.cpp)
+| 1295A | Display The Number | [Question](https://codeforces.com/problemset/problem/1295/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1295A%20Display%20The%20Number/1295A.cpp)
 | 1311A | Add Odd or Subtract Even | [Question](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1311A%20Add%20Odd%20or%20Subtract%20Even/1311A.cpp)
 | 1343B | Balanced Array | [Question](https://codeforces.com/contest/1343/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1343B%20Balanced%20Array/1343B.cpp)
 | 1367B | Even Array | [Question](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1367B%20%20Even%20Array/1367B.cpp)
