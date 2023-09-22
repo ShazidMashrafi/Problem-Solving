@@ -53,10 +53,13 @@ Feel free to check these codes out.
 | 313A | Ilya and Bank Account | [Question](https://codeforces.com/problemset/problem/313/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/313A%20Ilya%20and%20Bank%20Account/313A.cpp)
 | 318A | Even Odds | [Question](https://codeforces.com/problemset/problem/318/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/318A%20Even%20Odds/318A.cpp)
 | 339A | Helpful Maths | [Question](https://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/339A%20Helpful%20Maths/339A.cpp)
+| 344A | Magnets | [Question](https://codeforces.com/problemset/problem/344/A) | [Solution]
 | 349A | Cinema Line | [Question](https://codeforces.com/problemset/problem/349/A) | [Solution]
 | 411A | Password Check | [Question](https://codeforces.com/problemset/problem/411/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/411A%20Password%20Check/411A.cpp)
+| 460 | Plural Form of Nouns | [Question](https://codeforces.com/problemsets/acmsguru/problem/99999/460) | [Solution]
 | 486A | Calculating Function | [Question](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/486A%20Calculating%20Function/486A.cpp)
 | 492A | Vanya and Cubes | [Question](https://codeforces.com/problemset/problem/492/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/492A%20Vanya%20and%20Cubes/492A.cpp)
+| 492B | Vanya and Lanterns |[Question](https://codeforces.com/problemset/problem/492/B) | [Solution]
 | 510A | Fox And Snake | [Question](https://codeforces.com/problemset/problem/510/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/510A%20Fox%20And%20Snake/510A.cpp)
 | 525A | Vitaliy and Pie | [Question](https://codeforces.com/problemset/problem/525/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/525A%20Vitaliy%20and%20Pie/525A.cpp)
 | 546A | Soldier and Bananas | [Question](https://codeforces.com/contest/546/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/546A%20Soldier%20and%20Bananas/546A.cpp)
@@ -69,6 +72,7 @@ Feel free to check these codes out.
 | 791A | Bear And Big Brother | [Question](https://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/791A%20Bear%20And%20Big%20Brother/791A.cpp)
 | 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/855A%20Tom%20Riddle's%20Diary/855A.cpp)
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
+| 1068A | Birthday | [Question](https://codeforces.com/contest/1068/problem/A) | [Solution]
 | 1196A | Three Piles of Candies | [Question](https://codeforces.com/problemset/problem/1196/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1196A%20Three%20Piles%20of%20Candies/1196A.cpp)
 | 1295A | Display The Number | [Question](https://codeforces.com/problemset/problem/1295/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1295A%20Display%20The%20Number/1295A.cpp)
 | 1311A | Add Odd or Subtract Even | [Question](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1311A%20Add%20Odd%20or%20Subtract%20Even/1311A.cpp)
@@ -91,6 +95,7 @@ Feel free to check these codes out.
 | 1742C | Stripes | [Question](https://codeforces.com/problemset/problem/1742/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742C%20Stripes/1742C.cpp)
 | 1746B | Rebellion | [Question](https://codeforces.com/problemset/problem/1746/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1746B%20Rebellion/1746B.cpp)
 | 1758B | XOR = Average | [Question](https://codeforces.com/problemset/problem/1758/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1758B%20XOR%20%3D%20Average/1758B.cpp)
+| 1760A | Medium Number | [Question](https://codeforces.com/contest/1760/problem/A) | [Solution]
 | 1773F | Football | [Question](https://codeforces.com/contest/1773/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1773F%20Football/1773F.cpp)
 | 1791B | Following Directions | [Question](https://codeforces.com/problemset/problem/1791/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1791B%20Following%20Directions/1791B.cpp)
 | 1792A | Gaming Forces | [Question](https://codeforces.com/problemset/problem/1792/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1792A%20Gaming%20Forces/1792A.cpp)
@@ -104,6 +109,7 @@ Feel free to check these codes out.
 | 1829B | Blank Spaces | [Question](https://codeforces.com/contest/1829/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829B%20Blank%20Spaces/1829B.cpp)
 | 1829C | Mr. Perfectly Fine | [Question](https://codeforces.com/problemset/problem/1829/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829C%20Mr.%20Perfectly%20Fine/1829C.cpp)
 | 1829D | Gold Rush | [Question](https://codeforces.com/problemset/problem/1829/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829D%20Gold%20Rush/1829D.cpp)
+| 1832A | New Palindrome | [Question](https://codeforces.com/problemset/problem/1832/A) | [Solution]
 | 1833C | Vlad Building Beautiful Array | [Question](https://codeforces.com/contest/1833/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1833C%20Vlad%20Building%20Beautiful%20Array/1833C.cpp)
 | 1837A | Grasshopper on a Line | [Question](https://codeforces.com/problemset/problem/1837/A) | [Solution]()
 | 1837B | Comparison String | [Question](https://codeforces.com/problemset/problem/1837/B) | [Solution]
@@ -124,11 +130,20 @@ Feel free to check these codes out.
 | 1851B | Parity Sort | [Question](https://codeforces.com/problemset/problem/1851/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851B%20Parity%20Sort/1851B.cpp)
 | 1853A | Desorting | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1853A%20Desorting/1853A.cpp)
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1855A%20Dalton%20the%20Teacher/1855A.cpp)
+| 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution]
 | 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution]
+| 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution]
+| 1872A | Two Vessels | [Question](https://codeforces.com/problemset/problem/1872/A) |  [Solution]
+| 1872B | The Corridor or There and Back Again | [Question](https://codeforces.com/problemset/problem/1872/B) |  [Solution]
+| 1872C | Non-coprime Split | [Question](https://codeforces.com/problemset/problem/1872/C) |  [Solution]
+| 1873A | Short Sort | [Question](https://codeforces.com/problemset/problem/1873/A) |  [Solution]
+| 1873B | Good Kid | [Question](https://codeforces.com/problemset/problem/1873/B) |  [Solution] 
+| 1873C | Target Practice | [Question](https://codeforces.com/problemset/problem/1873/C) |  [Solution]
+| 1873D | 1D Eraser | [Question](https://codeforces.com/problemset/problem/1873/D) | [Solution]
 </div>
 
 ## 🚀 About Me
 
 I am Shazid, studying Computer Science and Engineering. I am trying to work my way up in the programming world.
 Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codeforces account ](https://codeforces.com/profile/shazid456).  
-Want to know more about me? Visit [My website](https://shazidmashrafi.com).  
+Want to know more about me? Visit [My website](https://shazidmashrafi.com).
