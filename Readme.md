@@ -132,6 +132,7 @@ Feel free to check these codes out.
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1855A%20Dalton%20the%20Teacher/1855A.cpp)
 | 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution]
 | 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution]
+| 1859A | United We Stand | [Question](https://codeforces.com/problemset/problem/1859/A) |  [Solution]
 | 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution]
 | 1872A | Two Vessels | [Question](https://codeforces.com/problemset/problem/1872/A) |  [Solution]
 | 1872B | The Corridor or There and Back Again | [Question](https://codeforces.com/problemset/problem/1872/B) |  [Solution]
@@ -140,6 +141,9 @@ Feel free to check these codes out.
 | 1873B | Good Kid | [Question](https://codeforces.com/problemset/problem/1873/B) |  [Solution] 
 | 1873C | Target Practice | [Question](https://codeforces.com/problemset/problem/1873/C) |  [Solution]
 | 1873D | 1D Eraser | [Question](https://codeforces.com/problemset/problem/1873/D) | [Solution]
+| 1878A | How Much Does Daytona Cost? | [Question](https://codeforces.com/problemset/problem/1878/A) | [Solution]
+| 1878B | Aleksa and Stack | [Question](https://codeforces.com/problemset/problem/1878/B) | [Solution]
+| 1878C | Vasilije in Cacak | [Question](https://codeforces.com/problemset/problem/1878/C) | [Solution]
 </div>
 
 ## 🚀 About Me
