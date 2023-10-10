@@ -101,6 +101,7 @@ Feel free to check these codes out.
 | 1792A | Gaming Forces | [Question](https://codeforces.com/problemset/problem/1792/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1792A%20Gaming%20Forces/1792A.cpp)
 | 1800A | Is It a Cat? | [Question](https://codeforces.com/contest/1800/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1800A%20Is%20It%20a%20Cat/1800A.cpp)
 | 1811A | Insert Digit | [Question](https://codeforces.com/problemset/problem/1811/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1811A%20Insert%20Digit/1811A.cpp)
+| 1814A | Coins |[Question](https://codeforces.com/problemset/problem/1814/A) | [Solution]
 | 1818B | Indivisible | [Question](https://codeforces.com/problemset/problem/1818/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1818B%20Indivisible/1818B.cpp)
 | 1822A | TubeTube Feed | [Question](https://codeforces.com/problemset/problem/1822/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1822A%20TubeTube%20Feed/1822A.cpp)
 | 1822C | Bun Lover | [Question](https://codeforces.com/problemset/problem/1822/C) | [Solution]
@@ -132,6 +133,7 @@ Feel free to check these codes out.
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1855A%20Dalton%20the%20Teacher/1855A.cpp)
 | 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution]
 | 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution]
+| 1858A | Buttons | [Question](https://codeforces.com/problemset/problem/1858/A) | [Solution]
 | 1859A | United We Stand | [Question](https://codeforces.com/problemset/problem/1859/A) |  [Solution]
 | 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution]
 | 1872A | Two Vessels | [Question](https://codeforces.com/problemset/problem/1872/A) |  [Solution]
@@ -144,6 +146,7 @@ Feel free to check these codes out.
 | 1878A | How Much Does Daytona Cost? | [Question](https://codeforces.com/problemset/problem/1878/A) | [Solution]
 | 1878B | Aleksa and Stack | [Question](https://codeforces.com/problemset/problem/1878/B) | [Solution]
 | 1878C | Vasilije in Cacak | [Question](https://codeforces.com/problemset/problem/1878/C) | [Solution]
+| 1879A - Rigged! | [Question](https://codeforces.com/problemset/problem/1879/C) | [Solution]
 </div>
 
 ## 🚀 About Me
