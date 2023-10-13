@@ -52,26 +52,41 @@ bool isPrime(ll n)     { if(n <= 1) return false; for(ll i = 2; i <= sqrt(n); i+
 
 void solve()
 {
-    int n;
-    cin>>n;
-    vector<int>str;
-    vector<int>end;
-    for(int i=0; i<n; ++i)
+    int n,k,x;
+    cin>>n>>k>>x;
+    if(n<k || x+1<k)
     {
-        int x,y;
-        cin>>x>>y;
-        str.pb(x);
-        end.pb(y);
+        cout<<-1<<nl;
+        return;
     }
-    for(int i=1; i<n; ++i)
+    int i=0,ct=0,sum=0;
+    while(i<k && ct<n)
     {
-        if(str[i]>=str[0] && end[i]>=end[0])
+        sum+=i;
+        i++;
+        ct++;
+    }
+    if(ct<n)
+    {
+        if(x!=k)
         {
-            cout<<-1<<nl;
-            return;
+            while(ct<n)
+            {
+                sum+=x;
+                ct++;
+            }
+        }
+        else if(x==k)
+        {
+            x--;
+            while(ct<n)
+            {
+                sum+=x;
+                ct++;
+            }
         }
     }
-    cout<<str[0]<<nl;
+    cout<<sum<<nl;
 }
  
 int main()
