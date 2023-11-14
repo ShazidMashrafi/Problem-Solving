@@ -4,17 +4,8 @@ int main()
 {
     int n,i=5,count=0;
     cin>>n;
-    while(n>0)
-    {
-        while(i>=1)
-        {
-            while(n-i>=0) 
-            {
-                count++;
-                n=n-i;
-            }
-            i--;
-        }
-        cout<<count;
-    }
+    if(n%5)
+        cout<<n/5+1<<endl;
+    else
+        cout<<n/5<<endl;
 }
