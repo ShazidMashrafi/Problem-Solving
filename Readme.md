@@ -67,6 +67,7 @@ Feel free to check these codes out.
 | 584A | Olesya and Rodion | [Question](https://codeforces.com/contest/584/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/584A%20Olesya%20and%20Rodion/584A.cpp)
 | 599A | Patrick and Shopping | [Question](https://codeforces.com/contest/599/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/599A%20Patrick%20and%20Shopping/599A.cpp)
 | 617A | Elephant | [Question](https://codeforces.com/contest/617/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/617A%20Elephant/617A.cpp)
+| 630A | Again Twenty Five! | [Question](https://codeforces.com/contest/630/problem/A) | [Solution]
 | 677A | Vanya and Fence | [Question](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/677A%20Vanya%20and%20Fence/677A.cpp)
 | 706B | Interesting drink | [Question](https://codeforces.com/problemset/problem/706/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/706B%20Interesting%20drink/706B.cpp)
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
@@ -88,6 +89,7 @@ Feel free to check these codes out.
 | 1512A | Spy Detected! | [Question](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1512A%20Spy%20Detected!/1512A.cpp)
 | 1582B | Luntik and Subsequences | [Question](https://codeforces.com/contest/1582/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1582B%20Luntik%20and%20Subsequences/1582B.cpp)
 | 1624B | Make AP | [Question](https://codeforces.com/contest/1624/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1624B%20Make%20AP/1624B.cpp)
+| 1633A | Div. 7 | [Question](https://codeforces.com/problemset/problem/1633/A) | [Solution]
 | 1676A | Lucky? | [Question](https://codeforces.com/problemset/problem/1676/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1676A%20Lucky/1676A.cpp)
 | 1692A | Marathon | [Question](https://codeforces.com/problemset/problem/1692/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1692A%20Marathon/1692A.cpp)
 | 1703A | YES or YES? | [Question](https://codeforces.com/problemset/problem/1703/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1703A%20YES%20or%20YES/1703A.cpp)
@@ -101,6 +103,7 @@ Feel free to check these codes out.
 | 1773F | Football | [Question](https://codeforces.com/contest/1773/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1773F%20Football/1773F.cpp)
 | 1791B | Following Directions | [Question](https://codeforces.com/problemset/problem/1791/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1791B%20Following%20Directions/1791B.cpp)
 | 1792A | Gaming Forces | [Question](https://codeforces.com/problemset/problem/1792/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1792A%20Gaming%20Forces/1792A.cpp)
+| 1795B | Ideal Point | [Question](https://codeforces.com/problemset/problem/1795/B) | [Solution]
 | 1800A | Is It a Cat? | [Question](https://codeforces.com/contest/1800/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1800A%20Is%20It%20a%20Cat/1800A.cpp)
 | 1811A | Insert Digit | [Question](https://codeforces.com/problemset/problem/1811/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1811A%20Insert%20Digit/1811A.cpp)
 | 1814A | Coins |[Question](https://codeforces.com/problemset/problem/1814/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1814A%20Coins/1814A.cpp)
@@ -138,6 +141,10 @@ Feel free to check these codes out.
 | 1858A | Buttons | [Question](https://codeforces.com/problemset/problem/1858/A) | [Solution]
 | 1859A | United We Stand | [Question](https://codeforces.com/problemset/problem/1859/A) |  [Solution]
 | 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution]
+| 1862B | Sequence Game | [Question](https://codeforces.com/problemset/problem/1862/B) |  [Solution]
+| 1863A | Channel | [Question](https://codeforces.com/problemset/problem/1863/A) |  [Solution]
+| 1864A | Increasing and Decreasing | [Question](https://codeforces.com/problemset/problem/1864/A) | [Solution]
+| 1866A | Ambitious Kid | [Question](https://codeforces.com/problemset/problem/1866/A) |  [Solution]
 | 1870A | MEXanized Array | [Question](https://codeforces.com/problemset/problem/1870/A) |  [Solution]
 | 1872A | Two Vessels | [Question](https://codeforces.com/problemset/problem/1872/A) |  [Solution]
 | 1872B | The Corridor or There and Back Again | [Question](https://codeforces.com/problemset/problem/1872/B) |  [Solution]
@@ -153,6 +160,9 @@ Feel free to check these codes out.
 | 1881A | Don't Try to Count | [Question](https://codeforces.com/problemset/problem/1881/A) | [Solution]
 | 1881B | Three Threadlets | [Question](https://codeforces.com/problemset/problem/1881/B) | [Solution]
 | 1881C | Perfect Square | [Question](https://codeforces.com/problemset/problem/1881/C) | [Solution]
+| | 1895A | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
+| 1895B | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/B) | [Solution]
+
 
 </div>
 
