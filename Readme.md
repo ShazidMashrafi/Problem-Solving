@@ -162,7 +162,7 @@ Feel free to check these codes out.
 | 1881C | Perfect Square | [Question](https://codeforces.com/problemset/problem/1881/C) | [Solution]
 | | 1895A | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
 | 1895B | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/B) | [Solution]
-
+| 1899A | Game with Integers | [Question](https://codeforces.com/problemset/problem/1899/A) | [Solution]
 
 </div>
 
