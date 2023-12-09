@@ -2,34 +2,13 @@
 using namespace std;
 
 // Short forms
-#define int                 long long
 #define ll                  long long
-#define lld                 long double
-#define ull                 unsigned long long
 #define endl                '\n'
 #define ff                  first
 #define ss                  second
+#define pb                  push_back
 #define all(x)              x.begin(), x.end()
 #define sz(x)               (int)(x).size()
-#define pb                  push_back
-#define ppb                 pop_back
-#define mp                  make_pair
-#define ins                 insert
-#define fr(i, a, b)         for(int i=a; i<b; ++i)
-#define fn(i, n)            for(int i=0; i<n; ++i)
-#define rf(i, a, b)         for(int i=a; i>b; --i)
-#define nf(i, n)            for(int i=n-1; i>=0; --i)
-
-// STLs
-#define PII                 pair<int, int>
-#define VI                  vector<int>
-#define VVI                 vector<vector<int>>
-#define SI                  set<int>
-#define SC                  set<char>
-#define MII                 map<int,int>
-#define VLL                 vector<ll>
-#define VVL                 vector<vector<ll>>
-#define SL                  set<ll>
 
 // Outputs
 #define yes                 cout<<"YES"<<endl
@@ -62,7 +41,7 @@ bool isPrime(ll n)     { if(n <= 1) return false; for(ll i = 2; i <= sqrt(n); i+
 #endif
  
 void _print(int t) {cerr << t;}void _print(string t) {cerr << t;}void _print(char t) {cerr << t;}
-void _print(lld t) {cerr << t;}void _print(double t) {cerr << t;}void _print(ull t) {cerr << t;}
+void _print(long double t) {cerr << t;}void _print(double t) {cerr << t;}void _print(unsigned ll t) {cerr << t;}
 template <class T, class V> void _print(pair <T, V> p);
 template <class T> void _print(vector <T> v);template <class T> void _print(set <T> v);
 template <class T, class V> void _print(map <T, V> v);template <class T> void _print(multiset <T> v);
@@ -85,5 +64,6 @@ int32_t main()
     FAST_IO;
     int TC = 1;
     //cin >> TC;
-    while (TC--) solve();
+    while (TC--) 
+        solve();
 }
