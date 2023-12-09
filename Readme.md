@@ -57,6 +57,7 @@ Feel free to check these codes out.
 | 344A | Magnets | [Question](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/344A%20Magnets/344A.cpp)
 | 349A | Cinema Line | [Question](https://codeforces.com/problemset/problem/349/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/349A%20Cinema%20Line/349A.cpp)
 | 411A | Password Check | [Question](https://codeforces.com/problemset/problem/411/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/411A%20Password%20Check/411A.cpp)
+| 456B | Fedya and Maths | [Question](https://codeforces.com/problemset/problem/456/B) | [Solution]
 | 460 | Plural Form of Nouns | [Question](https://codeforces.com/problemsets/acmsguru/problem/99999/460) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/460%20Plural%20Form%20of%20Nouns/99999460.cpp)
 | 486A | Calculating Function | [Question](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/486A%20Calculating%20Function/486A.cpp)
 | 492A | Vanya and Cubes | [Question](https://codeforces.com/problemset/problem/492/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/492A%20Vanya%20and%20Cubes/492A.cpp)
@@ -71,6 +72,7 @@ Feel free to check these codes out.
 | 677A | Vanya and Fence | [Question](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/677A%20Vanya%20and%20Fence/677A.cpp)
 | 706B | Interesting drink | [Question](https://codeforces.com/problemset/problem/706/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/706B%20Interesting%20drink/706B.cpp)
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
+| 742A | Arpa’s hard exam and Mehrdad’s naive cheat | [Question](https://codeforces.com/problemset/problem/742/A) | [Solution]
 | 791A | Bear And Big Brother | [Question](https://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/791A%20Bear%20And%20Big%20Brother/791A.cpp)
 | 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/855A%20Tom%20Riddle's%20Diary/855A.cpp)
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
@@ -153,17 +155,29 @@ Feel free to check these codes out.
 | 1873B | Good Kid | [Question](https://codeforces.com/problemset/problem/1873/B) |  [Solution] 
 | 1873C | Target Practice | [Question](https://codeforces.com/problemset/problem/1873/C) |  [Solution]
 | 1873D | 1D Eraser | [Question](https://codeforces.com/problemset/problem/1873/D) | [Solution]
+| 1875A | Jellyfish and Undertale | [Question](https://codeforces.com/problemset/problem/1875/A) | [Solution]
 | 1878A | How Much Does Daytona Cost? | [Question](https://codeforces.com/problemset/problem/1878/A) | [Solution]
 | 1878B | Aleksa and Stack | [Question](https://codeforces.com/problemset/problem/1878/B) | [Solution]
 | 1878C | Vasilije in Cacak | [Question](https://codeforces.com/problemset/problem/1878/C) | [Solution]
-| 1879A | Rigged! | [Question](https://codeforces.com/problemset/problem/1879/C) | [Solution]
+| 1879A | Rigged! | [Question](https://codeforces.com/problemset/problem/1879/A) | [Solution]
+| 1879B | Chips on the Board | [Question](https://codeforces.com/problemset/problem/1879/B) | [Solution]
 | 1881A | Don't Try to Count | [Question](https://codeforces.com/problemset/problem/1881/A) | [Solution]
 | 1881B | Three Threadlets | [Question](https://codeforces.com/problemset/problem/1881/B) | [Solution]
 | 1881C | Perfect Square | [Question](https://codeforces.com/problemset/problem/1881/C) | [Solution]
-| | 1895A | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
+| 1883B | Chemistry | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
+| 1894A | Secret Sport | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
+| 1895A | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
 | 1895B | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/B) | [Solution]
+| 1896A | Jagged Swaps | [Question](https://codeforces.com/problemset/problem/1896/A) | [Solution]
+| 1896B | AB Flipping | [Question](https://codeforces.com/problemset/problem/1896/B) | [Solution]
+| 1898A | Milica and String | [Question](https://codeforces.com/problemset/problem/1898/A) | [Solution]
 | 1899A | Game with Integers | [Question](https://codeforces.com/problemset/problem/1899/A) | [Solution]
-
+| 1900A | Cover in Water | [Question](https://codeforces.com/problemset/problem/1900/A) | [Solution]
+| 1900B | Laura and Operations | [Question](https://codeforces.com/problemset/problem/1900/B) | [Solution]
+| 1901A | Line Trip | [Question](https://codeforces.com/problemset/problem/1901/A) | [Solution]
+| 1907A | Rook | [Question](https://codeforces.com/problemset/problem/1907/A) | [Solution]
+| 1907B | YetnotherrokenKeoard | [Question](https://codeforces.com/problemset/problem/1907/B) | [Solution]
+| 1907C | Removal of Unattractive Pairs | [Question](https://codeforces.com/problemset/problem/1907/C) | [Solution]
 </div>
 
 ## 🚀 About Me
