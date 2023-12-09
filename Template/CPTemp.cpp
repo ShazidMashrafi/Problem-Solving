@@ -18,7 +18,7 @@ using namespace std;
 #define fr(i, a, b)         for(int i=a; i<b; ++i)
 #define fn(i, n)            for(int i=0; i<n; ++i)
 #define rf(i, a, b)         for(int i=a; i>b; --i)
-#define nf(i, n)            for(int i=n; i>0; --i)
+#define nf(i, n)            for(int i=n-1; i>=0; --i)
 
 // STLs
 #define PII                 pair<int, int>
