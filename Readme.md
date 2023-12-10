@@ -74,11 +74,14 @@ Feel free to check these codes out.
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
 | 742A | Arpa’s hard exam and Mehrdad’s naive cheat | [Question](https://codeforces.com/problemset/problem/742/A) | [Solution]
 | 791A | Bear And Big Brother | [Question](https://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/791A%20Bear%20And%20Big%20Brother/791A.cpp)
+| 854A | Fraction | Question](https://codeforces.com/problemset/problem/854/A) | [Solution]
 | 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/855A%20Tom%20Riddle's%20Diary/855A.cpp)
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
 | 1068A | Birthday | [Question](https://codeforces.com/contest/1068/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1068A%20Birthday/1068A.cpp)
+| 1144C | Two Shuffled Sequences | [Question](https://codeforces.com/problemset/problem/1144/C) | [Solution]
 | 1196A | Three Piles of Candies | [Question](https://codeforces.com/problemset/problem/1196/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1196A%20Three%20Piles%20of%20Candies/1196A.cpp)
 | 1295A | Display The Number | [Question](https://codeforces.com/problemset/problem/1295/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1295A%20Display%20The%20Number/1295A.cpp)
+| 1296A | Array with Odd Sum | [Question](https://codeforces.com/problemset/problem/1296/A) | [Solution]
 | 1311A | Add Odd or Subtract Even | [Question](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1311A%20Add%20Odd%20or%20Subtract%20Even/1311A.cpp)
 | 1328A | Divisibility Problem | [Question](https://codeforces.com/problemset/problem/1328/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1328A%20Divisibility%20Problem/1328A.cpp)
 | 1341A | Nastya and Rice | [Question](https://codeforces.com/problemset/problem/1341/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1341A%20Nastya%20and%20Rice/1341A.cpp)
@@ -96,6 +99,7 @@ Feel free to check these codes out.
 | 1692A | Marathon | [Question](https://codeforces.com/problemset/problem/1692/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1692A%20Marathon/1692A.cpp)
 | 1703A | YES or YES? | [Question](https://codeforces.com/problemset/problem/1703/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1703A%20YES%20or%20YES/1703A.cpp)
 | 1719A | Chip Game | [Question](https://codeforces.com/contest/1719/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1719A%20Chip%20Game/1719A.cpp)
+| 1719B | Mathematical Circus | [Question](https://codeforces.com/contest/1719/problem/B) | [Solution]
 | 1721B | Deadly Lasers | [Question](https://codeforces.com/problemset/problem/1721/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1721B%20Deadly%20Laser/1721B.cpp)
 | 1742A | Sum | [Question](https://codeforces.com/problemset/problem/1742/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742A%20Sum/1742A.cpp)
 | 1742C | Stripes | [Question](https://codeforces.com/problemset/problem/1742/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742C%20Stripes/1742C.cpp)
@@ -175,6 +179,7 @@ Feel free to check these codes out.
 | 1900A | Cover in Water | [Question](https://codeforces.com/problemset/problem/1900/A) | [Solution]
 | 1900B | Laura and Operations | [Question](https://codeforces.com/problemset/problem/1900/B) | [Solution]
 | 1901A | Line Trip | [Question](https://codeforces.com/problemset/problem/1901/A) | [Solution]
+| 1904A | Forked! | [Question](https://codeforces.com/problemset/problem/1904/A) | [Solution]
 | 1907A | Rook | [Question](https://codeforces.com/problemset/problem/1907/A) | [Solution]
 | 1907B | YetnotherrokenKeoard | [Question](https://codeforces.com/problemset/problem/1907/B) | [Solution]
 | 1907C | Removal of Unattractive Pairs | [Question](https://codeforces.com/problemset/problem/1907/C) | [Solution]
