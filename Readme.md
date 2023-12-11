@@ -127,6 +127,7 @@ Feel free to check these codes out.
 | 1837B | Comparison String | [Question](https://codeforces.com/problemset/problem/1837/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1837B%20Comparison%20String/1837B.cpp)
 | 1841B | Keep it Beautiful | [Question](https://codeforces.com/problemset/problem/1841/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1841B%20Keep%20it%20Beautiful/1841B.cpp)
 | 1843A | Sasha and Array Coloring | [Question](https://codeforces.com/contest/1843/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1843A%20Sasha%20and%20Array%20Coloring/1843A.cpp)
+| 1843B | Long Long | [Question](https://codeforces.com/contest/1843/problem/B) | [Solution]
 | 1844A | Subtraction Game | [Question](https://codeforces.com/contest/1844/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1844A%20Subtraction%20Game/1844A.cpp)
 | 1845A | Forbidden Integer | [Question](https://codeforces.com/problemset/problem/1845/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1845A%20Forbidden%20Integer/1845A.cpp)
 | 1846A | Rudolph and Cut the Rope | [Question](https://codeforces.com/contest/1846/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1846A%20Rudolph%20and%20Cut%20the%20Rope/1846A.cpp)
