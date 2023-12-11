@@ -2,6 +2,7 @@
 using namespace std;
 
 // Short forms
+#define int                 long long
 #define ll                  long long
 #define endl                '\n'
 #define ff                  first
