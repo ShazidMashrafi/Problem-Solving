@@ -57,6 +57,7 @@ Feel free to check these codes out.
 | 344A | Magnets | [Question](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/344A%20Magnets/344A.cpp)
 | 349A | Cinema Line | [Question](https://codeforces.com/problemset/problem/349/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/349A%20Cinema%20Line/349A.cpp)
 | 411A | Password Check | [Question](https://codeforces.com/problemset/problem/411/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/411A%20Password%20Check/411A.cpp)
+| 421A | Pasha and Hamsters | [Question](https://codeforces.com/problemset/problem/421/A) | [Solution]
 | 456B | Fedya and Maths | [Question](https://codeforces.com/problemset/problem/456/B) | [Solution]
 | 460 | Plural Form of Nouns | [Question](https://codeforces.com/problemsets/acmsguru/problem/99999/460) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/460%20Plural%20Form%20of%20Nouns/99999460.cpp)
 | 486A | Calculating Function | [Question](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/486A%20Calculating%20Function/486A.cpp)
