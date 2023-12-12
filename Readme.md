@@ -78,6 +78,7 @@ Feel free to check these codes out.
 | 854A | Fraction | Question](https://codeforces.com/problemset/problem/854/A) | [Solution]
 | 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/855A%20Tom%20Riddle's%20Diary/855A.cpp)
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
+| 1118B | Tanya and Candies | [Question](https://codeforces.com/contest/1118/problem/B) | [Solution]
 | 1068A | Birthday | [Question](https://codeforces.com/contest/1068/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1068A%20Birthday/1068A.cpp)
 | 1144C | Two Shuffled Sequences | [Question](https://codeforces.com/problemset/problem/1144/C) | [Solution]
 | 1196A | Three Piles of Candies | [Question](https://codeforces.com/problemset/problem/1196/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1196A%20Three%20Piles%20of%20Candies/1196A.cpp)
