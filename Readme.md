@@ -122,7 +122,8 @@ Feel free to check these codes out.
 | 1829C | Mr. Perfectly Fine | [Question](https://codeforces.com/problemset/problem/1829/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829C%20Mr.%20Perfectly%20Fine/1829C.cpp)
 | 1829D | Gold Rush | [Question](https://codeforces.com/problemset/problem/1829/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829D%20Gold%20Rush/1829D.cpp)
 | 1832A | New Palindrome | [Question](https://codeforces.com/problemset/problem/1832/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1832A%20New%20Palindrome/1832A.cpp)
-|1833B | Restore the Weather | [Question](https://codeforces.com/contest/1833/problem/A) | [Solution]
+| 1833A | Musical Puzzle |[Question](https://codeforces.com/contest/1833/problem/A) | [Solution]
+|1833B | Restore the Weather | [Question](https://codeforces.com/contest/1833/problem/B) | [Solution]
 | 1833C | Vlad Building Beautiful Array | [Question](https://codeforces.com/contest/1833/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1833C%20Vlad%20Building%20Beautiful%20Array/1833C.cpp)
 | 1837A | Grasshopper on a Line | [Question](https://codeforces.com/problemset/problem/1837/A) | [Solution]()
 | 1837B | Comparison String | [Question](https://codeforces.com/problemset/problem/1837/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1837B%20Comparison%20String/1837B.cpp)
