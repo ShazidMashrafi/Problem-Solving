@@ -89,6 +89,7 @@ Feel free to check these codes out.
 | 1343B | Balanced Array | [Question](https://codeforces.com/contest/1343/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1343B%20Balanced%20Array/1343B.cpp)
 | 1367B | Even Array | [Question](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1367B%20%20Even%20Array/1367B.cpp)
 | 1360B | Honest Coach | [Question](https://codeforces.com/contest/1360/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1360B%20Honest%20Coach/1360B.cpp)
+| 1364A | XXXXX | [Question](https://codeforces.com/problemset/problem/1364/A) | [Solution]
 | 1389A | LCM Problem | [Question](https://codeforces.com/problemset/problem/1389/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1389A%20LCM%20Problem/1389A.cpp)
 | 1399A | Remove Smallest | [Question](https://codeforces.com/problemset/problem/1399/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1399A%20Remove%20Smallest/1399A.cpp)
 | 1426A | Floor Number | [Question](https://codeforces.com/contest/1426/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1426A%20Floor%20Number/1426A.cpp)
