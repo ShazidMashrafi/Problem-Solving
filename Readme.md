@@ -104,6 +104,7 @@ Feel free to check these codes out.
 | 1742A | Sum | [Question](https://codeforces.com/problemset/problem/1742/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742A%20Sum/1742A.cpp)
 | 1742C | Stripes | [Question](https://codeforces.com/problemset/problem/1742/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742C%20Stripes/1742C.cpp)
 | 1746B | Rebellion | [Question](https://codeforces.com/problemset/problem/1746/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1746B%20Rebellion/1746B.cpp)
+| 1748A | The Ultimate Square | [Question](https://codeforces.com/problemset/problem/1748/A) | [Solution]
 | 1758B | XOR = Average | [Question](https://codeforces.com/problemset/problem/1758/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1758B%20XOR%20%3D%20Average/1758B.cpp)
 | 1760A | Medium Number | [Question](https://codeforces.com/contest/1760/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1760A%20Medium%20Number/1760A.cpp)
 | 1773F | Football | [Question](https://codeforces.com/contest/1773/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1773F%20Football/1773F.cpp)
