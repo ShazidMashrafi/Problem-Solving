@@ -141,6 +141,7 @@ Feel free to check these codes out.
 | 1846C | Rudolf and the Another Competition | [Question](https://codeforces.com/contest/1846/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1846C%20Rudolf%20and%20the%20Another%20Competition/1846C.cpp)
 | 1848A | Vika and Her Friends | [Question](https://codeforces.com/contest/1848/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1848A%20Vika%20and%20Her%20Friends/1848A.cpp)
 | 1849A | Morning Sandwich | [Question](https://codeforces.com/problemset/problem/1849/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1849A%20Morning%20Sandwich/1849A.cpp)
+| 1849B | Monsters | [Question](https://codeforces.com/problemset/problem/1849/B) | [Solution]
 | 1850A | To My Critics | [Question](https://codeforces.com/contest/1850/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850A%20To%20My%20Critics/1850A.cpp)
 | 1850B | Ten Words of Wisdom | [Question](https://codeforces.com/contest/1850/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850B%20Ten%20Words%20of%20Wisdom/1850B.cpp)
 | 1850C | Word on the Paper | [Question](https://codeforces.com/contest/1850/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850C%20Word%20on%20the%20Paper/1850C.cpp)
