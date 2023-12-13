@@ -51,7 +51,7 @@ template <class T> void _print(vector <T> v) {cerr << "[ "; for (T i : v) {_prin
 template <class T> void _print(set <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T> void _print(multiset <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
 template <class T, class V> void _print(map <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
- 
+template <class T, class V> void _print(multimap <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";} 
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -65,6 +65,5 @@ int32_t main()
     FAST_IO;
     int TC = 1;
     //cin >> TC;
-    while (TC--) 
-        solve();
+    while (TC--) solve();
 }
