@@ -147,6 +147,7 @@ Feel free to check these codes out.
 | 1850D | Balanced Round | [Question](https://codeforces.com/problemset/problem/1850/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850D%20Balanced%20Round/1850D.cpp)
 | 1851A | Escalator Conversations | [Question](https://codeforces.com/problemset/problem/1851/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851A%20Escalator%20Conversations/1851A.cpp)
 | 1851B | Parity Sort | [Question](https://codeforces.com/problemset/problem/1851/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851B%20Parity%20Sort/1851B.cpp)
+| 1851C | Tiles Comeback | [Question](https://codeforces.com/problemset/problem/1851/C) | [Solution]
 | 1853A | Desorting | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1853A%20Desorting/1853A.cpp)
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1855A%20Dalton%20the%20Teacher/1855A.cpp)
 | 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution]
