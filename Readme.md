@@ -154,6 +154,7 @@ Feel free to check these codes out.
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1855A%20Dalton%20the%20Teacher/1855A.cpp)
 | 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution]
 | 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution]
+| 1857C | Assembly via Minimums | [Question](https://codeforces.com/problemset/problem/1857/C) | [Solution]
 | 1858A | Buttons | [Question](https://codeforces.com/problemset/problem/1858/A) | [Solution]
 | 1859A | United We Stand | [Question](https://codeforces.com/problemset/problem/1859/A) |  [Solution]
 | 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution]
