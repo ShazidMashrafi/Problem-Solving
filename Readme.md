@@ -10,6 +10,7 @@ Feel free to check these codes out.
 | Problem ID | Problem Name | Question | Solution |
 | :--------: | :----------: | :------: | :------: |
 | 1A | Theater Square | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1A%20Theater%20Square/1A.cpp)
+| 2A | Winner | [Question](https://codeforces.com/contest/1/problem/A) | [Solution] 
 | 4A | Watermelon | [Question](https://codeforces.com/contest/4/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4A%20Watermelon/4A.cpp)
 | 4C | Registration System | [Question](https://codeforces.com/problemset/problem/4/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4C%20Registration%20System/4C.cpp)
 | 9A | Die Roll | [Question](https://codeforces.com/problemset/problem/9/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/9A%20Die%20Roll/9A.cpp)
