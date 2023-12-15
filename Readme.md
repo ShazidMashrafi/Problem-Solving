@@ -202,6 +202,6 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 
 ## 🚀 About Me
 
-I am Shazid, studying Computer Science and Engineering. I am trying to work my way up in the programming world.
-Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codeforces account](https://codeforces.com/profile/shazid456).  
-Want to know more about me? Visit [My website](https://shazidmashrafi.com).
+I am Shazid. I am currently studying Computer Science and Engineering. 
+I am trying to work my way up in the programming world.    
+Visit my [Website](https://shazidmashrafi.com) and [Codeforces](https://codeforces.com/profile/shazid456) account.
