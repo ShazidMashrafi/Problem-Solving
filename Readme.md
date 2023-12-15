@@ -130,7 +130,7 @@ Feel free to check these codes out.
 | 1833A | Musical Puzzle |[Question](https://codeforces.com/contest/1833/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1833A%20Musical%20Puzzle)
 |1833B | Restore the Weather | [Question](https://codeforces.com/contest/1833/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1833B%20Restore%20the%20Weather)
 | 1833C | Vlad Building Beautiful Array | [Question](https://codeforces.com/contest/1833/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1833C%20Vlad%20Building%20Beautiful%20Array/1833C.cpp)
-| 1837A | Grasshopper on a Line | [Question](https://codeforces.com/problemset/problem/1837/A) | [Solution]()
+| 1837A | Grasshopper on a Line | [Question](https://codeforces.com/problemset/problem/1837/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1837A%20Grasshopper%20on%20a%20Line)
 | 1837B | Comparison String | [Question](https://codeforces.com/problemset/problem/1837/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1837B%20Comparison%20String/1837B.cpp)
 | 1841B | Keep it Beautiful | [Question](https://codeforces.com/problemset/problem/1841/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1841B%20Keep%20it%20Beautiful/1841B.cpp)
 | 1843A | Sasha and Array Coloring | [Question](https://codeforces.com/contest/1843/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1843A%20Sasha%20and%20Array%20Coloring/1843A.cpp)
