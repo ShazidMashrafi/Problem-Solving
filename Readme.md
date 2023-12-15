@@ -1,7 +1,7 @@
 # Codeforces Solutions
 
-This repository contains my source codes of Codeforces problems. They are in C++ language.  
-Feel free to check these codes out.
+This repository contains my solutions of Codeforces problems. They are in C++ language.  
+Feel free to check these codes out. Consider starring the repository if it helped you.
 
 <div align="center">
 
@@ -201,5 +201,5 @@ Feel free to check these codes out.
 ## 🚀 About Me
 
 I am Shazid, studying Computer Science and Engineering. I am trying to work my way up in the programming world.
-Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codeforces account ](https://codeforces.com/profile/shazid456).  
+Here is my [Github account](https://github.com/ShazidMashrafi) & my [Codeforces account](https://codeforces.com/profile/shazid456).  
 Want to know more about me? Visit [My website](https://shazidmashrafi.com).
