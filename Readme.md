@@ -10,7 +10,7 @@ Feel free to check these codes out.
 | Problem ID | Problem Name | Question | Solution |
 | :--------: | :----------: | :------: | :------: |
 | 1A | Theater Square | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1A%20Theater%20Square/1A.cpp)
-| 2A | Winner | [Question](https://codeforces.com/contest/1/problem/A) | [Solution] 
+| 2A | Winner | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/2A%20Winner)
 | 4A | Watermelon | [Question](https://codeforces.com/contest/4/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4A%20Watermelon/4A.cpp)
 | 4C | Registration System | [Question](https://codeforces.com/problemset/problem/4/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/4C%20Registration%20System/4C.cpp)
 | 9A | Die Roll | [Question](https://codeforces.com/problemset/problem/9/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/9A%20Die%20Roll/9A.cpp)
@@ -58,8 +58,8 @@ Feel free to check these codes out.
 | 344A | Magnets | [Question](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/344A%20Magnets/344A.cpp)
 | 349A | Cinema Line | [Question](https://codeforces.com/problemset/problem/349/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/349A%20Cinema%20Line/349A.cpp)
 | 411A | Password Check | [Question](https://codeforces.com/problemset/problem/411/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/411A%20Password%20Check/411A.cpp)
-| 421A | Pasha and Hamsters | [Question](https://codeforces.com/problemset/problem/421/A) | [Solution]
-| 456B | Fedya and Maths | [Question](https://codeforces.com/problemset/problem/456/B) | [Solution]
+| 421A | Pasha and Hamsters | [Question](https://codeforces.com/problemset/problem/421/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/421A%20Pasha%20and%20Hamsters)
+| 456B | Fedya and Maths | [Question](https://codeforces.com/problemset/problem/456/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/456B%20Fedya%20and%20Maths)
 | 460 | Plural Form of Nouns | [Question](https://codeforces.com/problemsets/acmsguru/problem/99999/460) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/460%20Plural%20Form%20of%20Nouns/99999460.cpp)
 | 486A | Calculating Function | [Question](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/486A%20Calculating%20Function/486A.cpp)
 | 492A | Vanya and Cubes | [Question](https://codeforces.com/problemset/problem/492/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/492A%20Vanya%20and%20Cubes/492A.cpp)
@@ -70,51 +70,51 @@ Feel free to check these codes out.
 | 584A | Olesya and Rodion | [Question](https://codeforces.com/contest/584/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/584A%20Olesya%20and%20Rodion/584A.cpp)
 | 599A | Patrick and Shopping | [Question](https://codeforces.com/contest/599/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/599A%20Patrick%20and%20Shopping/599A.cpp)
 | 617A | Elephant | [Question](https://codeforces.com/contest/617/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/617A%20Elephant/617A.cpp)
-| 630A | Again Twenty Five! | [Question](https://codeforces.com/contest/630/problem/A) | [Solution]
+| 630A | Again Twenty Five! | [Question](https://codeforces.com/contest/630/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/630A%20Again%20Twenty%20Five!)
 | 677A | Vanya and Fence | [Question](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/677A%20Vanya%20and%20Fence/677A.cpp)
 | 706B | Interesting drink | [Question](https://codeforces.com/problemset/problem/706/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/706B%20Interesting%20drink/706B.cpp)
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/734A%20Anton%20and%20Danik/734A.cpp)
-| 742A | Arpa’s hard exam and Mehrdad’s naive cheat | [Question](https://codeforces.com/problemset/problem/742/A) | [Solution]
+| 742A | Arpa’s hard exam and Mehrdad’s naive cheat | [Question](https://codeforces.com/problemset/problem/742/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/742A%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat)
 | 791A | Bear And Big Brother | [Question](https://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/791A%20Bear%20And%20Big%20Brother/791A.cpp)
-| 854A | Fraction | Question](https://codeforces.com/problemset/problem/854/A) | [Solution]
+| 854A | Fraction | [Question](https://codeforces.com/problemset/problem/854/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/854A%20Fraction)
 | 855A | Tom Riddle's Diary | [Question](https://codeforces.com/problemset/problem/855/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/855A%20Tom%20Riddle's%20Diary/855A.cpp)
 | 977A | Wrong Substraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/977A%20Wrong%20Substraction/977A.cpp)
-| 1118B | Tanya and Candies | [Question](https://codeforces.com/contest/1118/problem/B) | [Solution]
 | 1068A | Birthday | [Question](https://codeforces.com/contest/1068/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1068A%20Birthday/1068A.cpp)
-| 1144C | Two Shuffled Sequences | [Question](https://codeforces.com/problemset/problem/1144/C) | [Solution]
+| 1118B | Tanya and Candies | [Question](https://codeforces.com/contest/1118/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1118B%20Tanya%20and%20Candies)
+| 1144C | Two Shuffled Sequences | [Question](https://codeforces.com/problemset/problem/1144/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1144C%20Two%20Shuffled%20Sequences)
 | 1196A | Three Piles of Candies | [Question](https://codeforces.com/problemset/problem/1196/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1196A%20Three%20Piles%20of%20Candies/1196A.cpp)
 | 1295A | Display The Number | [Question](https://codeforces.com/problemset/problem/1295/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1295A%20Display%20The%20Number/1295A.cpp)
-| 1296A | Array with Odd Sum | [Question](https://codeforces.com/problemset/problem/1296/A) | [Solution]
+| 1296A | Array with Odd Sum | [Question](https://codeforces.com/problemset/problem/1296/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1296A%20Array%20with%20Odd%20Sum)
 | 1311A | Add Odd or Subtract Even | [Question](https://codeforces.com/problemset/problem/1311/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1311A%20Add%20Odd%20or%20Subtract%20Even/1311A.cpp)
 | 1328A | Divisibility Problem | [Question](https://codeforces.com/problemset/problem/1328/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1328A%20Divisibility%20Problem/1328A.cpp)
 | 1341A | Nastya and Rice | [Question](https://codeforces.com/problemset/problem/1341/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1341A%20Nastya%20and%20Rice/1341A.cpp)
 | 1343B | Balanced Array | [Question](https://codeforces.com/contest/1343/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1343B%20Balanced%20Array/1343B.cpp)
-| 1367B | Even Array | [Question](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1367B%20%20Even%20Array/1367B.cpp)
 | 1360B | Honest Coach | [Question](https://codeforces.com/contest/1360/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1360B%20Honest%20Coach/1360B.cpp)
-| 1364A | XXXXX | [Question](https://codeforces.com/problemset/problem/1364/A) | [Solution]
+| 1364A | XXXXX | [Question](https://codeforces.com/problemset/problem/1364/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1364A%20XXXXX)
+| 1367B | Even Array | [Question](https://codeforces.com/problemset/problem/1367/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1367B%20%20Even%20Array/1367B.cpp)
 | 1389A | LCM Problem | [Question](https://codeforces.com/problemset/problem/1389/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1389A%20LCM%20Problem/1389A.cpp)
 | 1399A | Remove Smallest | [Question](https://codeforces.com/problemset/problem/1399/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1399A%20Remove%20Smallest/1399A.cpp)
 | 1426A | Floor Number | [Question](https://codeforces.com/contest/1426/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1426A%20Floor%20Number/1426A.cpp)
 | 1512A | Spy Detected! | [Question](https://codeforces.com/problemset/problem/1512/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1512A%20Spy%20Detected!/1512A.cpp)
 | 1582B | Luntik and Subsequences | [Question](https://codeforces.com/contest/1582/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1582B%20Luntik%20and%20Subsequences/1582B.cpp)
 | 1624B | Make AP | [Question](https://codeforces.com/contest/1624/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1624B%20Make%20AP/1624B.cpp)
-| 1633A | Div. 7 | [Question](https://codeforces.com/problemset/problem/1633/A) | [Solution]
+| 1633A | Div. 7 | [Question](https://codeforces.com/problemset/problem/1633/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1633A%20Div.%207)
 | 1676A | Lucky? | [Question](https://codeforces.com/problemset/problem/1676/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1676A%20Lucky/1676A.cpp)
 | 1692A | Marathon | [Question](https://codeforces.com/problemset/problem/1692/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1692A%20Marathon/1692A.cpp)
 | 1703A | YES or YES? | [Question](https://codeforces.com/problemset/problem/1703/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1703A%20YES%20or%20YES/1703A.cpp)
 | 1719A | Chip Game | [Question](https://codeforces.com/contest/1719/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1719A%20Chip%20Game/1719A.cpp)
-| 1719B | Mathematical Circus | [Question](https://codeforces.com/contest/1719/problem/B) | [Solution]
+| 1719B | Mathematical Circus | [Question](https://codeforces.com/contest/1719/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1719B%20Mathematical%20Circus)
 | 1721B | Deadly Lasers | [Question](https://codeforces.com/problemset/problem/1721/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1721B%20Deadly%20Laser/1721B.cpp)
 | 1742A | Sum | [Question](https://codeforces.com/problemset/problem/1742/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742A%20Sum/1742A.cpp)
 | 1742C | Stripes | [Question](https://codeforces.com/problemset/problem/1742/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1742C%20Stripes/1742C.cpp)
 | 1746B | Rebellion | [Question](https://codeforces.com/problemset/problem/1746/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1746B%20Rebellion/1746B.cpp)
-| 1748A | The Ultimate Square | [Question](https://codeforces.com/problemset/problem/1748/A) | [Solution]
+| 1748A | The Ultimate Square | [Question](https://codeforces.com/problemset/problem/1748/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1748A%20The%20Ultimate%20Square)
 | 1758B | XOR = Average | [Question](https://codeforces.com/problemset/problem/1758/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1758B%20XOR%20%3D%20Average/1758B.cpp)
 | 1760A | Medium Number | [Question](https://codeforces.com/contest/1760/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1760A%20Medium%20Number/1760A.cpp)
 | 1773F | Football | [Question](https://codeforces.com/contest/1773/problem/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1773F%20Football/1773F.cpp)
 | 1791B | Following Directions | [Question](https://codeforces.com/problemset/problem/1791/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1791B%20Following%20Directions/1791B.cpp)
 | 1792A | Gaming Forces | [Question](https://codeforces.com/problemset/problem/1792/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1792A%20Gaming%20Forces/1792A.cpp)
-| 1795B | Ideal Point | [Question](https://codeforces.com/problemset/problem/1795/B) | [Solution]
+| 1795B | Ideal Point | [Question](https://codeforces.com/problemset/problem/1795/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1795B%20Ideal%20Point)
 | 1800A | Is It a Cat? | [Question](https://codeforces.com/contest/1800/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1800A%20Is%20It%20a%20Cat/1800A.cpp)
 | 1811A | Insert Digit | [Question](https://codeforces.com/problemset/problem/1811/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1811A%20Insert%20Digit/1811A.cpp)
 | 1814A | Coins |[Question](https://codeforces.com/problemset/problem/1814/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1814A%20Coins/1814A.cpp)
@@ -127,14 +127,14 @@ Feel free to check these codes out.
 | 1829C | Mr. Perfectly Fine | [Question](https://codeforces.com/problemset/problem/1829/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829C%20Mr.%20Perfectly%20Fine/1829C.cpp)
 | 1829D | Gold Rush | [Question](https://codeforces.com/problemset/problem/1829/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1829D%20Gold%20Rush/1829D.cpp)
 | 1832A | New Palindrome | [Question](https://codeforces.com/problemset/problem/1832/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1832A%20New%20Palindrome/1832A.cpp)
-| 1833A | Musical Puzzle |[Question](https://codeforces.com/contest/1833/problem/A) | [Solution]
-|1833B | Restore the Weather | [Question](https://codeforces.com/contest/1833/problem/B) | [Solution]
+| 1833A | Musical Puzzle |[Question](https://codeforces.com/contest/1833/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1833A%20Musical%20Puzzle)
+|1833B | Restore the Weather | [Question](https://codeforces.com/contest/1833/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1833B%20Restore%20the%20Weather)
 | 1833C | Vlad Building Beautiful Array | [Question](https://codeforces.com/contest/1833/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1833C%20Vlad%20Building%20Beautiful%20Array/1833C.cpp)
 | 1837A | Grasshopper on a Line | [Question](https://codeforces.com/problemset/problem/1837/A) | [Solution]()
 | 1837B | Comparison String | [Question](https://codeforces.com/problemset/problem/1837/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1837B%20Comparison%20String/1837B.cpp)
 | 1841B | Keep it Beautiful | [Question](https://codeforces.com/problemset/problem/1841/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1841B%20Keep%20it%20Beautiful/1841B.cpp)
 | 1843A | Sasha and Array Coloring | [Question](https://codeforces.com/contest/1843/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1843A%20Sasha%20and%20Array%20Coloring/1843A.cpp)
-| 1843B | Long Long | [Question](https://codeforces.com/contest/1843/problem/B) | [Solution]
+| 1843B | Long Long | [Question](https://codeforces.com/contest/1843/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1843B%20Long%20Long)
 | 1844A | Subtraction Game | [Question](https://codeforces.com/contest/1844/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1844A%20Subtraction%20Game/1844A.cpp)
 | 1845A | Forbidden Integer | [Question](https://codeforces.com/problemset/problem/1845/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1845A%20Forbidden%20Integer/1845A.cpp)
 | 1846A | Rudolph and Cut the Rope | [Question](https://codeforces.com/contest/1846/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1846A%20Rudolph%20and%20Cut%20the%20Rope/1846A.cpp)
@@ -142,60 +142,60 @@ Feel free to check these codes out.
 | 1846C | Rudolf and the Another Competition | [Question](https://codeforces.com/contest/1846/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1846C%20Rudolf%20and%20the%20Another%20Competition/1846C.cpp)
 | 1848A | Vika and Her Friends | [Question](https://codeforces.com/contest/1848/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1848A%20Vika%20and%20Her%20Friends/1848A.cpp)
 | 1849A | Morning Sandwich | [Question](https://codeforces.com/problemset/problem/1849/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1849A%20Morning%20Sandwich/1849A.cpp)
-| 1849B | Monsters | [Question](https://codeforces.com/problemset/problem/1849/B) | [Solution]
+| 1849B | Monsters | [Question](https://codeforces.com/problemset/problem/1849/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/1849A%20Morning%20Sandwich)
 | 1850A | To My Critics | [Question](https://codeforces.com/contest/1850/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850A%20To%20My%20Critics/1850A.cpp)
 | 1850B | Ten Words of Wisdom | [Question](https://codeforces.com/contest/1850/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850B%20Ten%20Words%20of%20Wisdom/1850B.cpp)
 | 1850C | Word on the Paper | [Question](https://codeforces.com/contest/1850/problem/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850C%20Word%20on%20the%20Paper/1850C.cpp)
 | 1850D | Balanced Round | [Question](https://codeforces.com/problemset/problem/1850/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1850D%20Balanced%20Round/1850D.cpp)
 | 1851A | Escalator Conversations | [Question](https://codeforces.com/problemset/problem/1851/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851A%20Escalator%20Conversations/1851A.cpp)
 | 1851B | Parity Sort | [Question](https://codeforces.com/problemset/problem/1851/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851B%20Parity%20Sort/1851B.cpp)
-| 1851C | Tiles Comeback | [Question](https://codeforces.com/problemset/problem/1851/C) | [Solution]
+| 1851C | Tiles Comeback | [Question](https://codeforces.com/problemset/problem/1851/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1851C%20Tiles%20Comeback)
 | 1853A | Desorting | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1853A%20Desorting/1853A.cpp)
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1855A%20Dalton%20the%20Teacher/1855A.cpp)
-| 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution]
-| 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution]
-| 1857B | Maximum Rounding | [Question](https://codeforces.com/problemset/problem/1857/B) | [Solution]
-| 1857C | Assembly via Minimums | [Question](https://codeforces.com/problemset/problem/1857/C) | [Solution]
-| 1858A | Buttons | [Question](https://codeforces.com/problemset/problem/1858/A) | [Solution]
-| 1859A | United We Stand | [Question](https://codeforces.com/problemset/problem/1859/A) |  [Solution]
-| 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution]
-| 1862B | Sequence Game | [Question](https://codeforces.com/problemset/problem/1862/B) |  [Solution]
-| 1863A | Channel | [Question](https://codeforces.com/problemset/problem/1863/A) |  [Solution]
-| 1864A | Increasing and Decreasing | [Question](https://codeforces.com/problemset/problem/1864/A) | [Solution]
-| 1866A | Ambitious Kid | [Question](https://codeforces.com/problemset/problem/1866/A) |  [Solution]
-| 1869A | Make It Zero | [Question](https://codeforces.com/problemset/problem/1869/A) |  [Solution]
-| 1870A | MEXanized Array | [Question](https://codeforces.com/problemset/problem/1870/A) |  [Solution]
-| 1872A | Two Vessels | [Question](https://codeforces.com/problemset/problem/1872/A) |  [Solution]
-| 1872B | The Corridor or There and Back Again | [Question](https://codeforces.com/problemset/problem/1872/B) |  [Solution]
-| 1872C | Non-coprime Split | [Question](https://codeforces.com/problemset/problem/1872/C) |  [Solution]
-| 1873A | Short Sort | [Question](https://codeforces.com/problemset/problem/1873/A) |  [Solution]
-| 1873B | Good Kid | [Question](https://codeforces.com/problemset/problem/1873/B) |  [Solution] 
-| 1873C | Target Practice | [Question](https://codeforces.com/problemset/problem/1873/C) |  [Solution]
-| 1873D | 1D Eraser | [Question](https://codeforces.com/problemset/problem/1873/D) | [Solution]
-| 1875A | Jellyfish and Undertale | [Question](https://codeforces.com/problemset/problem/1875/A) | [Solution]
-| 1878A | How Much Does Daytona Cost? | [Question](https://codeforces.com/problemset/problem/1878/A) | [Solution]
-| 1878B | Aleksa and Stack | [Question](https://codeforces.com/problemset/problem/1878/B) | [Solution]
-| 1878C | Vasilije in Cacak | [Question](https://codeforces.com/problemset/problem/1878/C) | [Solution]
-| 1879A | Rigged! | [Question](https://codeforces.com/problemset/problem/1879/A) | [Solution]
-| 1879B | Chips on the Board | [Question](https://codeforces.com/problemset/problem/1879/B) | [Solution]
-| 1881A | Don't Try to Count | [Question](https://codeforces.com/problemset/problem/1881/A) | [Solution]
-| 1881B | Three Threadlets | [Question](https://codeforces.com/problemset/problem/1881/B) | [Solution]
-| 1881C | Perfect Square | [Question](https://codeforces.com/problemset/problem/1881/C) | [Solution]
-| 1883B | Chemistry | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
-| 1894A | Secret Sport | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
-| 1895A | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution]
-| 1895B | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/B) | [Solution]
-| 1896A | Jagged Swaps | [Question](https://codeforces.com/problemset/problem/1896/A) | [Solution]
-| 1896B | AB Flipping | [Question](https://codeforces.com/problemset/problem/1896/B) | [Solution]
-| 1898A | Milica and String | [Question](https://codeforces.com/problemset/problem/1898/A) | [Solution]
-| 1899A | Game with Integers | [Question](https://codeforces.com/problemset/problem/1899/A) | [Solution]
-| 1900A | Cover in Water | [Question](https://codeforces.com/problemset/problem/1900/A) | [Solution]
-| 1900B | Laura and Operations | [Question](https://codeforces.com/problemset/problem/1900/B) | [Solution]
-| 1901A | Line Trip | [Question](https://codeforces.com/problemset/problem/1901/A) | [Solution]
-| 1904A | Forked! | [Question](https://codeforces.com/problemset/problem/1904/A) | [Solution]
-| 1907A | Rook | [Question](https://codeforces.com/problemset/problem/1907/A) | [Solution]
-| 1907B | YetnotherrokenKeoard | [Question](https://codeforces.com/problemset/problem/1907/B) | [Solution]
-| 1907C | Removal of Unattractive Pairs | [Question](https://codeforces.com/problemset/problem/1907/C) | [Solution]
+| 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1856B%20Good%20Arrays/1856B.cpp)
+| 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1857A%20%20Array%20Coloring/1857A.cpp)
+| 1857B | Maximum Rounding | [Question](https://codeforces.com/problemset/problem/1857/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1857B%20Maximum%20Rounding/1857B.cpp)
+| 1857C | Assembly via Minimums | [Question](https://codeforces.com/problemset/problem/1857/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1857C%20Assembly%20via%20Minimums/1857C.cpp)
+| 1858A | Buttons | [Question](https://codeforces.com/problemset/problem/1858/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1858A%20Buttons/1858A.cpp)
+| 1859A | United We Stand | [Question](https://codeforces.com/problemset/problem/1859/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1859A%20United%20We%20Stand/1859A.cpp)
+| 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1862A%20Gift%20Carpet/1862A.cpp)
+| 1862B | Sequence Game | [Question](https://codeforces.com/problemset/problem/1862/B) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1862B%20Sequence%20Game/1862B.cpp)
+| 1863A | Channel | [Question](https://codeforces.com/problemset/problem/1863/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1863A%20Channel/1863A.cpp)
+| 1864A | Increasing and Decreasing | [Question](https://codeforces.com/problemset/problem/1864/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1864A%20Increasing%20and%20Decreasing/1864A.cpp)
+| 1866A | Ambitious Kid | [Question](https://codeforces.com/problemset/problem/1866/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1866A%20Ambitious%20Kid/1866A.cpp)
+| 1869A | Make It Zero | [Question](https://codeforces.com/problemset/problem/1869/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1869A%20Make%20It%20Zero/1869A.cpp)
+| 1870A | MEXanized Array | [Question](https://codeforces.com/problemset/problem/1870/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1870A%20MEXanized%20Array/1870A.cpp)
+| 1872A | Two Vessels | [Question](https://codeforces.com/problemset/problem/1872/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1872A%20Two%20Vessels/1872A.cpp)
+| 1872B | The Corridor or There and Back Again | [Question](https://codeforces.com/problemset/problem/1872/B) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1872B%20The%20Corridor%20or%20There%20and%20Back%20Again/1872B.cpp)
+| 1872C | Non-coprime Split | [Question](https://codeforces.com/problemset/problem/1872/C) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1872C%20Non-coprime%20Split/1872C.cpp)
+| 1873A | Short Sort | [Question](https://codeforces.com/problemset/problem/1873/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1873A%20Short%20Sort/1873A.cpp)
+| 1873B | Good Kid | [Question](https://codeforces.com/problemset/problem/1873/B) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1873B%20Good%20Kid/1873B.cpp) 
+| 1873C | Target Practice | [Question](https://codeforces.com/problemset/problem/1873/C) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1873C%20Target%20Practice/1873C.cpp)
+| 1873D | 1D Eraser | [Question](https://codeforces.com/problemset/problem/1873/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1873D%201D%20Eraser/1873D.cpp)
+| 1875A | Jellyfish and Undertale | [Question](https://codeforces.com/problemset/problem/1875/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1875A%20Jellyfish%20and%20Undertale/1875A.cpp)
+| 1878A | How Much Does Daytona Cost? | [Question](https://codeforces.com/problemset/problem/1878/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1878A%20How%20Much%20Does%20Daytona%20Cost/1878A.cpp)
+| 1878B | Aleksa and Stack | [Question](https://codeforces.com/problemset/problem/1878/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1878B%20Aleksa%20and%20Stack/1878B.cpp)
+| 1878C | Vasilije in Cacak | [Question](https://codeforces.com/problemset/problem/1878/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1878C%20Vasilije%20in%20Cacak/1878C.cpp)
+| 1879A | Rigged! | [Question](https://codeforces.com/problemset/problem/1879/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1879A%20Rigged!/1879A.cpp)
+| 1879B | Chips on the Board | [Question](https://codeforces.com/problemset/problem/1879/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1879B%20Chips%20on%20the%20Board/1879B.cpp)
+| 1881A | Don't Try to Count | [Question](https://codeforces.com/problemset/problem/1881/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1881A%20Don't%20Try%20to%20Count/1881A.cpp)
+| 1881B | Three Threadlets | [Question](https://codeforces.com/problemset/problem/1881/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1881B%20Three%20Threadlets/1881B.cpp)
+| 1881C | Perfect Square | [Question](https://codeforces.com/problemset/problem/1881/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1881C%20Perfect%20Square/1881C.cpp)
+| 1883B | Chemistry | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1883B%20Chemistry/1883B.cpp)
+| 1894A | Secret Sport | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1894A%20Secret%20Sport/1894A.cpp)
+| 1895A | Treasure Chest | [Question](https://codeforces.com/problemset/problem/1895/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1895A%20Treasure%20Chest/1895A.cpp)
+| 1895B | Points and Minimum Distance | [Question](https://codeforces.com/problemset/problem/1895/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1895B%20Points%20and%20Minimum%20Distance/1895B.cpp)
+| 1896A | Jagged Swaps | [Question](https://codeforces.com/problemset/problem/1896/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1896A%20Jagged%20Swaps/1896A.cpp)
+| 1896B | AB Flipping | [Question](https://codeforces.com/problemset/problem/1896/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1896B%20AB%20Flipping/1896B.cpp)
+| 1898A | Milica and String | [Question](https://codeforces.com/problemset/problem/1898/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1898A%20Milica%20and%20String/1898A.cpp)
+| 1899A | Game with Integers | [Question](https://codeforces.com/problemset/problem/1899/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1899A%20Game%20with%20Integers/1899A.cpp)
+| 1900A | Cover in Water | [Question](https://codeforces.com/problemset/problem/1900/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1900A%20Cover%20in%20Water/1900A.cpp)
+| 1900B | Laura and Operations | [Question](https://codeforces.com/problemset/problem/1900/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1900B%20Laura%20and%20Operations/1900B.cpp)
+| 1901A | Line Trip | [Question](https://codeforces.com/problemset/problem/1901/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1901A%20Line%20Trip/1901A.cpp)
+| 1904A | Forked! | [Question](https://codeforces.com/problemset/problem/1904/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1904A%20Forked!/1904A.cpp)
+| 1907A | Rook | [Question](https://codeforces.com/problemset/problem/1907/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1907A%20Rook/1907A.cpp)
+| 1907B | YetnotherrokenKeoard | [Question](https://codeforces.com/problemset/problem/1907/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1907B%20YetnotherrokenKeoard/1907B.cpp)
+| 1907C | Removal of Unattractive Pairs | [Question](https://codeforces.com/problemset/problem/1907/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/blob/master/1907C%20Removal%20of%20Unattractive%20Pairs/1907C.cpp)
 </div>
 
 ## 🚀 About Me
