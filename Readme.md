@@ -163,6 +163,7 @@ Feel free to check these codes out.
 | 1863A | Channel | [Question](https://codeforces.com/problemset/problem/1863/A) |  [Solution]
 | 1864A | Increasing and Decreasing | [Question](https://codeforces.com/problemset/problem/1864/A) | [Solution]
 | 1866A | Ambitious Kid | [Question](https://codeforces.com/problemset/problem/1866/A) |  [Solution]
+| 1869A | Make It Zero | [Question](https://codeforces.com/problemset/problem/1869/A) |  [Solution]
 | 1870A | MEXanized Array | [Question](https://codeforces.com/problemset/problem/1870/A) |  [Solution]
 | 1872A | Two Vessels | [Question](https://codeforces.com/problemset/problem/1872/A) |  [Solution]
 | 1872B | The Corridor or There and Back Again | [Question](https://codeforces.com/problemset/problem/1872/B) |  [Solution]
