@@ -197,6 +197,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1904A | Forked! | [Question](https://codeforces.com/problemset/problem/1904/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1904A%20Forked!)
 | 1905A | Constructive Problems | [Question](https://codeforces.com/problemset/problem/1905/A) | [Solution]
 | 1905B | Begginer's Zelda | [Question](https://codeforces.com/problemset/problem/1905/B) | [Solution]
+| 1905C | Largest Subsequence | [Question](https://codeforces.com/problemset/problem/1905/C) | [Solution]
 | 1907A | Rook | [Question](https://codeforces.com/problemset/problem/1907/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1907A%20Rook)
 | 1907B | YetnotherrokenKeoard | [Question](https://codeforces.com/problemset/problem/1907/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1907B%20YetnotherrokenKeoard)
 | 1907C | Removal of Unattractive Pairs | [Question](https://codeforces.com/problemset/problem/1907/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1907C%20Removal%20of%20Unattractive%20Pairs)
