@@ -159,6 +159,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1857C | Assembly via Minimums | [Question](https://codeforces.com/problemset/problem/1857/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1857C%20Assembly%20via%20Minimums)
 | 1858A | Buttons | [Question](https://codeforces.com/problemset/problem/1858/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1858A%20Buttons)
 | 1859A | United We Stand | [Question](https://codeforces.com/problemset/problem/1859/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1859A%20United%20We%20Stand)
+| 1860A | Not a Substring | [Question](https://codeforces.com/problemset/problem/1860/A) |  [Solution]
 | 1862A | Gift Carpet | [Question](https://codeforces.com/problemset/problem/1862/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1862A%20Gift%20Carpet)
 | 1862B | Sequence Game | [Question](https://codeforces.com/problemset/problem/1862/B) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1862B%20Sequence%20Game)
 | 1863A | Channel | [Question](https://codeforces.com/problemset/problem/1863/A) |  [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1863A%20Channel)
