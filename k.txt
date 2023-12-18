@@ -1,15 +1,3 @@
-# Codeforces Solutions
-
-This repository contains my solutions of Codeforces problems. They are in C++ language.  
-
-#### If this repository helped you out, please consider giving it a :star:.
-
-<div align="center">
-
-## Index 
-
-| Problem ID | Problem Name | Question | Solution |
-| :--------: | :----------: | :------: | :------: |
 | 1A | Theater Square | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1A%20Theater%20Square)
 | 2A | Winner | [Question](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2A%20Winner)
 | 4A | Watermelon | [Question](https://codeforces.com/contest/4/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/4A%20Watermelon)
@@ -210,11 +198,3 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1912L | LOL Lovers | [Question](https://codeforces.com/problemset/problem/1912/L) | [Solution]
 | 1913A | Rating Increase | [Question](https://codeforces.com/problemset/problem/1913/A) | [Solution]
 | 1913B | Swap and Delete | [Question](https://codeforces.com/problemset/problem/1913/B) | [Solution]
-
-</div>
-
-## 🚀 About Me
-
-I am Shazid Mashrafi.  
-I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.     
-Visit my [Website](https://shazidmashrafi.com) and [Codeforces](https://codeforces.com/profile/shazid456) account.
