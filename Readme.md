@@ -135,6 +135,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1837A | Grasshopper on a Line | [Question](https://codeforces.com/problemset/problem/1837/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1837A%20Grasshopper%20on%20a%20Line)
 | 1837B | Comparison String | [Question](https://codeforces.com/problemset/problem/1837/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1837B%20Comparison%20String)
 | 1841B | Keep it Beautiful | [Question](https://codeforces.com/problemset/problem/1841/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1841B%20Keep%20it%20Beautiful)
+| 1842C | Stripes | [Question](https://codeforces.com/problemset/problem/1842/C) 
 | 1843A | Sasha and Array Coloring | [Question](https://codeforces.com/contest/1843/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1843A%20Sasha%20and%20Array%20Coloring)
 | 1843B | Long Long | [Question](https://codeforces.com/contest/1843/problem/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1843B%20Long%20Long)
 | 1844A | Subtraction Game | [Question](https://codeforces.com/contest/1844/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1844A%20Subtraction%20Game)
