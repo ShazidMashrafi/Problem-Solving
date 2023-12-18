@@ -203,7 +203,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1907B | YetnotherrokenKeoard | [Question](https://codeforces.com/problemset/problem/1907/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1907B%20YetnotherrokenKeoard)
 | 1907C | Removal of Unattractive Pairs | [Question](https://codeforces.com/problemset/problem/1907/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1907C%20Removal%20of%20Unattractive%20Pairs)
 | 1912L | LOL Lovers | [Question](https://codeforces.com/problemset/problem/1912/L) | [Solution]
-
+| 1913A | Rating Increase | [Question](https://codeforces.com/problemset/problem/1913/A) | [Solution]
 </div>
 
 ## 🚀 About Me
