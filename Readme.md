@@ -153,6 +153,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1851C | Tiles Comeback | [Question](https://codeforces.com/problemset/problem/1851/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1851C%20Tiles%20Comeback)
 | 1853A | Desorting | [Question](https://codeforces.com/contest/1853/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1853A%20Desorting)
 | 1855A | Dalton the Teacher | [Question](https://codeforces.com/contest/1855/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1855A%20Dalton%20the%20Teacher)
+| 1855B | Longest Divisors Interval | [Question](https://codeforces.com/problemset/problem/1855/B) | [Solution]
 | 1856B | Good Arrays | [Question](https://codeforces.com/problemset/problem/1856/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1856B%20Good%20Arrays)
 | 1857A | Array Coloring | [Question](https://codeforces.com/problemset/problem/1857/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1857A%20%20Array%20Coloring)
 | 1857B | Maximum Rounding | [Question](https://codeforces.com/problemset/problem/1857/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1857B%20Maximum%20Rounding)
