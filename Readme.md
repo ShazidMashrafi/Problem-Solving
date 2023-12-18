@@ -73,6 +73,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 617A | Elephant | [Question](https://codeforces.com/contest/617/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/617A%20Elephant)
 | 630A | Again Twenty Five! | [Question](https://codeforces.com/contest/630/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/630A%20Again%20Twenty%20Five!)
 | 677A | Vanya and Fence | [Question](https://codeforces.com/problemset/problem/677/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/677A%20Vanya%20and%20Fence)
+| 705A | Hulk | [Question](https://codeforces.com/problemset/problem/705/A) | [Solution]
 | 706B | Interesting drink | [Question](https://codeforces.com/problemset/problem/706/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/706B%20Interesting%20drink)
 | 734A | Anton and Danik | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/734A%20Anton%20and%20Danik)
 | 742A | Arpa’s hard exam and Mehrdad’s naive cheat | [Question](https://codeforces.com/problemset/problem/742/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/742A%20Arpa%E2%80%99s%20hard%20exam%20and%20Mehrdad%E2%80%99s%20naive%20cheat)
