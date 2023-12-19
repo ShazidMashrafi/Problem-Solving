@@ -59,35 +59,22 @@ template <class T, class V> void _print(unordered_map <T, V> v) {cerr << "[ "; f
 
 void solve()
 {
-    string s,pre,post;
+    string s;
     cin>>s;
-    int p=0,q=0;
-    for(int i=0; i<sz(s); ++i)
+    for(int i=1; i<sz(s); ++i)
     {
-        if(s[i]!='0')
+        string a=s.substr(0,i);
+        string b=s.substr(i);
+
+        int x=stoi(a);
+        int y=stoi(b);
+        if(x<y && a[0]!='0' && b[0]!='0')
         {
-            p=i;
-            break;
+            cout<<x<<" "<<y<<endl;
+            return;
         }
     }
-    pre.pb(s[p]);
-    for(int i=p+1; i<sz(s); ++i)
-    {
-        if(s[i]=='0')
-            pre.pb(s[i]);
-        else
-        {
-            q=i;
-            break;
-        }
-    }
-    for(int i=q; i<sz(s); ++i)
-        post.pb(s[i]);
-    int a=stoi(pre), b=stoi(post);
-    if(a>=b)
-        cout<<-1<<endl;
-    else
-        cout<<pre<<" "<<post<<endl;
+    cout<<-1<<endl;
 }
 
 int32_t main()
