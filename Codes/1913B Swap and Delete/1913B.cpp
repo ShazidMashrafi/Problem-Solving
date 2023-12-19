@@ -61,54 +61,21 @@ void solve()
 {
     string s;
     cin>>s;
-    if(sz(s)==1)
+    int n=sz(s);
+    vector<int>cnt(2,0);
+    for(int i=0; i<n; ++i)
+        cnt[s[i]-'0']++;
+    for(int i=0; i<n; ++i)
     {
-        cout<<1<<endl;
-        return;
-    }
-    int ct0=0, ct1=0;
-    for(auto c:s)
-    {
-        if(c=='0')
-            ct0++;
-        else
-            ct1++;
-    }
-    if(ct1==ct0)
-    {
-        cout<<0<<endl;
-        return;
-    }
-    int ans=0,diff;
-    if(ct1>ct0)
-    {
-        diff=ct1-ct0;
-        for(int i=sz(s); i>=0; --i)
+        int x=(s[i]-'0')^1;
+        if(cnt[x]==0)
         {
-            if(s[i]=='1')
-            {
-                diff--;
-            }
-            if(diff==0)
-                break;
-            ans++;
+            cout<< n-i<<endl;
+            return;
         }
+        cnt[x]--;
     }
-    else
-    {
-        diff=ct0-ct1;
-        for(int i=sz(s); i>=0; --i)
-        {
-            if(s[i]=='0')
-            {
-                diff--;
-            }
-            if(diff==0)
-                break;
-            ans++;
-        }
-    }
-    cout<<ans<<endl;
+    cout<<0<<endl;
 }
 
 int32_t main()
