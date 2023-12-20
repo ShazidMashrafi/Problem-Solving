@@ -210,6 +210,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1912L | LOL Lovers | [Question](https://codeforces.com/problemset/problem/1912/L) | [Solution]
 | 1913A | Rating Increase | [Question](https://codeforces.com/problemset/problem/1913/A) | [Solution]
 | 1913B | Swap and Delete | [Question](https://codeforces.com/problemset/problem/1913/B) | [Solution]
+| 1914A | Problemsolving Log | [Question](https://codeforces.com/problemset/problem/1914/A) | [Solution]
+| 1914B | Preparing for the Contest | [Question](https://codeforces.com/problemset/problem/1914/B) | [Solution]
+| 1914C | Quests | [Question](https://codeforces.com/problemset/problem/1914/C) | [Solution]
 
 </div>
 
