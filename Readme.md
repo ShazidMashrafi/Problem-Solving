@@ -213,6 +213,8 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1914A | Problemsolving Log | [Question](https://codeforces.com/problemset/problem/1914/A) | [Solution]
 | 1914B | Preparing for the Contest | [Question](https://codeforces.com/problemset/problem/1914/B) | [Solution]
 | 1914C | Quests | [Question](https://codeforces.com/problemset/problem/1914/C) | [Solution]
+| 1914D | Three Activities | [Question](https://codeforces.com/problemset/problem/1914/D) | [Solution]
+
 
 </div>
 
