@@ -2,7 +2,7 @@
 
 This repository contains my solutions of Codeforces problems. They are in C++ language.  
 
-#### If this repository helped you out, please consider giving it a :star:.
+#### If this repository helped you out, please consider giving it a :star:
 
 <div align="center">
 
@@ -62,7 +62,8 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 421A | Pasha and Hamsters | [Question](https://codeforces.com/problemset/problem/421/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/421A%20Pasha%20and%20Hamsters)
 | 456B | Fedya and Maths | [Question](https://codeforces.com/problemset/problem/456/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/456B%20Fedya%20and%20Maths)
 | 460 | Plural Form of Nouns | [Question](https://codeforces.com/problemsets/acmsguru/problem/99999/460) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/460%20Plural%20Form%20of%20Nouns)
-| 486A | Calculating Function | [Question](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/486A%20Calculating%20Function)
+| 474B | Worms | [Question](https://codeforces.com/problemset/problem/474/B) | [Solution]
+| 486A | Calculating Function | [Question](https://codeforces.com/problemset/problem/486/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/486A%20Calculating%20Function)
 | 492A | Vanya and Cubes | [Question](https://codeforces.com/problemset/problem/492/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/492A%20Vanya%20and%20Cubes)
 | 492B | Vanya and Lanterns | [Question](https://codeforces.com/problemset/problem/492/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/492A%20Vanya%20and%20Cubes)
 | 510A | Fox And Snake | [Question](https://codeforces.com/problemset/problem/510/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/510A%20Fox%20And%20Snake)
