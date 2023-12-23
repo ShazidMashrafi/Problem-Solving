@@ -200,6 +200,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1900A | Cover in Water | [Question](https://codeforces.com/problemset/problem/1900/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1900A%20Cover%20in%20Water)
 | 1900B | Laura and Operations | [Question](https://codeforces.com/problemset/problem/1900/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1900B%20Laura%20and%20Operations)
 | 1901A | Line Trip | [Question](https://codeforces.com/problemset/problem/1901/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1901A%20Line%20Trip)
+| 1902A | Binary Imbalance | [Question](https://codeforces.com/problemset/problem/1902/A) | [Solution]
 | 1903A | Halloumi Boxes | [Question](https://codeforces.com/problemset/problem/1903/A) | [Solution]
 | 1904A | Forked! | [Question](https://codeforces.com/problemset/problem/1904/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1904A%20Forked!)
 | 1904B | Collecting Game | [Question](https://codeforces.com/problemset/problem/1904/B) | [Solution]
