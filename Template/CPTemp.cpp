@@ -4,6 +4,7 @@ using namespace std;
 // Short forms
 #define int                 long long
 #define ll                  long long
+#define ull                 unsigned long long
 #define endl                '\n'
 #define ff                  first
 #define ss                  second
@@ -17,20 +18,23 @@ using namespace std;
 
 // Constants
 #define PI                  3.141592653589793238
+#define MIN                 INT_MIN
+#define MAX                 INT_MAX
 #define INF                 LONG_LONG_MAX
-#define MOD                 1e9+7
+#define M                   1000000007
+#define LLM                 1000000000000000007
 
 // Faster Input Output
 #define FAST_IO             (ios_base:: sync_with_stdio(false),cin.tie(NULL));
 
 // Maths
-ll fact(ll n)          { if(n==0) return 1; ll res = 1; for (ll i = 2; i <= n; i++) res = res * i; return res; }
-ll nPr(ll n, ll r)     { return fact(n) / fact(n - r); }
-ll nCr(ll n, ll r)     { return fact(n) / (fact(r) * fact(n - r)); }
-ll gcd(ll a, ll b)     { if (b == 0) return a; return gcd(b, a % b); }
-ll lcm(ll a, ll b)     { return (a * b) / gcd(a, b);}
-ll mypow(ll a, ll b)   { ll ans = 1; while(b){ if (b&1) ans = (ans*a) ; b /= 2; a = (a*a); } return ans; }
-bool isPrime(ll n)     { if(n <= 1) return false; for(ll i = 2; i <= sqrt(n); i++) if(n % i == 0) return false; return true; }
+ll fact(ll n)                   { if(n==0) return 1; ll res = 1; for (ll i = 2; i <= n; i++) res = res * i; return res; }
+ll nPr(ll n, ll r)              { return fact(n) / fact(n - r); }
+ll nCr(ll n, ll r)              { return fact(n) / (fact(r) * fact(n - r)); }
+ll gcd(ll a, ll b)              { if (b == 0) return a; return gcd(b, a % b); }
+ll lcm(ll a, ll b)              { return (a * b) / gcd(a, b);}
+ull mypow(ull a, ull b)         { ull ans = 1; a%=M; while(b){ if (b&1) ans = (ans*a) % M; a = (a*a) % M; b >>= 1; } return ans; }
+bool isPrime(ll n)              { if(n <= 1) return false; for(ll i = 2; i <= sqrt(n); i++) if(n % i == 0) return false; return true; }
 
 //Debugging
 #ifndef ONLINE_JUDGE
