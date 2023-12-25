@@ -221,6 +221,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1914D | Three Activities | [Question](https://codeforces.com/problemset/problem/1914/D) | [Solution]
 | 1914E1 | Game with Marbles (Easy Version) | [Question](https://codeforces.com/problemset/problem/1914/E1) | [Solution]
 | 1914E2 | Game with Marbles (Hard Version)	| [Question](https://codeforces.com/problemset/problem/1914/E2) | [Solution]
+| 1917A | Least Product	| [Question](https://codeforces.com/problemset/problem/1917/A) | [Solution]
 
 
 </div>
