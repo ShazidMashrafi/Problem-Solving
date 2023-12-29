@@ -56,7 +56,7 @@ template <class T, class V> void _print(unordered_map <T, V> v) {cerr << "[ "; f
 
 bool is_v(char ch)
 {
-    return ch=='a' || ch=='e';
+    return ch=='a' || ch=='e'; 
 }
 
 void solve()
@@ -64,27 +64,22 @@ void solve()
     int n;
     string s,ans;
     cin>>n>>s;
-    for(int i=0; i<n; i+=2)
+    for(int i=n-1; i>=0; --i)
     {
-        if(i+3<n && is_v(s[i+3]))
+        if(is_v(s[i]) && !is_v(s[i-1]))
         {
             ans.pb(s[i]);
-            ans.pb(s[i+1]);
+            ans.pb(s[i-1]);
             ans.pb('.');
+            --i;
         }
         else
-        {
             ans.pb(s[i]);
-            ans.pb(s[i+1]);
-            ans.pb(s[i+2]);
-            ans.pb('.');
-            i++;
-        }
     }
     ans.pop_back();
-    if(is_v(s[n-1]))
-        ans.pop_back();
+    reverse(all(ans));
     cout<<ans<<endl;
+    
 }
 
 int32_t main()
