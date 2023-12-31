@@ -176,7 +176,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1873 A | Short Sort | [Question](https://codeforces.com/problemset/problem/1873/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1873%20A%20-%20Short%20Sort)
 | 1873 B | Good Kid | [Question](https://codeforces.com/problemset/problem/1873/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1873%20B%20-%20Good%20Kid)
 | 1873 C | Target Practice | [Question](https://codeforces.com/problemset/problem/1873/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1873%20C%20-%20Target%20Practice)
-| 1873 D | 1 D Eraser | [Question](https://codeforces.com/problemset/problem/1873/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1873%20D%20-%201%20D%20Eraser)
+| 1873 D | 1D Eraser | [Question](https://codeforces.com/problemset/problem/1873/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1873%20D%20-%201D%20Eraser)
 | 1875 A | Jellyfish and Undertale | [Question](https://codeforces.com/problemset/problem/1875/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1875%20A%20-%20Jellyfish%20and%20Undertale)
 | 1878 A | How Much Does Daytona Cost | [Question](https://codeforces.com/problemset/problem/1878/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1878%20A%20-%20How%20Much%20Does%20Daytona%20Cost)
 | 1878 B | Aleksa and Stack | [Question](https://codeforces.com/problemset/problem/1878/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1878%20B%20-%20Aleksa%20and%20Stack)

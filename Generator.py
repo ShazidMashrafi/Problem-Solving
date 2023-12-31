@@ -1,7 +1,7 @@
 import os
 
 folder_path = "D:\Programming\Problems solves\Codeforces\Codes"
-output_file = "D:\Programming\Problems solves\Codeforces\Readme Generator\Readme.txt" 
+output_file = "D:\Programming\Problems solves\Codeforces\Readme.md" 
 
 qs = "[Question](https://codeforces.com/problemset/problem/"
 sol = "[Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/"
@@ -21,18 +21,18 @@ for folder_name in folder_names:
 
 entries.sort(key=lambda x: int(x.split(' ')[0]))
 
-Intro_file = "D:\Programming\Problems solves\Codeforces\Readme Generator\Assets\Start.txt"
-About_file = "D:\Programming\Problems solves\Codeforces\Readme Generator\Assets\End.txt"
+Intro_file = "D:\Programming\Problems solves\Codeforces\Readme Generator Assets\Intro section.txt"
+Outro_file = "D:\Programming\Problems solves\Codeforces\Readme Generator Assets\Outro section.txt"
 
 with open(Intro_file, 'r') as start:
     intro_lines = start.readlines()
 
-with open(About_file, 'r') as end:
-    about_lines = end.readlines()
+with open(Outro_file, 'r') as end:
+    outro_lines = end.readlines()
 
 with open(output_file, 'w') as file:
         file.write(''.join(intro_lines))
         file.write('\n| ')
         file.write('\n| '.join(entries))
         file.write('\n')
-        file.write(''.join(about_lines))
+        file.write(''.join(outro_lines))
