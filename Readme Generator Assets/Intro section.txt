@@ -8,5 +8,5 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 
 ## Index 
 #### Sorted by Problem ID 
-| Problem ID | Problem Name | Question | Solution |
-| :--------: | :----------: | :------: | :------: |
+|  Index  | Problem ID | Problem Name | Question | Solution |
+| :-----: |  :--------: | :----------: | :------: | :------: |
