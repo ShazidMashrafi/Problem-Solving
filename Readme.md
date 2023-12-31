@@ -225,8 +225,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 213 | 1915 E | Romantic Glasses | [Question](https://codeforces.com/problemset/problem/1915/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1915%20E%20-%20Romantic%20Glasses)
 | 214 | 1916 A | 2023 | [Question](https://codeforces.com/problemset/problem/1916/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1916%20A%20-%202023)
 | 215 | 1916 B | Two Divisors | [Question](https://codeforces.com/problemset/problem/1916/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1916%20B%20-%20Two%20Divisors)
-| 216 | 1917 A | Least Product | [Question](https://codeforces.com/problemset/problem/1917/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1917%20A%20-%20Least%20Product)
-| 217 | 1917 B | Erase First or Second Letter | [Question](https://codeforces.com/problemset/problem/1917/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1917%20B%20-%20Erase%20First%20or%20Second%20Letter)
+| 216 | 1916 C | Training Before the Olympiad | [Question](https://codeforces.com/problemset/problem/1916/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1916%20C%20-%20Training%20Before%20the%20Olympiad)
+| 217 | 1917 A | Least Product | [Question](https://codeforces.com/problemset/problem/1917/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1917%20A%20-%20Least%20Product)
+| 218 | 1917 B | Erase First or Second Letter | [Question](https://codeforces.com/problemset/problem/1917/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1917%20B%20-%20Erase%20First%20or%20Second%20Letter)
 
 
 
