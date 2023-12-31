@@ -226,6 +226,8 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 1915C | Can I Square? | [Question](https://codeforces.com/problemset/problem/1915/C) | [Solution]
 | 1915D | Unnatural Language Processing | [Question](https://codeforces.com/problemset/problem/1915/D) | [Solution]
 | 1915E | Romantic Glasses | [Question](https://codeforces.com/problemset/problem/1915/E) | [Solution]
+| 1916A | 2023 | [Question](https://codeforces.com/problemset/problem/1916/A) | [Solution]
+| 1916B | Two Divisors | [Question](https://codeforces.com/problemset/problem/1916/B) | [Solution]
 | 1917A | Least Product	| [Question](https://codeforces.com/problemset/problem/1917/A) | [Solution]
 | 1917B | Erase First or Second Letter | [Question](https://codeforces.com/problemset/problem/1917/B) | [Solution]
 
