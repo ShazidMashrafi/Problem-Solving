@@ -15,6 +15,7 @@ using namespace std;
 
 #define yes                 cout<<"YES"<<endl
 #define no                  cout<<"NO"<<endl
+#define neg1                cout<<-1<<endl
 
 #define PI                  3.141592653589793238
 #define MIN                 INT_MIN
