@@ -239,6 +239,8 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 227 | 1917 B | Erase First or Second Letter | [Question](https://codeforces.com/problemset/problem/1917/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1917%20B%20-%20Erase%20First%20or%20Second%20Letter)
 | 228 | 1919 A | Wallet Exchange | [Question](https://codeforces.com/problemset/problem/1919/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1919%20A%20-%20Wallet%20Exchange)
 | 229 | 1919 B | Plus-Minus Split | [Question](https://codeforces.com/problemset/problem/1919/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1919%20B%20-%20Plus-Minus%20Split)
+| 230 | 1920 A | Satisfying Constraints | [Question](https://codeforces.com/problemset/problem/1920/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1920%20A%20-%20Satisfying%20Constraints)
+| 231 | 19020 B | Summation Game | [Question](https://codeforces.com/problemset/problem/19020/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/19020%20B%20-%20Summation%20Game)
 
 
 
