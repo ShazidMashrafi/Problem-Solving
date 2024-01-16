@@ -243,7 +243,8 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 231 | 1921 A | Square | [Question](https://codeforces.com/problemset/problem/1921/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1921%20A%20-%20Square)
 | 232 | 1921 B | Arranging Cats | [Question](https://codeforces.com/problemset/problem/1921/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1921%20B%20-%20Arranging%20Cats)
 | 233 | 1921 C | Sending Messages | [Question](https://codeforces.com/problemset/problem/1921/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1921%20C%20-%20Sending%20Messages)
-| 234 | 19020 B | Summation Game | [Question](https://codeforces.com/problemset/problem/19020/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/19020%20B%20-%20Summation%20Game)
+| 234 | 1921 D | Very Different Array | [Question](https://codeforces.com/problemset/problem/1921/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1921%20D%20-%20Very%20Different%20Array)
+| 235 | 19020 B | Summation Game | [Question](https://codeforces.com/problemset/problem/19020/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/19020%20B%20-%20Summation%20Game)
 
 
 
