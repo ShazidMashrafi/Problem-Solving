@@ -258,6 +258,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 246 | 1927 B | Following the String | [Question](https://codeforces.com/problemset/problem/1927/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1927%20B%20-%20Following%20the%20String)
 | 247 | 1927 C | Choose the Different Ones | [Question](https://codeforces.com/problemset/problem/1927/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1927%20C%20-%20Choose%20the%20Different%20Ones)
 | 248 | 1927 D | Find the Different Ones! | [Question](https://codeforces.com/problemset/problem/1927/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1927%20D%20-%20Find%20the%20Different%20Ones!)
+| 249 | 1927 E | Klever Permutation | [Question](https://codeforces.com/problemset/problem/1927/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1927%20E%20-%20Klever%20Permutation)
 
 
 
