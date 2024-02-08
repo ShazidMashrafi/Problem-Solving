@@ -59,25 +59,14 @@ void solve()
 {
     int n;
     cin>>n;
-    vector<int>v(n),pre(n);
+    vector<int>v(n),next(n,-1);
     for(auto &i:v)  cin>>i;
-    vector<pair<int,int>>ind(n);
-    pre[0]=0;
-
     for(int i=1; i<n; ++i)
     {
-        if(v[i]!=v[i-1])
-        {
-            pre[i]=pre[i-1]+1;
-            ind[i]={i-1,i};
-        }
-        else
-        {
-            pre[i]=pre[i-1];
-            ind[i]={ind[i-1].ff,i};
-        }
-        
+        if(v[i]==v[i-1])    next[i]= next[i-1];
+        else    next[i]=i-1;
     }
+    dbg(next);
     int q;
     cin>>q;
     while(q--)
@@ -85,13 +74,8 @@ void solve()
         int l,r;
         cin>>l>>r;
         l--,r--;
-        int ans=pre[r]-pre[l];
-        if(ans)
-        {
-            cout<<ind[r].ff+1<<" "<<ind[r].ss+1<<endl;
-        }
-        else
-            cout<<-1<<" "<<-1<<endl;
+        if(next[r]<l)   cout<<-1<<" "<<-1<<endl;
+        else    cout<<next[r]+1<<" "<<r+1<<endl;
     }
     cout<<endl;
 }
