@@ -273,7 +273,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 
 </div>
 
-## ðŸš€ About Me
+## :rocket: About Me
 
 I am Shazid Mashrafi.  
 I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.     
