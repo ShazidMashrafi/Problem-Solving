@@ -277,9 +277,11 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 265 | 1927 E | Klever Permutation | [Question](https://codeforces.com/problemset/problem/1927/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1927%20E%20-%20Klever%20Permutation)
 | 266 | 1928 A | Rectangle Cutting | [Question](https://codeforces.com/problemset/problem/1928/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1928%20A%20-%20Rectangle%20Cutting)
 | 267 | 1928 B | Equalize | [Question](https://codeforces.com/problemset/problem/1928/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1928%20B%20-%20Equalize)
-| 268 | 1931 A | Recovering a Small String | [Question](https://codeforces.com/problemset/problem/1931/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20A%20-%20Recovering%20a%20Small%20String)
-| 269 | 1931 B | Make Equal | [Question](https://codeforces.com/problemset/problem/1931/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20B%20-%20Make%20Equal)
-| 270 | 1931 C | Make Equal Again | [Question](https://codeforces.com/problemset/problem/1931/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20C%20-%20Make%20Equal%20Again)
+| 268 | 1929 A | Sasha and the Beautiful Array | [Question](https://codeforces.com/problemset/problem/1929/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1929%20A%20-%20Sasha%20and%20the%20Beautiful%20Array)
+| 269 | 1929 B | Sasha and the Drawing | [Question](https://codeforces.com/problemset/problem/1929/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1929%20B%20-%20Sasha%20and%20the%20Drawing)
+| 270 | 1931 A | Recovering a Small String | [Question](https://codeforces.com/problemset/problem/1931/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20A%20-%20Recovering%20a%20Small%20String)
+| 271 | 1931 B | Make Equal | [Question](https://codeforces.com/problemset/problem/1931/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20B%20-%20Make%20Equal)
+| 272 | 1931 C | Make Equal Again | [Question](https://codeforces.com/problemset/problem/1931/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20C%20-%20Make%20Equal%20Again)
 
 
 
