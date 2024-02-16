@@ -2,8 +2,6 @@
 using namespace std;
 
 #define FAST_IO             (ios_base:: sync_with_stdio(false),cin.tie(NULL));
-
-#define int                 long long
 #define ll                  long long
 #define ull                 unsigned long long
 #define endl                '\n'
@@ -12,11 +10,9 @@ using namespace std;
 #define pb                  push_back
 #define all(x)              x.begin(), x.end()
 #define sz(x)               (int)(x).size()
-
 #define yes                 cout<<"YES"<<endl
 #define no                  cout<<"NO"<<endl
 #define neg1                cout<<-1<<endl
-
 #define PI                  3.141592653589793238
 #define MIN                 INT_MIN
 #define MAX                 INT_MAX
@@ -33,26 +29,19 @@ ull mypow(ull a, ull b)         { ull ans = 1; a%=MOD; while(b){ if (b&1) ans = 
 bool isPrime(ll n)              { if(n <= 1) return false; for(ll i = 2; i*i <= n; i++) if(n % i == 0) return false; return true; }
 
 #ifndef ONLINE_JUDGE
-#define dbg(x) cerr << #x <<" "; _print(x); cerr << endl;
-#define dbgin(x) cerr << #x <<" "; _print(x); cerr << ";"<<endl;
+#define dbg(x...) cerr << #x << " : "; _print(x)
 #else
-#define dbg(x)
-#define dbgin(x)
+#define debug(...)
 #endif
-
-void _print(int t) {cerr << t;}void _print(string t) {cerr << t;}void _print(char t) {cerr << t;}
-void _print(long double t) {cerr << t;}void _print(double t) {cerr << t;}void _print(unsigned ll t) {cerr << t;}
-template <class T, class V> void _print(pair <T, V> p);
-template <class T> void _print(vector <T> v);template <class T> void _print(set <T> v);
-template <class T, class V> void _print(map <T, V> v);template <class T> void _print(multiset <T> v);
-template <class T, class V> void _print(pair <T, V> p) {cerr << "{"; _print(p.first); cerr << ","; _print(p.second); cerr << "}";}
-template <class T> void _print(vector <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
-template <class T> void _print(set <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
-template <class T> void _print(multiset <T> v) {cerr << "[ "; for (T i : v) {_print(i); cerr << " ";} cerr << "]";}
-template <class T> void _print(unordered_set <T> v) {cerr<<"[ "; for(T i : v) {_print(i); cerr<<" ";} cerr<<"]";}
-template <class T, class V> void _print(map <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
-template <class T, class V> void _print(multimap <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";} 
-template <class T, class V> void _print(unordered_map <T, V> v) {cerr << "[ "; for (auto i : v) {_print(i); cerr << " ";} cerr << "]";}
+void __print(int x) {cerr << x;}void __print(long x) {cerr << x;} void __print(long long x){cerr << x;}
+void __print(unsigned x){cerr << x;} void __print(unsigned long x){cerr << x;} void __print(unsigned long long x){cerr << x;}
+void __print(float x){cerr << x;} void __print(double x){cerr << x;} void __print(long double x){cerr << x;}
+void __print(char x){cerr << x;} void __print(const char *x){cerr << x;} void __print(const string &x){cerr << x;}
+void __print(bool x){cerr << (x ? "true" : "false");} void _print() { cerr << "\n"; }
+template <typename A> void __print(const A &x); template <typename A, typename B> void __print(const pair<A, B> &p);
+template <typename A> void __print(const A &x) {bool f=1; cerr << '['; for (const auto &i : x) {cerr << (f ? "" : ","), __print(i); f = 0;} cerr << ']';}
+template <typename A, typename B> void __print(const pair<A, B> &p) {cerr << '('; __print(p.first); cerr << ','; __print(p.second); cerr << ')';}
+template <typename Head, typename... Tail> void _print(const Head &H, const Tail &...T) { __print(H); if (sizeof...(T)) cerr << ", "; _print(T...);}
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 void solve()
@@ -60,7 +49,7 @@ void solve()
     
 }
 
-int32_t main()
+signed main()
 {
     FAST_IO;
     int TC = 1;
