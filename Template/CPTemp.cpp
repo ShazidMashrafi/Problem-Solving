@@ -31,7 +31,7 @@ bool isPrime(ll n)              { if(n <= 1) return false; for(ll i = 2; i*i <= 
 #ifndef ONLINE_JUDGE
 #define dbg(x...) cerr << #x << " : "; _print(x)
 #else
-#define debug(...)
+#define dbg(...)
 #endif
 void __print(int x) {cerr << x;}void __print(long x) {cerr << x;} void __print(long long x){cerr << x;}
 void __print(unsigned x){cerr << x;} void __print(unsigned long x){cerr << x;} void __print(unsigned long long x){cerr << x;}
