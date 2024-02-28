@@ -20,13 +20,13 @@ using namespace std;
 #define MOD                 1000000007
 #define LLM                 1000000000000000007
 
-ll factorial(ll n)              { if(n==0) return 1; ll res = 1; for (ll i = 2; i <= n; i++) res = res * i; return res; }
-ll nPr(ll n, ll r)              { return factorial(n) / factorial(n - r); }
-ll nCr(ll n, ll r)              { return factorial(n) / (factorial(r) * factorial(n - r));}
-ll gcd(ll a, ll b)              { if (b == 0) return a; return gcd(b, a % b); }
-ll lcm(ll a, ll b)              { return (a * b) / gcd(a, b);}
-ull mypow(ull a, ull b)         { ull ans = 1; a%=MOD; while(b){ if (b&1) ans = (ans*a) % MOD; a = (a*a) % MOD; b >>= 1; } return ans; }
-bool isPrime(ll n)              { if(n <= 1) return false; for(ll i = 2; i*i <= n; i++) if(n % i == 0) return false; return true; }
+ll factorial(ll n)                        { if(n==0) return 1; ll res = 1; for (ll i = 2; i <= n; i++) res = res * i; return res; }
+ll nPr(ll n, ll r)                        { return factorial(n) / factorial(n - r); }
+ll nCr(ll n, ll r)                        { return factorial(n) / (factorial(r) * factorial(n - r));}
+ll gcd(ll a, ll b)                        { if (b == 0) return a; return gcd(b, a % b); }
+ll lcm(ll a, ll b)                        { return (a * b) / gcd(a, b);}
+ull mypow(ull a, ull b,ull m=MOD)         { ull ans = 1; a%=m; while(b){ if (b&1) ans = (ans*a) % m; a = (a*a) % m; b >>= 1; } return ans; }
+bool isPrime(ll n)                        { if(n <= 1) return false; for(ll i = 2; i*i <= n; i++) if(n % i == 0) return false; return true; }
 
 #ifndef ONLINE_JUDGE
 #define dbg(x...) cerr << #x << " : "; _print(x)
