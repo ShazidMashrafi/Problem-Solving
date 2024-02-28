@@ -286,6 +286,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 274 | 1931 A | Recovering a Small String | [Question](https://codeforces.com/problemset/problem/1931/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20A%20-%20Recovering%20a%20Small%20String)
 | 275 | 1931 B | Make Equal | [Question](https://codeforces.com/problemset/problem/1931/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20B%20-%20Make%20Equal)
 | 276 | 1931 C | Make Equal Again | [Question](https://codeforces.com/problemset/problem/1931/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1931%20C%20-%20Make%20Equal%20Again)
+| 277 | 1933 A | Turtle Puzzle Rearrange and Negate | [Question](https://codeforces.com/problemset/problem/1933/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1933%20A%20-%20Turtle%20Puzzle%20Rearrange%20and%20Negate)
+| 278 | 1933 B | Turtle Math Fast Three Task | [Question](https://codeforces.com/problemset/problem/1933/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1933%20B%20-%20Turtle%20Math%20Fast%20Three%20Task)
+| 279 | 1933 C | Turtle Fingers Count the Values of k | [Question](https://codeforces.com/problemset/problem/1933/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1933%20C%20-%20Turtle%20Fingers%20Count%20the%20Values%20of%20k)
 
 
 
