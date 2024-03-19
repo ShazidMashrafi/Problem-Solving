@@ -290,6 +290,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 278 | 1933 A | Turtle Puzzle Rearrange and Negate | [Question](https://codeforces.com/problemset/problem/1933/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1933%20A%20-%20Turtle%20Puzzle%20Rearrange%20and%20Negate)
 | 279 | 1933 B | Turtle Math Fast Three Task | [Question](https://codeforces.com/problemset/problem/1933/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1933%20B%20-%20Turtle%20Math%20Fast%20Three%20Task)
 | 280 | 1933 C | Turtle Fingers Count the Values of k | [Question](https://codeforces.com/problemset/problem/1933/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1933%20C%20-%20Turtle%20Fingers%20Count%20the%20Values%20of%20k)
+| 281 | 1945 A | Setting up Camp | [Question](https://codeforces.com/problemset/problem/1945/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1945%20A%20-%20Setting%20up%20Camp)
 
 
 
