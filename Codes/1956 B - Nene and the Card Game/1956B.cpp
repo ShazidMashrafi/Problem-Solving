@@ -57,10 +57,7 @@ void solve()
     }
     int ct=0;
     for(auto x:m)
-    {
-        if(x.ss%2==0)
-            ct++;
-    }
+        if(x.ss==2) ct++;
     cout<<ct<<endl;
 }
 
