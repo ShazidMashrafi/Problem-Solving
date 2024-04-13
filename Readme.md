@@ -297,6 +297,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 285 | 1955 D | Inaccurate Subsequence Search | [Question](https://codeforces.com/problemset/problem/1955/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1955%20D%20-%20Inaccurate%20Subsequence%20Search)
 | 286 | 1955 E | Long Inversions | [Question](https://codeforces.com/problemset/problem/1955/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1955%20E%20-%20Long%20Inversions)
 | 287 | 1955 F | Unfair Game | [Question](https://codeforces.com/problemset/problem/1955/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1955%20F%20-%20Unfair%20Game)
+| 288 | 1956 A | Nene's Game | [Question](https://codeforces.com/problemset/problem/1956/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1956%20A%20-%20Nene's%20Game)
+| 289 | 1956 B | Nene and the Card Game | [Question](https://codeforces.com/problemset/problem/1956/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1956%20B%20-%20Nene%20and%20the%20Card%20Game)
+| 290 | 1956 C | Nene's Magical Matrix | [Question](https://codeforces.com/problemset/problem/1956/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1956%20C%20-%20Nene's%20Magical%20Matrix)
 
 
 
