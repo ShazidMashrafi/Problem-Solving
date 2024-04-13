@@ -296,6 +296,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 284 | 1955 C | Inhabitant of the Deep Sea | [Question](https://codeforces.com/problemset/problem/1955/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1955%20C%20-%20Inhabitant%20of%20the%20Deep%20Sea)
 | 285 | 1955 D | Inaccurate Subsequence Search | [Question](https://codeforces.com/problemset/problem/1955/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1955%20D%20-%20Inaccurate%20Subsequence%20Search)
 | 286 | 1955 E | Long Inversions | [Question](https://codeforces.com/problemset/problem/1955/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1955%20E%20-%20Long%20Inversions)
+| 287 | 1955 F | Unfair Game | [Question](https://codeforces.com/problemset/problem/1955/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1955%20F%20-%20Unfair%20Game)
 
 
 
