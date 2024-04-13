@@ -52,14 +52,8 @@ void solve()
     for(auto &i:kick)  cin>>i;
     for(auto &i:player)  cin>>i;
     for(auto x:player)
-    {
-        if(x<kick[0])
-            cout<<x<<" ";
-        else
-            cout<<kick[0]-1<<" ";
-    }
+        cout<<min(kick[0]-1,x)<<" ";
     cout<<endl;
-
 }
 
 signed main()
