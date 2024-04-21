@@ -20,7 +20,6 @@ using namespace std;
 #define FAST              (ios_base:: sync_with_stdio(false),cin.tie(NULL));
 ull mypow(ull a,ull b,ull m=MOD) {ull ans=1; a%=m; while(b){if(b&1) ans=(ans*a)%m; a=(a*a)%m; b>>=1;} return ans;}
 
-
 void solve()
 {
     
