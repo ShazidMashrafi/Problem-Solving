@@ -300,13 +300,18 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 288 | 1956 A | Nene's Game | [Question](https://codeforces.com/problemset/problem/1956/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1956%20A%20-%20Nene's%20Game)
 | 289 | 1956 B | Nene and the Card Game | [Question](https://codeforces.com/problemset/problem/1956/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1956%20B%20-%20Nene%20and%20the%20Card%20Game)
 | 290 | 1956 C | Nene's Magical Matrix | [Question](https://codeforces.com/problemset/problem/1956/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1956%20C%20-%20Nene's%20Magical%20Matrix)
+| 291 | 1957 A | Stickogon | [Question](https://codeforces.com/problemset/problem/1957/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1957%20A%20-%20Stickogon)
+| 292 | 1957 B | A BIT of a Construction | [Question](https://codeforces.com/problemset/problem/1957/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1957%20B%20-%20A%20BIT%20of%20a%20Construction)
 
+# Codeforces Solutions
 
+This repository contains my solutions of Codeforces problems. They are in C++ language.  
 
-</div>
+#### If this repository helped you out, please consider giving it a :star:
 
-## About Me :eyes:
+<div align="center">
 
-I am Shazid Mashrafi.  
-I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.     
-Visit my [Website](https://shazidmashrafi.com) and [Codeforces](https://codeforces.com/profile/ShazidMashrafi) account.
+## Index 
+#### Sorted by Problem ID 
+|  Index  | Problem ID | Problem Name | Question | Solution |
+| :-----: |  :--------: | :----------: | :------: | :------: |
