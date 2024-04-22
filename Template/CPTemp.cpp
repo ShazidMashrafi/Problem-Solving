@@ -6,25 +6,18 @@ using namespace std;
     #include "Debug.h"
 #endif
 #define ll                long long
-#define ull               unsigned long long
 #define endl              '\n'
-#define ff                first
-#define ss                second
-#define pb                push_back
 #define all(x)            x.begin(), x.end()
 #define sz(x)             (int)(x).size()
 #define yes               cout<<"YES"<<endl
 #define no                cout<<"NO"<<endl
-#define PI                3.141592653589793238
-#define MOD               1000000007
 #define FAST              (ios_base:: sync_with_stdio(false),cin.tie(NULL));
-ull mypow(ull a,ull b,ull m=MOD) {ull ans=1; a%=m; while(b){if(b&1) ans=(ans*a)%m; a=(a*a)%m; b>>=1;} return ans;}
+ll pow(ll x,ll y,ll m=1e9+7){ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x)%m;y>>=1;}return ans;}
 
 void solve()
 {
     
 }
-
 signed main()
 {
     FAST;
