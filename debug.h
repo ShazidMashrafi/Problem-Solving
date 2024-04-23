@@ -80,7 +80,7 @@ namespace __DEBUG_UTIL__
         cerr.write(names, i) << " = ";
         print(head);
         if constexpr (sizeof...(tail))
-            cerr << " ||", printer(names + i + 1, tail...);
+            cerr << " || ", printer(names + i + 1, tail...);
         else
             cerr << "]\n";
     }
@@ -97,7 +97,7 @@ namespace __DEBUG_UTIL__
             cerr << (ind ? "," : ""), print(arr[ind]);
         cerr << "}";
         if constexpr (sizeof...(tail))
-            cerr << " ||", printerArr(names + i + 1, tail...);
+            cerr << " || ", printerArr(names + i + 1, tail...);
         else
             cerr << "]\n";
     }
