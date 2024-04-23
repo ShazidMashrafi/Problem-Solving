@@ -1,10 +1,6 @@
 #include<bits/stdc++.h>
+#include "debug.h"
 using namespace std;
-#ifdef ONLINE_JUDGE
-    #define dbg(...)
-#else
-    #include "Debug.h"
-#endif
 #define ll                long long
 #define endl              '\n'
 #define all(x)            x.begin(), x.end()
@@ -18,6 +14,7 @@ void solve()
 {
     
 }
+
 signed main()
 {
     FAST;
