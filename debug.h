@@ -103,10 +103,5 @@ namespace __DEBUG_UTIL__
     }
 
 }
-#ifdef ONLINE_JUDGE
-#define dbg(...)
-#define dbgArr(...)
-#else
 #define dbg(...) std::cerr << __LINE__ << ": [", __DEBUG_UTIL__::printer(#__VA_ARGS__, __VA_ARGS__)
 #define dbgArr(...) std::cerr << __LINE__ << ": [", __DEBUG_UTIL__::printerArr(#__VA_ARGS__, __VA_ARGS__)
-#endif

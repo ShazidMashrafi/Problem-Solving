@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
-#include "debug.h"
 using namespace std;
+#ifdef ONLINE_JUDGE
+    #define dbg(...)
+#else
+    #include "debug.h"
+#endif
 #define ll                long long
 #define endl              '\n'
 #define all(x)            x.begin(), x.end()
@@ -12,13 +16,13 @@ ll pow(ll x,ll y,ll m=1e9+7){ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x)
 
 void solve()
 {
-    
+   
 }
 
 signed main()
 {
     FAST;
     int TC = 1;
-    //cin >> TC;
+    // cin >> TC;
     while (TC--) solve();
 }
