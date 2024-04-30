@@ -3,8 +3,7 @@ namespace __DEBUG_UTIL__
 {
     using namespace std;
     template <typename T>
-    concept is_iterable = requires(T &&x) { begin(x); } &&
-                          !is_same_v<remove_cvref_t<T>, string>;
+    concept is_iterable = requires(T &&x) { begin(x); } && !is_same_v<remove_cvref_t<T>, string>;
     void print(const char *x) { cerr << x; }
     void print(char x) { cerr << "\'" << x << "\'"; }
     void print(bool x) { cerr << (x ? "T" : "F"); }
@@ -13,10 +12,10 @@ namespace __DEBUG_UTIL__
     { /* Overloaded this because stl optimizes vector<bool> by using
          _Bit_reference instead of bool to conserve space. */
         int f = 0;
-        cerr << '{';
+        cerr << '[';
         for (auto &&i : v)
             cerr << (f++ ? "," : "") << (i ? "T" : "F");
-        cerr << "}";
+        cerr << "]";
     }
     template <typename T>
     void print(T &&x)
@@ -35,23 +34,23 @@ namespace __DEBUG_UTIL__
             else
             { /* Normal Iterable */
                 int f = 0;
-                cerr << "{";
+                cerr << "[";
                 for (auto &&i : x)
                     cerr << (f++ ? "," : ""), print(i);
-                cerr << "}";
+                cerr << "]";
             }
         else if constexpr (requires { x.pop(); }) /* Stacks, Priority Queues, Queues */
         {
             auto temp = x;
             int f = 0;
-            cerr << "{";
+            cerr << "[";
             if constexpr (requires { x.top(); })
                 while (!temp.empty())
                     cerr << (f++ ? "," : ""), print(temp.top()), temp.pop();
             else
                 while (!temp.empty())
                     cerr << (f++ ? "," : ""), print(temp.front()), temp.pop();
-            cerr << "}";
+            cerr << "]";
         }
         else if constexpr (requires { x.first; x.second; }) /* Pair */
         {
@@ -80,9 +79,9 @@ namespace __DEBUG_UTIL__
         cerr.write(names, i) << " = ";
         print(head);
         if constexpr (sizeof...(tail))
-            cerr << " || ", printer(names + i + 1, tail...);
+            cerr << " | ", printer(names + i + 1, tail...);
         else
-            cerr << "]\n";
+            cerr << "\n";
     }
     template <typename T, typename... V>
     void printerArr(const char *names, T arr[], size_t N, V... tail)
@@ -92,16 +91,16 @@ namespace __DEBUG_UTIL__
             cerr << names[i];
         for (i++; names[i] and names[i] != ','; i++)
             ;
-        cerr << " = {";
+        cerr << " = [";
         for (size_t ind = 0; ind < N; ind++)
             cerr << (ind ? "," : ""), print(arr[ind]);
-        cerr << "}";
+        cerr << "]";
         if constexpr (sizeof...(tail))
-            cerr << " || ", printerArr(names + i + 1, tail...);
+            cerr << " | ", printerArr(names + i + 1, tail...);
         else
-            cerr << "]\n";
+            cerr << "\n";
     }
 
 }
-#define dbg(...) std::cerr << __LINE__ << ": [", __DEBUG_UTIL__::printer(#__VA_ARGS__, __VA_ARGS__)
-#define dbgArr(...) std::cerr << __LINE__ << ": [", __DEBUG_UTIL__::printerArr(#__VA_ARGS__, __VA_ARGS__)
+#define dbg(...) std::cerr << __LINE__ << ": ", __DEBUG_UTIL__::printer(#__VA_ARGS__, __VA_ARGS__)
+#define dbgArr(...) std::cerr << __LINE__ << ": ", __DEBUG_UTIL__::printerArr(#__VA_ARGS__, __VA_ARGS__)
