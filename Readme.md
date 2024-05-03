@@ -306,8 +306,10 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 294 | 1957 A | Stickogon | [Question](https://codeforces.com/problemset/problem/1957/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1957%20A%20-%20Stickogon)
 | 295 | 1957 B | A BIT of a Construction | [Question](https://codeforces.com/problemset/problem/1957/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1957%20B%20-%20A%20BIT%20of%20a%20Construction)
 | 296 | 1957 C | How Does the Rook Move | [Question](https://codeforces.com/problemset/problem/1957/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1957%20C%20-%20How%20Does%20the%20Rook%20Move)
-| 297 | 1969 A | Two Friends | [Question](https://codeforces.com/problemset/problem/1969/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20A%20-%20Two%20Friends)
-| 298 | 1969 B | Shifts and Sorting | [Question](https://codeforces.com/problemset/problem/1969/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20B%20-%20Shifts%20and%20Sorting)
+| 297 | 1968 A | Maximize | [Question](https://codeforces.com/problemset/problem/1968/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1968%20A%20-%20Maximize)
+| 298 | 1968 B | Prefiquence | [Question](https://codeforces.com/problemset/problem/1968/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1968%20B%20-%20Prefiquence)
+| 299 | 1969 A | Two Friends | [Question](https://codeforces.com/problemset/problem/1969/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20A%20-%20Two%20Friends)
+| 300 | 1969 B | Shifts and Sorting | [Question](https://codeforces.com/problemset/problem/1969/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20B%20-%20Shifts%20and%20Sorting)
 
 
 
