@@ -310,8 +310,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 298 | 1968 B | Prefiquence | [Question](https://codeforces.com/problemset/problem/1968/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1968%20B%20-%20Prefiquence)
 | 299 | 1968 C | Assembly via Remainders | [Question](https://codeforces.com/problemset/problem/1968/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1968%20C%20-%20Assembly%20via%20Remainders)
 | 300 | 1968 D | Permutation Game | [Question](https://codeforces.com/problemset/problem/1968/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1968%20D%20-%20Permutation%20Game)
-| 301 | 1969 A | Two Friends | [Question](https://codeforces.com/problemset/problem/1969/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20A%20-%20Two%20Friends)
-| 302 | 1969 B | Shifts and Sorting | [Question](https://codeforces.com/problemset/problem/1969/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20B%20-%20Shifts%20and%20Sorting)
+| 301 | 1968 E | Cells Arrangement | [Question](https://codeforces.com/problemset/problem/1968/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1968%20E%20-%20Cells%20Arrangement)
+| 302 | 1969 A | Two Friends | [Question](https://codeforces.com/problemset/problem/1969/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20A%20-%20Two%20Friends)
+| 303 | 1969 B | Shifts and Sorting | [Question](https://codeforces.com/problemset/problem/1969/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20B%20-%20Shifts%20and%20Sorting)
 
 
 
