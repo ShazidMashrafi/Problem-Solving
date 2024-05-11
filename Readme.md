@@ -319,6 +319,12 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 307 | 1968 G1 | Division + LCP (easy version) | [Question](https://codeforces.com/problemset/problem/1968/G1) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1968%20G1%20-%20Division%20+%20LCP%20(easy%20version))
 | 308 | 1969 A | Two Friends | [Question](https://codeforces.com/problemset/problem/1969/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20A%20-%20Two%20Friends)
 | 309 | 1969 B | Shifts and Sorting | [Question](https://codeforces.com/problemset/problem/1969/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1969%20B%20-%20Shifts%20and%20Sorting)
+| 310 | 1971 A | My First Sorting Problem | [Question](https://codeforces.com/problemset/problem/1971/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1971%20A%20-%20My%20First%20Sorting%20Problem)
+| 311 | 1971 B | Different String | [Question](https://codeforces.com/problemset/problem/1971/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1971%20B%20-%20Different%20String)
+| 312 | 1971 C | Clock and Strings | [Question](https://codeforces.com/problemset/problem/1971/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1971%20C%20-%20Clock%20and%20Strings)
+| 313 | 1971 D | Binary Cut | [Question](https://codeforces.com/problemset/problem/1971/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1971%20D%20-%20Binary%20Cut)
+| 314 | 1971 E | Find the Car | [Question](https://codeforces.com/problemset/problem/1971/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1971%20E%20-%20Find%20the%20Car)
+| 315 | 1971 F | Circle Perimeter | [Question](https://codeforces.com/problemset/problem/1971/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1971%20F%20-%20Circle%20Perimeter)
 
 
 
