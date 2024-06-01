@@ -329,6 +329,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 317 | 1976 A | Verify Password | [Question](https://codeforces.com/problemset/problem/1976/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1976%20A%20-%20Verify%20Password)
 | 318 | 1976 B | Increase Decrease Copy | [Question](https://codeforces.com/problemset/problem/1976/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1976%20B%20-%20Increase%20Decrease%20Copy)
 | 319 | 1981 A | Turtle and Piggy Are Playing a Game | [Question](https://codeforces.com/problemset/problem/1981/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game)
+| 320 | 1981 B | Turtle and an Infinite Sequence | [Question](https://codeforces.com/problemset/problem/1981/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20B%20-%20Turtle%20and%20an%20Infinite%20Sequence)
 
 
 
