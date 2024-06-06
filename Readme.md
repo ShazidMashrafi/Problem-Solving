@@ -329,9 +329,11 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 317 | 1976 A | Verify Password | [Question](https://codeforces.com/problemset/problem/1976/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1976%20A%20-%20Verify%20Password)
 | 318 | 1976 B | Increase Decrease Copy | [Question](https://codeforces.com/problemset/problem/1976/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1976%20B%20-%20Increase%20Decrease%20Copy)
 | 319 | 1977 A | Little Nikita | [Question](https://codeforces.com/problemset/problem/1977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1977%20A%20-%20Little%20Nikita)
-| 320 | 1981 A | Turtle and Piggy Are Playing a Game | [Question](https://codeforces.com/problemset/problem/1981/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game)
-| 321 | 1981 B | Turtle and an Infinite Sequence | [Question](https://codeforces.com/problemset/problem/1981/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20B%20-%20Turtle%20and%20an%20Infinite%20Sequence)
-| 322 | 1981 C | Turtle and an Incomplete Sequence | [Question](https://codeforces.com/problemset/problem/1981/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20C%20-%20Turtle%20and%20an%20Incomplete%20Sequence)
+| 320 | 1980 A | Problem Generator | [Question](https://codeforces.com/problemset/problem/1980/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20A%20-%20Problem%20Generator)
+| 321 | 1980 B | Choosing Cubes | [Question](https://codeforces.com/problemset/problem/1980/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20B%20-%20Choosing%20Cubes)
+| 322 | 1981 A | Turtle and Piggy Are Playing a Game | [Question](https://codeforces.com/problemset/problem/1981/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game)
+| 323 | 1981 B | Turtle and an Infinite Sequence | [Question](https://codeforces.com/problemset/problem/1981/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20B%20-%20Turtle%20and%20an%20Infinite%20Sequence)
+| 324 | 1981 C | Turtle and an Incomplete Sequence | [Question](https://codeforces.com/problemset/problem/1981/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20C%20-%20Turtle%20and%20an%20Incomplete%20Sequence)
 
 
 
