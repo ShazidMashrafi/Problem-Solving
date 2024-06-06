@@ -329,13 +329,16 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 317 | 1976 A | Verify Password | [Question](https://codeforces.com/problemset/problem/1976/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1976%20A%20-%20Verify%20Password)
 | 318 | 1976 B | Increase Decrease Copy | [Question](https://codeforces.com/problemset/problem/1976/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1976%20B%20-%20Increase%20Decrease%20Copy)
 | 319 | 1977 A | Little Nikita | [Question](https://codeforces.com/problemset/problem/1977/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1977%20A%20-%20Little%20Nikita)
-| 320 | 1980 A | Problem Generator | [Question](https://codeforces.com/problemset/problem/1980/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20A%20-%20Problem%20Generator)
-| 321 | 1980 B | Choosing Cubes | [Question](https://codeforces.com/problemset/problem/1980/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20B%20-%20Choosing%20Cubes)
-| 322 | 1980 C | Sofia and the Lost Operations | [Question](https://codeforces.com/problemset/problem/1980/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20C%20-%20Sofia%20and%20the%20Lost%20Operations)
-| 323 | 1980 D | GCD-sequence | [Question](https://codeforces.com/problemset/problem/1980/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20D%20-%20GCD-sequence)
-| 324 | 1981 A | Turtle and Piggy Are Playing a Game | [Question](https://codeforces.com/problemset/problem/1981/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game)
-| 325 | 1981 B | Turtle and an Infinite Sequence | [Question](https://codeforces.com/problemset/problem/1981/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20B%20-%20Turtle%20and%20an%20Infinite%20Sequence)
-| 326 | 1981 C | Turtle and an Incomplete Sequence | [Question](https://codeforces.com/problemset/problem/1981/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20C%20-%20Turtle%20and%20an%20Incomplete%20Sequence)
+| 320 | 1979 A | Guess the Maximum | [Question](https://codeforces.com/problemset/problem/1979/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1979%20A%20-%20Guess%20the%20Maximum)
+| 321 | 1979 B | XOR Sequences | [Question](https://codeforces.com/problemset/problem/1979/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1979%20B%20-%20XOR%20Sequences)
+| 322 | 1979 C | Earning on Bets | [Question](https://codeforces.com/problemset/problem/1979/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1979%20C%20-%20Earning%20on%20Bets)
+| 323 | 1980 A | Problem Generator | [Question](https://codeforces.com/problemset/problem/1980/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20A%20-%20Problem%20Generator)
+| 324 | 1980 B | Choosing Cubes | [Question](https://codeforces.com/problemset/problem/1980/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20B%20-%20Choosing%20Cubes)
+| 325 | 1980 C | Sofia and the Lost Operations | [Question](https://codeforces.com/problemset/problem/1980/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20C%20-%20Sofia%20and%20the%20Lost%20Operations)
+| 326 | 1980 D | GCD-sequence | [Question](https://codeforces.com/problemset/problem/1980/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1980%20D%20-%20GCD-sequence)
+| 327 | 1981 A | Turtle and Piggy Are Playing a Game | [Question](https://codeforces.com/problemset/problem/1981/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game)
+| 328 | 1981 B | Turtle and an Infinite Sequence | [Question](https://codeforces.com/problemset/problem/1981/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20B%20-%20Turtle%20and%20an%20Infinite%20Sequence)
+| 329 | 1981 C | Turtle and an Incomplete Sequence | [Question](https://codeforces.com/problemset/problem/1981/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20C%20-%20Turtle%20and%20an%20Incomplete%20Sequence)
 
 
 
