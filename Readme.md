@@ -339,6 +339,11 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 327 | 1981 A | Turtle and Piggy Are Playing a Game | [Question](https://codeforces.com/problemset/problem/1981/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20A%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game)
 | 328 | 1981 B | Turtle and an Infinite Sequence | [Question](https://codeforces.com/problemset/problem/1981/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20B%20-%20Turtle%20and%20an%20Infinite%20Sequence)
 | 329 | 1981 C | Turtle and an Incomplete Sequence | [Question](https://codeforces.com/problemset/problem/1981/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1981%20C%20-%20Turtle%20and%20an%20Incomplete%20Sequence)
+| 330 | 1985 A | Creating Words | [Question](https://codeforces.com/problemset/problem/1985/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20A%20-%20Creating%20Words)
+| 331 | 1985 B | Maximum Multiple Sum | [Question](https://codeforces.com/problemset/problem/1985/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20B%20-%20Maximum%20Multiple%20Sum)
+| 332 | 1985 C | Good Prefixes | [Question](https://codeforces.com/problemset/problem/1985/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20C%20-%20Good%20Prefixes)
+| 333 | 1985 D | Manhattan Circle | [Question](https://codeforces.com/problemset/problem/1985/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20D%20-%20Manhattan%20Circle)
+| 334 | 1985 E | Secret Box | [Question](https://codeforces.com/problemset/problem/1985/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20E%20-%20Secret%20Box)
 
 
 
