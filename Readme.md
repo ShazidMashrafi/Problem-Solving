@@ -344,6 +344,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 332 | 1985 C | Good Prefixes | [Question](https://codeforces.com/problemset/problem/1985/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20C%20-%20Good%20Prefixes)
 | 333 | 1985 D | Manhattan Circle | [Question](https://codeforces.com/problemset/problem/1985/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20D%20-%20Manhattan%20Circle)
 | 334 | 1985 E | Secret Box | [Question](https://codeforces.com/problemset/problem/1985/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20E%20-%20Secret%20Box)
+| 335 | 1985 F | Final Boss | [Question](https://codeforces.com/problemset/problem/1985/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20F%20-%20Final%20Boss)
 
 
 
