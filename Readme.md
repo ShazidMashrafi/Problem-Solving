@@ -345,6 +345,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 333 | 1985 D | Manhattan Circle | [Question](https://codeforces.com/problemset/problem/1985/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20D%20-%20Manhattan%20Circle)
 | 334 | 1985 E | Secret Box | [Question](https://codeforces.com/problemset/problem/1985/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20E%20-%20Secret%20Box)
 | 335 | 1985 F | Final Boss | [Question](https://codeforces.com/problemset/problem/1985/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20F%20-%20Final%20Boss)
+| 336 | 1985 G | D-Function | [Question](https://codeforces.com/problemset/problem/1985/G) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20G%20-%20D-Function)
 
 
 
