@@ -15,16 +15,13 @@ void solve()
     {
         int x;
         cin>>x;
-        st.insert(x);
+        st.insert(x-1);
     }
     cin>>c;
     sort(c.begin(),c.end());
-    vector<int>v;
-    for(auto x:st)  v.push_back(x);
-    for(int i=0; i<st.size(); ++i)
-    {
-        s[v[i]-1] = c[i];
-    }
+    int i=0;
+    for(auto x:st)
+        s[x]=c[i++];
     cout<<s<<endl;
 }
 
