@@ -349,6 +349,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 337 | 1985 E | Secret Box | [Question](https://codeforces.com/problemset/problem/1985/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20E%20-%20Secret%20Box)
 | 338 | 1985 F | Final Boss | [Question](https://codeforces.com/problemset/problem/1985/F) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20F%20-%20Final%20Boss)
 | 339 | 1985 G | D-Function | [Question](https://codeforces.com/problemset/problem/1985/G) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1985%20G%20-%20D-Function)
+| 340 | 1986 A | X Axis | [Question](https://codeforces.com/problemset/problem/1986/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20A%20-%20X%20Axis)
+| 341 | 1986 B | Matrix Stabilization | [Question](https://codeforces.com/problemset/problem/1986/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20B%20-%20Matrix%20Stabilization)
+| 342 | 1986 C | Update Queries | [Question](https://codeforces.com/problemset/problem/1986/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20C%20-%20Update%20Queries)
 
 
 
