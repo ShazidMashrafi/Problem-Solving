@@ -352,6 +352,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 340 | 1986 A | X Axis | [Question](https://codeforces.com/problemset/problem/1986/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20A%20-%20X%20Axis)
 | 341 | 1986 B | Matrix Stabilization | [Question](https://codeforces.com/problemset/problem/1986/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20B%20-%20Matrix%20Stabilization)
 | 342 | 1986 C | Update Queries | [Question](https://codeforces.com/problemset/problem/1986/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20C%20-%20Update%20Queries)
+| 343 | 1986 D | Mathematical Problem | [Question](https://codeforces.com/problemset/problem/1986/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20D%20-%20Mathematical%20Problem)
 
 
 
