@@ -26,7 +26,7 @@ signed main()
 {
     FAST;
     int TCS = 1;
-    // cin >> TC;
+    // cin >> TCS;
     for (int TC = 1; TC <= TCS; ++TC)
     {
       // cout<<"Case "<<TC<<": ";
