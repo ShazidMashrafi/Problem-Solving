@@ -14,6 +14,11 @@ using namespace std;
 #define no cout << "NO" << endl
 #define rep(i,a,b)  for(int i=a; i<b; ++i)
 #define rrep(i,a,b) for(int i=a; i>=b; --i)
+#define pb push_back
+#define ppb pop_back
+#define ins insert
+#define ff first
+#define ss  second
 #define FAST (ios_base::sync_with_stdio(false), cin.tie(nullptr));
 ll pow(ll x,ll y,ll m=1e9+7){ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x)%m;y>>=1;}return ans;}
 
