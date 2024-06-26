@@ -26,19 +26,14 @@ void solve()
 {
     int x,y,k;
     cin>>x>>y>>k;
-    while(k)
+    while(k && x>1)
     {
-        int r=x%y;
-        x += min(k,y-r);
-        k -= min(k,y-r);
+        int r=y-x%y;
+        x += min(k,r);
+        k -= min(k,r);
         while(x%y==0) x /= y;
-        if(x==1)
-        {
-            cout<<k%(y-1)+1<<endl;
-            return;
-        }
     }
-    cout<<x<<endl;
+    cout<<x+k%(y-1)<<endl;
 }
 
 signed main()
