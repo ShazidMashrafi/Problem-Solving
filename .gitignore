@@ -1,3 +1,6 @@
 *
-!/Code/
-!/Assets/
+!Codes/
+!Codes/*
+!Assets/
+!Assets/*
+!Readme.md
