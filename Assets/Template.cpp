@@ -10,8 +10,7 @@ using namespace std;
 #define endl '\n'
 #define all(x) x.begin(), x.end()
 #define sz(x) (int)(x).size()
-#define yes cout << "YES" << endl
-#define no cout << "NO" << endl
+#define yn(f) f? cout<<"YES\n":cout<<"NO\n";
 #define rep(i,a,b)  for(int i=a; i<b; ++i)
 #define rrep(i,a,b) for(int i=a; i>=b; --i)
 #define pb push_back
