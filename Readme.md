@@ -358,6 +358,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 346 | 1986 C | Update Queries | [Question](https://codeforces.com/problemset/problem/1986/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20C%20-%20Update%20Queries)
 | 347 | 1986 D | Mathematical Problem | [Question](https://codeforces.com/problemset/problem/1986/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20D%20-%20Mathematical%20Problem)
 | 348 | 1986 E | Beautiful Array | [Question](https://codeforces.com/problemset/problem/1986/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20E%20-%20Beautiful%20Array)
+| 349 | 1989 A | Catch the Coin | [Question](https://codeforces.com/problemset/problem/1989/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20A%20-%20Catch%20the%20Coin)
+| 350 | 1989 B | Substring and Subsequence | [Question](https://codeforces.com/problemset/problem/1989/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20B%20-%20Substring%20and%20Subsequence)
+| 351 | 1989 C | Two Movies | [Question](https://codeforces.com/problemset/problem/1989/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20C%20-%20Two%20Movies)
 
 
 
