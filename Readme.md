@@ -370,6 +370,10 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 358 | 1992 A | Only Pluses | [Question](https://codeforces.com/problemset/problem/1992/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20A%20-%20Only%20Pluses)
 | 359 | 1992 B | Angry Monk | [Question](https://codeforces.com/problemset/problem/1992/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20B%20-%20Angry%20Monk)
 | 360 | 1992 C | Gorilla and Permutation | [Question](https://codeforces.com/problemset/problem/1992/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20C%20-%20Gorilla%20and%20Permutation)
+| 361 | 1996 A | Legs | [Question](https://codeforces.com/problemset/problem/1996/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20A%20-%20Legs)
+| 362 | 1996 B | Scale | [Question](https://codeforces.com/problemset/problem/1996/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20B%20-%20Scale)
+| 363 | 1996 C | Sort | [Question](https://codeforces.com/problemset/problem/1996/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20C%20-%20Sort)
+| 364 | 1996 D | Fun | [Question](https://codeforces.com/problemset/problem/1996/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20D%20-%20Fun)
 
 
 
