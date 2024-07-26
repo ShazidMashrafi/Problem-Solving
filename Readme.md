@@ -362,12 +362,14 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 350 | 1986 C | Update Queries | [Question](https://codeforces.com/problemset/problem/1986/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20C%20-%20Update%20Queries)
 | 351 | 1986 D | Mathematical Problem | [Question](https://codeforces.com/problemset/problem/1986/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20D%20-%20Mathematical%20Problem)
 | 352 | 1986 E | Beautiful Array | [Question](https://codeforces.com/problemset/problem/1986/E) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1986%20E%20-%20Beautiful%20Array)
-| 353 | 1989 A | Catch the Coin | [Question](https://codeforces.com/problemset/problem/1989/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20A%20-%20Catch%20the%20Coin)
-| 354 | 1989 B | Substring and Subsequence | [Question](https://codeforces.com/problemset/problem/1989/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20B%20-%20Substring%20and%20Subsequence)
-| 355 | 1989 C | Two Movies | [Question](https://codeforces.com/problemset/problem/1989/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20C%20-%20Two%20Movies)
-| 356 | 1992 A | Only Pluses | [Question](https://codeforces.com/problemset/problem/1992/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20A%20-%20Only%20Pluses)
-| 357 | 1992 B | Angry Monk | [Question](https://codeforces.com/problemset/problem/1992/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20B%20-%20Angry%20Monk)
-| 358 | 1992 C | Gorilla and Permutation | [Question](https://codeforces.com/problemset/problem/1992/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20C%20-%20Gorilla%20and%20Permutation)
+| 353 | 1988 A | Split the Multiset | [Question](https://codeforces.com/problemset/problem/1988/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1988%20A%20-%20Split%20the%20Multiset)
+| 354 | 1988 B | Make Majority | [Question](https://codeforces.com/problemset/problem/1988/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1988%20B%20-%20Make%20Majority)
+| 355 | 1989 A | Catch the Coin | [Question](https://codeforces.com/problemset/problem/1989/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20A%20-%20Catch%20the%20Coin)
+| 356 | 1989 B | Substring and Subsequence | [Question](https://codeforces.com/problemset/problem/1989/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20B%20-%20Substring%20and%20Subsequence)
+| 357 | 1989 C | Two Movies | [Question](https://codeforces.com/problemset/problem/1989/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20C%20-%20Two%20Movies)
+| 358 | 1992 A | Only Pluses | [Question](https://codeforces.com/problemset/problem/1992/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20A%20-%20Only%20Pluses)
+| 359 | 1992 B | Angry Monk | [Question](https://codeforces.com/problemset/problem/1992/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20B%20-%20Angry%20Monk)
+| 360 | 1992 C | Gorilla and Permutation | [Question](https://codeforces.com/problemset/problem/1992/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20C%20-%20Gorilla%20and%20Permutation)
 
 
 
