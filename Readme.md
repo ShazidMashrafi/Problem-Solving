@@ -367,13 +367,16 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 355 | 1989 A | Catch the Coin | [Question](https://codeforces.com/problemset/problem/1989/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20A%20-%20Catch%20the%20Coin)
 | 356 | 1989 B | Substring and Subsequence | [Question](https://codeforces.com/problemset/problem/1989/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20B%20-%20Substring%20and%20Subsequence)
 | 357 | 1989 C | Two Movies | [Question](https://codeforces.com/problemset/problem/1989/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1989%20C%20-%20Two%20Movies)
-| 358 | 1992 A | Only Pluses | [Question](https://codeforces.com/problemset/problem/1992/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20A%20-%20Only%20Pluses)
-| 359 | 1992 B | Angry Monk | [Question](https://codeforces.com/problemset/problem/1992/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20B%20-%20Angry%20Monk)
-| 360 | 1992 C | Gorilla and Permutation | [Question](https://codeforces.com/problemset/problem/1992/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20C%20-%20Gorilla%20and%20Permutation)
-| 361 | 1996 A | Legs | [Question](https://codeforces.com/problemset/problem/1996/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20A%20-%20Legs)
-| 362 | 1996 B | Scale | [Question](https://codeforces.com/problemset/problem/1996/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20B%20-%20Scale)
-| 363 | 1996 C | Sort | [Question](https://codeforces.com/problemset/problem/1996/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20C%20-%20Sort)
-| 364 | 1996 D | Fun | [Question](https://codeforces.com/problemset/problem/1996/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20D%20-%20Fun)
+| 358 | 1991 A | Maximize the Last Element | [Question](https://codeforces.com/problemset/problem/1991/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1991%20A%20-%20Maximize%20the%20Last%20Element)
+| 359 | 1991 B | AND Reconstruction | [Question](https://codeforces.com/problemset/problem/1991/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1991%20B%20-%20AND%20Reconstruction)
+| 360 | 1991 C | Absolute Zero | [Question](https://codeforces.com/problemset/problem/1991/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1991%20C%20-%20Absolute%20Zero)
+| 361 | 1992 A | Only Pluses | [Question](https://codeforces.com/problemset/problem/1992/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20A%20-%20Only%20Pluses)
+| 362 | 1992 B | Angry Monk | [Question](https://codeforces.com/problemset/problem/1992/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20B%20-%20Angry%20Monk)
+| 363 | 1992 C | Gorilla and Permutation | [Question](https://codeforces.com/problemset/problem/1992/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1992%20C%20-%20Gorilla%20and%20Permutation)
+| 364 | 1996 A | Legs | [Question](https://codeforces.com/problemset/problem/1996/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20A%20-%20Legs)
+| 365 | 1996 B | Scale | [Question](https://codeforces.com/problemset/problem/1996/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20B%20-%20Scale)
+| 366 | 1996 C | Sort | [Question](https://codeforces.com/problemset/problem/1996/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20C%20-%20Sort)
+| 367 | 1996 D | Fun | [Question](https://codeforces.com/problemset/problem/1996/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20D%20-%20Fun)
 
 
 
