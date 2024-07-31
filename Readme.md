@@ -377,6 +377,10 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 365 | 1996 B | Scale | [Question](https://codeforces.com/problemset/problem/1996/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20B%20-%20Scale)
 | 366 | 1996 C | Sort | [Question](https://codeforces.com/problemset/problem/1996/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20C%20-%20Sort)
 | 367 | 1996 D | Fun | [Question](https://codeforces.com/problemset/problem/1996/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1996%20D%20-%20Fun)
+| 368 | 1997 A | Strong Password | [Question](https://codeforces.com/problemset/problem/1997/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1997%20A%20-%20Strong%20Password)
+| 369 | 1997 B | Make Three Regions | [Question](https://codeforces.com/problemset/problem/1997/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1997%20B%20-%20Make%20Three%20Regions)
+| 370 | 1997 C | Even Positions | [Question](https://codeforces.com/problemset/problem/1997/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1997%20C%20-%20Even%20Positions)
+| 371 | 1997 D | Maximize the Root | [Question](https://codeforces.com/problemset/problem/1997/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1997%20D%20-%20Maximize%20the%20Root)
 
 
 
