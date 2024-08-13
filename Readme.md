@@ -383,6 +383,10 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 371 | 1997 B | Make Three Regions | [Question](https://codeforces.com/problemset/problem/1997/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1997%20B%20-%20Make%20Three%20Regions)
 | 372 | 1997 C | Even Positions | [Question](https://codeforces.com/problemset/problem/1997/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1997%20C%20-%20Even%20Positions)
 | 373 | 1997 D | Maximize the Root | [Question](https://codeforces.com/problemset/problem/1997/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1997%20D%20-%20Maximize%20the%20Root)
+| 374 | 1999 A | A+B Again | [Question](https://codeforces.com/problemset/problem/1999/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1999%20A%20-%20A+B%20Again)
+| 375 | 1999 B | Card Game | [Question](https://codeforces.com/problemset/problem/1999/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1999%20B%20-%20Card%20Game)
+| 376 | 1999 C | Showering | [Question](https://codeforces.com/problemset/problem/1999/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1999%20C%20-%20Showering)
+| 377 | 1999 D | Slavic's Exam | [Question](https://codeforces.com/problemset/problem/1999/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1999%20D%20-%20Slavic's%20Exam)
 
 
 
