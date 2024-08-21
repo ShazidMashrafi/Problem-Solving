@@ -33,7 +33,7 @@ signed main()
     // cin >> TCS;
     for (int TC = 1; TC <= TCS; ++TC)
     {
-      // cout<<"Case "<<TC<<": ";
-      solve();
+        // cout<<"Case "<<TC<<": ";
+        solve();
     }
 }
