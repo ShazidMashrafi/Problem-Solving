@@ -387,6 +387,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 375 | 1999 B | Card Game | [Question](https://codeforces.com/problemset/problem/1999/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1999%20B%20-%20Card%20Game)
 | 376 | 1999 C | Showering | [Question](https://codeforces.com/problemset/problem/1999/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1999%20C%20-%20Showering)
 | 377 | 1999 D | Slavic's Exam | [Question](https://codeforces.com/problemset/problem/1999/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/1999%20D%20-%20Slavic's%20Exam)
+| 378 | 2000 A | Primary Task | [Question](https://codeforces.com/problemset/problem/2000/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2000%20A%20-%20Primary%20Task)
+| 379 | 2000 B | Seating in a Bus | [Question](https://codeforces.com/problemset/problem/2000/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2000%20B%20-%20Seating%20in%20a%20Bus)
+| 380 | 2000 C | Numeric String Template | [Question](https://codeforces.com/problemset/problem/2000/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2000%20C%20-%20Numeric%20String%20Template)
 
 
 
