@@ -404,6 +404,9 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 392 | 2000 C | Numeric String Template | [Question](https://codeforces.com/problemset/problem/2000/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2000%20C%20-%20Numeric%20String%20Template)
 | 393 | 2007 A | Dora's Set | [Question](https://codeforces.com/problemset/problem/2007/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2007%20A%20-%20Dora's%20Set)
 | 394 | 2007 B | Index and Maximum Value | [Question](https://codeforces.com/problemset/problem/2007/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2007%20B%20-%20Index%20and%20Maximum%20Value)
+| 395 | 2009 A | Minimize! | [Question](https://codeforces.com/problemset/problem/2009/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2009%20A%20-%20Minimize!)
+| 396 | 2009 B | osu!mania | [Question](https://codeforces.com/problemset/problem/2009/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2009%20B%20-%20osu!mania)
+| 397 | 2009 C | The Legend of Freya the Frog | [Question](https://codeforces.com/problemset/problem/2009/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2009%20C%20-%20The%20Legend%20of%20Freya%20the%20Frog)
 
 
 
