@@ -408,6 +408,8 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 396 | 2009 B | osu!mania | [Question](https://codeforces.com/problemset/problem/2009/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2009%20B%20-%20osu!mania)
 | 397 | 2009 C | The Legend of Freya the Frog | [Question](https://codeforces.com/problemset/problem/2009/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2009%20C%20-%20The%20Legend%20of%20Freya%20the%20Frog)
 | 398 | 2009 D | Satyam and Counting | [Question](https://codeforces.com/problemset/problem/2009/D) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2009%20D%20-%20Satyam%20and%20Counting)
+| 399 | 2014 A | Robin Helps | [Question](https://codeforces.com/problemset/problem/2014/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2014%20A%20-%20Robin%20Helps)
+| 400 | 2014 B | Robin Hood and the Major Oak | [Question](https://codeforces.com/problemset/problem/2014/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2014%20B%20-%20Robin%20Hood%20and%20the%20Major%20Oak)
 
 
 
