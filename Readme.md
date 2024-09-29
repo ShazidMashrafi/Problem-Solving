@@ -412,6 +412,7 @@ This repository contains my solutions of Codeforces problems. They are in C++ la
 | 400 | 2014 B | Robin Hood and the Major Oak | [Question](https://codeforces.com/problemset/problem/2014/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2014%20B%20-%20Robin%20Hood%20and%20the%20Major%20Oak)
 | 401 | 2020 A | Find Minimum Operations | [Question](https://codeforces.com/problemset/problem/2020/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2020%20A%20-%20Find%20Minimum%20Operations)
 | 402 | 2020 B | Brightness Begins | [Question](https://codeforces.com/problemset/problem/2020/B) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2020%20B%20-%20Brightness%20Begins)
+| 403 | 2020 C | Bitwise Balancing | [Question](https://codeforces.com/problemset/problem/2020/C) | [Solution](https://github.com/ShazidMashrafi/Codeforces-Solutions/tree/master/Codes/2020%20C%20-%20Bitwise%20Balancing)
 
 
 
