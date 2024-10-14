@@ -3,7 +3,7 @@ using namespace std;
 #ifdef ONLINE_JUDGE
 #define dbg(...)
 #else
-#include "Assets/debug.h"
+#include "G:\Programming\Problem Solving\Assets\debug.h"
 #endif
 #define  int  long long
 #define  ll  long long
@@ -25,23 +25,17 @@ void solve()
 {
     int n,r;
     cin>>n>>r;
-    int odd = 0;
-    int happy = 0;
+    int rem = 0;
+    int ans = 0;
     for(int i=0; i<n; ++i)
     {
         int x;
         cin>>x;
         r -= x/2;
-        happy += x;
-        if(x&1) 
-        {
-            odd++;
-            happy--;
-        }
-        dbg(x,r,happy, odd);
+        ans += (x/2)*2;
+        rem += (x%2);
     }
-    dbg(r, odd, happy);
-    cout<<happy+min(2*r-odd,odd)<<endl;
+    cout<<ans+min(2*r-rem,rem)<<endl;
 }
 
 signed main()
