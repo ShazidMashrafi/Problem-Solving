@@ -3,7 +3,7 @@ using namespace std;
 #ifdef ONLINE_JUDGE
 #define dbg(...)
 #else
-#include "G:\Programming\Problem Solving\Assets\debug.h"
+#include <debug.h>
 #endif
 #define  int  long long
 #define  ll  long long
