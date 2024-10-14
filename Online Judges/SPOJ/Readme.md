@@ -1,4 +1,4 @@
-# Codeforces Solutions
+# SPOJ Solutions
 
 This page contains my solutions of SPOJ problems. They are in C++ language.  
 

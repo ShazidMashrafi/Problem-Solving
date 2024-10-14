@@ -1,6 +1,6 @@
-# Codechef Solutions
+# CodeChef Solutions
 
-This page contains my solution of Codechef problems. They are in C and C++ language.
+This page contains my solution of CodeChef problems. They are in C and C++ language.
 
 <div align="center">
 
@@ -138,4 +138,4 @@ This page contains my solution of Codechef problems. They are in C and C++ langu
 
 I am Shazid Mashrafi.  
 I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.    
-Visit my [Website](https://shazidmashrafi.com) and [Codechef](https://www.codechef.com/users/shazidmashrafi) account.
+Visit my [Website](https://shazidmashrafi.com) and [CodeChef](https://www.codechef.com/users/shazidmashrafi) account.
