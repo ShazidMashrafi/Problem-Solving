@@ -415,6 +415,7 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 404 | 2022 A | Bus to Pénjamo | [Question](https://codeforces.com/problemset/problem/2022/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2022%20A%20-%20Bus%20to%20Pénjamo)
 | 405 | 2025 A | Two Screens | [Question](https://codeforces.com/problemset/problem/2025/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20A%20-%20Two%20Screens)
 | 406 | 2025 B | Binomial Coefficients, Kind Of | [Question](https://codeforces.com/problemset/problem/2025/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20B%20-%20Binomial%20Coefficients,%20Kind%20Of)
+| 407 | 2025 C | New Game | [Question](https://codeforces.com/problemset/problem/2025/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20C%20-%20New%20Game)
 
 
 
