@@ -1,8 +1,6 @@
 # UVA (Online Judge) Solutions
 
-This repository contains my solutions of UVA problems. They are in C++ language.  
-
-#### If this repository helped you out, please consider giving it a :star:
+This page contains my solutions of UVA problems. They are in C++ language.  
 
 <div align="center">
 
@@ -10,7 +8,7 @@ This repository contains my solutions of UVA problems. They are in C++ language.
 #### Sorted by Problem ID 
 |  Index  | Problem ID | Problem Name | Solution |
 | :-----: |  :--------: | :----------: | :------: |
-| 1 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA-Solutions/tree/master/Codes/11723%20-%20Numbering%20Roads)
+| 1 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/UVA/Codes/11723%20-%20Numbering%20Roads)
 
 
 

@@ -1,8 +1,7 @@
 # CSES Solutions
 
-This repository contains my solutions of CSES problems. They are in C++ language.  
+This page contains my solutions of CSES problems. They are in C++ language.  
 
-#### If this repository helped you out, please consider giving it a :star:
 
 <div align="center">
 
@@ -10,9 +9,9 @@ This repository contains my solutions of CSES problems. They are in C++ language
 #### Sorted by Problem ID 
 |  Index  | Problem ID | Problem Name | Question | Solution |
 | :-----: |  :--------: | :----------: | :------: | :------: |
-| 1 | 1633 | Dice Combinations | [Question](https://cses.fi/problemset/task/1633) | [Solution](https://github.com/ShazidMashrafi/CSES-Solutions/tree/master/Codes/1633%20-%20Dice%20Combinations)
-| 2 | 1634 | Minimizing Coins | [Question](https://cses.fi/problemset/task/1634) | [Solution](https://github.com/ShazidMashrafi/CSES-Solutions/tree/master/Codes/1634%20-%20Minimizing%20Coins)
-| 3 | 1635 | Coin Combinations I | [Question](https://cses.fi/problemset/task/1635) | [Solution](https://github.com/ShazidMashrafi/CSES-Solutions/tree/master/Codes/1635%20-%20Coin%20Combinations%20I)
+| 1 | 1633 | Dice Combinations | [Question](https://cses.fi/problemset/task/1633) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/CSES/Codes/1633%20-%20Dice%20Combinations)
+| 2 | 1634 | Minimizing Coins | [Question](https://cses.fi/problemset/task/1634) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/CSES/Codes/1634%20-%20Minimizing%20Coins)
+| 3 | 1635 | Coin Combinations I | [Question](https://cses.fi/problemset/task/1635) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/CSES/Codes/1635%20-%20Coin%20Combinations%20I)
 
 
 
