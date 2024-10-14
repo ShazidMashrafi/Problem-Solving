@@ -1,9 +1,0 @@
-
-
-</div>
-
-## About Me :eyes:
-
-I am Shazid Mashrafi.  
-I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.     
-Visit my [Website](https://shazidmashrafi.com) and [CSES](https://cses.fi/user/238576) account.
