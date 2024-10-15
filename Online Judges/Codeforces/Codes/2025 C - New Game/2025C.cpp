@@ -25,30 +25,33 @@ void solve()
 {
     int n ,k;
     cin >> n>> k;
-    unordered_map<int,int>m;
+    map<int,int>m;
     rep(i,0,n)
     {
         int x;
         cin>>x;
         m[x]++;
     }
-    vector<pair<int,int>>v(all(m));
-    sort(all(v));
-    int mx=0, sum=0, j=0;
-    for(int i=0;i<sz(v);i++)
+    dbg(m);
+    int mx=0, ct=0, last=-1, i=-1;
+    for(auto [x,y]:m)
     {
-        if(i>0 && v[i].ff!=v[i-1].ff+1)
+        dbg(last, x, y,i);
+        if(x!=last+1)
         {
-            sum=0;
-            j=i;
+            i = x;
+            ct = 0;
+            dbg(i,ct);
         }
-        sum+=v[i].ss;
-        if(i==k+j)
+        if(x-i>=k) 
         {
-            sum -= v[j].ss;
-            j++;
+            dbg(m[x-k]);
+            ct -= m[x-k];
         }
-        mx=max(mx,sum);
+        ct += y;
+        last = x;
+        mx = max(mx,ct);
+        dbg(ct, mx);
     }
     cout << mx << endl;
 }
