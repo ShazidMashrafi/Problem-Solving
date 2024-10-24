@@ -424,9 +424,10 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 413 | 2020 C | Bitwise Balancing | [Question](https://codeforces.com/problemset/problem/2020/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2020%20C%20-%20Bitwise%20Balancing)
 | 414 | 2022 A | Bus to Pénjamo | [Question](https://codeforces.com/problemset/problem/2022/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2022%20A%20-%20Bus%20to%20Pénjamo)
 | 415 | 2022 B | Kar Salesman | [Question](https://codeforces.com/problemset/problem/2022/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2022%20B%20-%20Kar%20Salesman)
-| 416 | 2025 A | Two Screens | [Question](https://codeforces.com/problemset/problem/2025/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20A%20-%20Two%20Screens)
-| 417 | 2025 B | Binomial Coefficients, Kind Of | [Question](https://codeforces.com/problemset/problem/2025/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20B%20-%20Binomial%20Coefficients,%20Kind%20Of)
-| 418 | 2025 C | New Game | [Question](https://codeforces.com/problemset/problem/2025/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20C%20-%20New%20Game)
+| 416 | 2024 A | Profitable Interest Rate | [Question](https://codeforces.com/problemset/problem/2024/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2024%20A%20-%20Profitable%20Interest%20Rate)
+| 417 | 2025 A | Two Screens | [Question](https://codeforces.com/problemset/problem/2025/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20A%20-%20Two%20Screens)
+| 418 | 2025 B | Binomial Coefficients, Kind Of | [Question](https://codeforces.com/problemset/problem/2025/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20B%20-%20Binomial%20Coefficients,%20Kind%20Of)
+| 419 | 2025 C | New Game | [Question](https://codeforces.com/problemset/problem/2025/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20C%20-%20New%20Game)
 
 
 
