@@ -428,6 +428,10 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 417 | 2025 A | Two Screens | [Question](https://codeforces.com/problemset/problem/2025/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20A%20-%20Two%20Screens)
 | 418 | 2025 B | Binomial Coefficients, Kind Of | [Question](https://codeforces.com/problemset/problem/2025/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20B%20-%20Binomial%20Coefficients,%20Kind%20Of)
 | 419 | 2025 C | New Game | [Question](https://codeforces.com/problemset/problem/2025/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2025%20C%20-%20New%20Game)
+| 420 | 2026 A | Perpendicular Segments | [Question](https://codeforces.com/problemset/problem/2026/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2026%20A%20-%20Perpendicular%20Segments)
+| 421 | 2033 A | Sakurako and Kosuke | [Question](https://codeforces.com/problemset/problem/2033/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2033%20A%20-%20Sakurako%20and%20Kosuke)
+| 422 | 2042 A | Greedy Monocarp | [Question](https://codeforces.com/problemset/problem/2042/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2042%20A%20-%20Greedy%20Monocarp)
+| 423 | 2042 B | Game with Colored Marbles | [Question](https://codeforces.com/problemset/problem/2042/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2042%20B%20-%20Game%20with%20Colored%20Marbles)
 
 
 
