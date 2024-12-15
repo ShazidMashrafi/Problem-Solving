@@ -432,6 +432,12 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 421 | 2033 A | Sakurako and Kosuke | [Question](https://codeforces.com/problemset/problem/2033/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2033%20A%20-%20Sakurako%20and%20Kosuke)
 | 422 | 2042 A | Greedy Monocarp | [Question](https://codeforces.com/problemset/problem/2042/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2042%20A%20-%20Greedy%20Monocarp)
 | 423 | 2042 B | Game with Colored Marbles | [Question](https://codeforces.com/problemset/problem/2042/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2042%20B%20-%20Game%20with%20Colored%20Marbles)
+| 424 | 2044 A | Easy Problem | [Question](https://codeforces.com/problemset/problem/2044/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20A%20-%20Easy%20Problem)
+| 425 | 2044 B | Normal Problem | [Question](https://codeforces.com/problemset/problem/2044/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20B%20-%20Normal%20Problem)
+| 426 | 2044 C | Hard Problem | [Question](https://codeforces.com/problemset/problem/2044/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20C%20-%20Hard%20Problem)
+| 427 | 2044 D | Harder Problem | [Question](https://codeforces.com/problemset/problem/2044/D) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20D%20-%20Harder%20Problem)
+| 428 | 2044 E | Insane Problem | [Question](https://codeforces.com/problemset/problem/2044/E) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20E%20-%20Insane%20Problem)
+| 429 | 2044 G1 | Medium Demon Problem (easy version) | [Question](https://codeforces.com/problemset/problem/2044/G1) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20G1%20-%20Medium%20Demon%20Problem%20(easy%20version))
 
 
 
