@@ -1,24 +1,23 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
 
-
 void solve()
 {
-    map<int,int>m;
+    map<int, int> m;
     int n;
-    cin>>n;
-    for(int i=1; i<=n; ++i)
+    cin >> n;
+    for (int i = 1; i <= n; ++i)
     {
         int x;
-        cin>>x;
-        m[x]=i; 
-    } 
-    for(auto it: m)
-    {
-        cout<<it.second<<" ";
+        cin >> x;
+        m[x] = i;
     }
-    cout<<endl;
+    for (auto it : m)
+    {
+        cout << it.second << " ";
+    }
+    cout << endl;
 }
 
 int main()
@@ -27,7 +26,8 @@ int main()
     cin.tie(nullptr);
 
     int TC = 1;
-    //cin >> TC;
-    //cin.ignore();
-    while (TC--) solve();
+    // cin >> TC;
+    // cin.ignore();
+    while (TC--)
+        solve();
 }
