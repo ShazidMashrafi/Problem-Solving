@@ -439,8 +439,10 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 428 | 2044 E | Insane Problem | [Question](https://codeforces.com/problemset/problem/2044/E) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20E%20-%20Insane%20Problem)
 | 429 | 2044 G1 | Medium Demon Problem (easy version) | [Question](https://codeforces.com/problemset/problem/2044/G1) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2044%20G1%20-%20Medium%20Demon%20Problem%20(easy%20version))
 | 430 | 2053 A | Tender Carpenter | [Question](https://codeforces.com/problemset/problem/2053/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2053%20A%20-%20Tender%20Carpenter)
-| 431 | 2057 A | MEX Table | [Question](https://codeforces.com/problemset/problem/2057/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20A%20-%20MEX%20Table)
-| 432 | 2057 B | Gorilla and the Exam | [Question](https://codeforces.com/problemset/problem/2057/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20B%20-%20Gorilla%20and%20the%20Exam)
+| 431 | 2055 A | Two Frogs | [Question](https://codeforces.com/problemset/problem/2055/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2055%20A%20-%20Two%20Frogs)
+| 432 | 2055 B | Crafting | [Question](https://codeforces.com/problemset/problem/2055/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2055%20B%20-%20Crafting)
+| 433 | 2057 A | MEX Table | [Question](https://codeforces.com/problemset/problem/2057/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20A%20-%20MEX%20Table)
+| 434 | 2057 B | Gorilla and the Exam | [Question](https://codeforces.com/problemset/problem/2057/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20B%20-%20Gorilla%20and%20the%20Exam)
 
 
 
