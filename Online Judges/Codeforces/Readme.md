@@ -441,8 +441,15 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 430 | 2053 A | Tender Carpenter | [Question](https://codeforces.com/problemset/problem/2053/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2053%20A%20-%20Tender%20Carpenter)
 | 431 | 2055 A | Two Frogs | [Question](https://codeforces.com/problemset/problem/2055/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2055%20A%20-%20Two%20Frogs)
 | 432 | 2055 B | Crafting | [Question](https://codeforces.com/problemset/problem/2055/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2055%20B%20-%20Crafting)
-| 433 | 2057 A | MEX Table | [Question](https://codeforces.com/problemset/problem/2057/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20A%20-%20MEX%20Table)
-| 434 | 2057 B | Gorilla and the Exam | [Question](https://codeforces.com/problemset/problem/2057/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20B%20-%20Gorilla%20and%20the%20Exam)
+| 433 | 2056 A | Shape Perimeter | [Question](https://codeforces.com/problemset/problem/2056/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2056%20A%20-%20Shape%20Perimeter)
+| 434 | 2057 A | MEX Table | [Question](https://codeforces.com/problemset/problem/2057/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20A%20-%20MEX%20Table)
+| 435 | 2057 B | Gorilla and the Exam | [Question](https://codeforces.com/problemset/problem/2057/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2057%20B%20-%20Gorilla%20and%20the%20Exam)
+| 436 | 2060 A | Fibonacciness | [Question](https://codeforces.com/problemset/problem/2060/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2060%20A%20-%20Fibonacciness)
+| 437 | 2060 B | Farmer John's Card Game | [Question](https://codeforces.com/problemset/problem/2060/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2060%20B%20-%20Farmer%20John's%20Card%20Game)
+| 438 | 2060 C | Game of Mathletes | [Question](https://codeforces.com/problemset/problem/2060/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2060%20C%20-%20Game%20of%20Mathletes)
+| 439 | 2060 D | Subtract Min Sort | [Question](https://codeforces.com/problemset/problem/2060/D) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2060%20D%20-%20Subtract%20Min%20Sort)
+| 440 | 2060 E | Graph Composition | [Question](https://codeforces.com/problemset/problem/2060/E) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2060%20E%20-%20Graph%20Composition)
+| 441 | 2061 A | Kevin and Arithmetic | [Question](https://codeforces.com/problemset/problem/2061/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2061%20A%20-%20Kevin%20and%20Arithmetic)
 
 
 
