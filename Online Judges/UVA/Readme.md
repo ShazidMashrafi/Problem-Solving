@@ -8,7 +8,8 @@ This page contains my solutions of UVA problems. They are in C++ language.
 #### Sorted by Problem ID 
 |  Index  | Problem ID | Problem Name | Solution |
 | :-----: |  :--------: | :----------: | :------: |
-| 1 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/UVA/Codes/11723%20-%20Numbering%20Roads)
+| 1 | 543 | Goldbach's Conjecture | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/UVA/Codes/543%20-%20Goldbach's%20Conjecture)
+| 2 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/UVA/Codes/11723%20-%20Numbering%20Roads)
 
 
 
