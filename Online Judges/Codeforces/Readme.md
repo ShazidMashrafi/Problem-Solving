@@ -458,6 +458,12 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 447 | 2062 A | String | [Question](https://codeforces.com/problemset/problem/2062/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2062%20A%20-%20String)
 | 448 | 2062 B | Clockwork | [Question](https://codeforces.com/problemset/problem/2062/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2062%20B%20-%20Clockwork)
 | 449 | 2062 C | Cirno and Operations | [Question](https://codeforces.com/problemset/problem/2062/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2062%20C%20-%20Cirno%20and%20Operations)
+| 450 | 2065 A | Skibidus and Amog'u | [Question](https://codeforces.com/problemset/problem/2065/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20A%20-%20Skibidus%20and%20Amog'u)
+| 451 | 2065 B | Skibidus and Ohio | [Question](https://codeforces.com/problemset/problem/2065/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20B%20-%20Skibidus%20and%20Ohio)
+| 452 | 2065 C1 | Skibidus and Fanum Tax (easy version) | [Question](https://codeforces.com/problemset/problem/2065/C1) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20C1%20-%20Skibidus%20and%20Fanum%20Tax%20(easy%20version))
+| 453 | 2065 C2 | Skibidus and Fanum Tax (hard version) | [Question](https://codeforces.com/problemset/problem/2065/C2) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20C2%20-%20Skibidus%20and%20Fanum%20Tax%20(hard%20version))
+| 454 | 2065 D | Skibidus and Sigma | [Question](https://codeforces.com/problemset/problem/2065/D) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20D%20-%20Skibidus%20and%20Sigma)
+| 455 | 2065 E | Skibidus and Rizz | [Question](https://codeforces.com/problemset/problem/2065/E) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20E%20-%20Skibidus%20and%20Rizz)
 
 
 
