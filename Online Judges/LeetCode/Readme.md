@@ -1,6 +1,6 @@
-# Leetcode Solutions
+# LeetCode Solutions
 
-This page contains my solutions of Leetcode problems. They are in C++ language.  
+This page contains my solutions of LeetCode problems. They are in C++ language.  
 
 
 <div align="center">
@@ -21,6 +21,7 @@ This page contains my solutions of Leetcode problems. They are in C++ language.
 | 10 | 733 | Flood Fill | [Question](https://leetcode.com/problems/flood-fill) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LeetCode/Codes/733%20-%20Flood%20Fill)
 | 11 | 743 | Network Delay Time | [Question](https://leetcode.com/problems/network-delay-time) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LeetCode/Codes/743%20-%20Network%20Delay%20Time)
 | 12 | 746 | Min Cost Climbing Stairs | [Question](https://leetcode.com/problems/min-cost-climbing-stairs) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LeetCode/Codes/746%20-%20Min%20Cost%20Climbing%20Stairs)
+| 13 | 1910 | Remove All Occurrences of a Substring | [Question](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LeetCode/Codes/1910%20-%20Remove%20All%20Occurrences%20of%20a%20Substring)
 
 
 
@@ -30,4 +31,4 @@ This page contains my solutions of Leetcode problems. They are in C++ language.
 
 I am Shazid Mashrafi.  
 I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.     
-Visit my [Website](https://shazidmashrafi.com) and [Leetcode](https://leetcode.com/shazidmashrafi) account.
+Visit my [Website](https://shazidmashrafi.com) and [LeetCode](https://leetcode.com/shazidmashrafi) account.
