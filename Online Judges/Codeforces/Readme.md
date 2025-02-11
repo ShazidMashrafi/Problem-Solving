@@ -464,6 +464,9 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 453 | 2065 C2 | Skibidus and Fanum Tax (hard version) | [Question](https://codeforces.com/problemset/problem/2065/C2) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20C2%20-%20Skibidus%20and%20Fanum%20Tax%20(hard%20version))
 | 454 | 2065 D | Skibidus and Sigma | [Question](https://codeforces.com/problemset/problem/2065/D) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20D%20-%20Skibidus%20and%20Sigma)
 | 455 | 2065 E | Skibidus and Rizz | [Question](https://codeforces.com/problemset/problem/2065/E) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2065%20E%20-%20Skibidus%20and%20Rizz)
+| 456 | 2067 A | Adjacent Digit Sums | [Question](https://codeforces.com/problemset/problem/2067/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2067%20A%20-%20Adjacent%20Digit%20Sums)
+| 457 | 2067 B | Two Large Bags | [Question](https://codeforces.com/problemset/problem/2067/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2067%20B%20-%20Two%20Large%20Bags)
+| 458 | 2067 C | Devyatkino | [Question](https://codeforces.com/problemset/problem/2067/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2067%20C%20-%20Devyatkino)
 
 
 
