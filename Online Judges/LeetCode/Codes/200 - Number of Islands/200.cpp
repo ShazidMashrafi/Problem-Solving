@@ -1,7 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-#define ll long long
-
 class Solution {
 public:
     void dfs(vector<vector<char>> &grid,int i, int j)
@@ -36,7 +32,3 @@ public:
         return ct;
     }
 };
-
-int main()
-{
-}
