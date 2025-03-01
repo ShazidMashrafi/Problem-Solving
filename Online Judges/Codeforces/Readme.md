@@ -474,6 +474,8 @@ This page contains my solutions of Codeforces problems. They are in C++ language
 | 463 | 2067 A | Adjacent Digit Sums | [Question](https://codeforces.com/problemset/problem/2067/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2067%20A%20-%20Adjacent%20Digit%20Sums)
 | 464 | 2067 B | Two Large Bags | [Question](https://codeforces.com/problemset/problem/2067/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2067%20B%20-%20Two%20Large%20Bags)
 | 465 | 2067 C | Devyatkino | [Question](https://codeforces.com/problemset/problem/2067/C) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2067%20C%20-%20Devyatkino)
+| 466 | 2072 A | New World, New Me, New Array | [Question](https://codeforces.com/problemset/problem/2072/A) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2072%20A%20-%20New%20World,%20New%20Me,%20New%20Array)
+| 467 | 2072 B | Having Been a Treasurer in the Past, I Help Goblins Deceive | [Question](https://codeforces.com/problemset/problem/2072/B) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/Codeforces/Codes/2072%20B%20-%20Having%20Been%20a%20Treasurer%20in%20the%20Past,%20I%20Help%20Goblins%20Deceive)
 
 
 
