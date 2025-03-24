@@ -23,7 +23,19 @@ ll pow(ll x,ll y,ll m=1e9+7) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x
 
 void solve()
 {
-    
+    vector<int>v(5);
+    for(auto &i : v)    cin >> i;
+    rep(i, 1, 5)
+    {
+        auto temp = v;
+        swap(temp[i], temp[i - 1]);
+        if(is_sorted(all(temp)))
+        {
+            cout << "Yes\n";
+            return;
+        }
+    }
+    cout << "No\n";
 }
 
 signed main()

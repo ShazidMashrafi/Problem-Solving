@@ -23,7 +23,9 @@ ll pow(ll x,ll y,ll m=1e9+7) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x
 
 void solve()
 {
-    
+    int n, m;
+    cin >> n >> m;
+    yn(n % m == 0);
 }
 
 signed main()
@@ -33,7 +35,7 @@ signed main()
     // freopen("output.txt", "w", stdout);  
 
     int TCS = 1;
-    // cin >> TCS;
+    cin >> TCS;
     for (int TC = 1; TC <= TCS; ++TC)
     {
         // cout<<"Case "<<TC<<": ";

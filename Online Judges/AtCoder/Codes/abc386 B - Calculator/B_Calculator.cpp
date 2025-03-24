@@ -23,15 +23,23 @@ ll pow(ll x,ll y,ll m=1e9+7) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x
 
 void solve()
 {
-    
+    string s;
+    cin >> s;
+    int ans = s.length();
+    rep(i, 0, sz(s) - 1)
+    {
+        if(s[i] == '0' && s[i] == s[i + 1])
+        {
+            ans--;
+            i++;
+        }
+    }
+    cout << ans << endl;
 }
 
 signed main()
 {
     FAST;
-    // freopen("input.txt", "r", stdin);    
-    // freopen("output.txt", "w", stdout);  
-
     int TCS = 1;
     // cin >> TCS;
     for (int TC = 1; TC <= TCS; ++TC)

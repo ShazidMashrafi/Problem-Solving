@@ -23,7 +23,25 @@ ll pow(ll x,ll y,ll m=1e9+7) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x*x
 
 void solve()
 {
-    
+    int n, d;
+    cin >> n >> d;
+    vector<pair<int, int>> v;
+    rep(i, 0, n)
+    {
+        int t, l;
+        cin >> t >> l;
+        v.pb({t, l});
+    }
+    rep(k, 1, d + 1)
+    {
+        int mx = 0;
+        for(auto [t, l] : v)
+        {
+            int w = t * (l + k);
+            mx = max(w, mx);
+        }
+        cout << mx << endl;
+    }
 }
 
 signed main()
