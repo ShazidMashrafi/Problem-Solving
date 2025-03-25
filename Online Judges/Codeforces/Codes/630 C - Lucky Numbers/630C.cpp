@@ -23,9 +23,12 @@ ll power(ll x,ll y,ll m=1e9+7) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x
 
 void solve()
 {
-    
+    int n, ct = 0;
+    cin >> n;
+    for(int i = 1; i <= n; ++i)
+        ct += power(2, i, LLONG_MAX);
+    cout << ct << endl;
 }
-
 signed main()
 {
     FAST;
