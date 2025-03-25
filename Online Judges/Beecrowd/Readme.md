@@ -42,8 +42,8 @@ This repository contains my solutions of Beecrowd problems. They are in C langua
 | 1043 | Triangle | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1043) | [Solution]
 | 1044 | Multiples | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1044) | [Solution]
 | 1045 | Triangle Types | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1045) | [Solution]
-| 1046 | Game Time | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1046) | [Solution]()
-| 1047 |  | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1047) | [Solution]()
+| 1046 | Game Time | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1046) | [Solution]
+| 1047 | Game Time with Minutes | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1047) | [Solution]
 | 1048 | Salary Increase | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1048) | [Solution]
 | 1049 | Animal | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1049) | [Solution]
 | 1050 | DDD | [Question](https://www.beecrowd.com.br/judge/en/problems/view/1050) | [Solution]
