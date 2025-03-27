@@ -20,6 +20,7 @@ This page contains my solutions of LightOJ problems. They are in C and C++ langu
 | 10 | Point Table | [Question](https://www.lightoj.com/problem/point-table) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LightOJ/Codes/%20-%20Point%20Table)
 | 11 | The Monkey and the Oiled Bamb | [Question](https://www.lightoj.com/problem/the-monkey-and-the-oiled-bamb) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LightOJ/Codes/%20-%20The%20Monkey%20and%20the%20Oiled%20Bamb)
 | 12 | Trailing Zeroes (III) | [Question](https://www.lightoj.com/problem/trailing-zeroes-(iii)) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LightOJ/Codes/%20-%20Trailing%20Zeroes%20(III))
+| 13 | Triangle Partitioning | [Question](https://www.lightoj.com/problem/triangle-partitioning) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/LightOJ/Codes/%20-%20Triangle%20Partitioning)
 
 </div>
 

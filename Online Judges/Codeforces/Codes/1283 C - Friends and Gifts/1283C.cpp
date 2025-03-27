@@ -20,7 +20,43 @@ ll power(ll x,ll y,ll m=1e9+7) {ll ans=1;x%=m;while(y){if(y&1)ans=(ans*x)%m;x=(x
 
 void solve()
 {
+    int n;
+    cin >> n;
+    vector<int> f(n + 1);
+    map<int, int> mp;
+    for (int i = 1; i <= n; i++)
+    {
+        cin >> f[i];
+        if(f[i]) mp[f[i]]++;
+    }
+    vector<int> cycle, in, out;
+    for(int i = 1; i <= n; ++i)
+    {
+        if(f[i] == 0 && mp[i] == 0) cycle.pb(i);
+        else if(f[i] == 0)  out.pb(i);
+        else if(mp[i] == 0) in.pb(i);
+    }
+
+    if(sz(cycle) == 1)
+    {
+        f[out[0]] = cycle[0];
+        f[cycle[0]] = in[0];
+        out.erase(out.begin());
+        in.erase(in.begin());  
+    }
+    else if(sz(cycle) > 1)
+    {
+        for (int i = 0; i < sz(cycle) - 1; i++)
+            f[cycle[i]] = cycle[i + 1];
+        f[cycle[sz(cycle) - 1]] = cycle[0];
+    }
+
+    for(int i = 0; i < sz(in); ++i)
+        f[out[i]] = in[i];
     
+    for(int i = 1; i <= n; ++i)  
+        cout << f[i] << " ";
+    cout << endl;
 }
 
 signed main()
