@@ -13,9 +13,10 @@ This page contains my solutions of SPOJ problems. They are in C++ language.
 | 2 | DIVFACT | Divisors of factorial | [Question](https://www.spoj.com/problems/DIVFACT) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/DIVFACT%20-%20Divisors%20of%20factorial)
 | 3 | EKO | Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/EKO%20-%20Eko)
 | 4 | NAKANJ | Minimum Knight moves | [Question](https://www.spoj.com/problems/NAKANJ) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/NAKANJ%20-%20Minimum%20Knight%20moves)
-| 5 | PRIME1 | Prime Generator | [Question](https://www.spoj.com/problems/PRIME1) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/PRIME1%20-%20Prime%20Generator)
-| 6 | SBANK | Sorting Bank Accounts | [Question](https://www.spoj.com/problems/SBANK) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/SBANK%20-%20Sorting%20Bank%20Accounts)
-| 7 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/ZSUM%20-%20Just%20Add%20It)
+| 5 | PALIN | The Next Palindrome | [Question](https://www.spoj.com/problems/PALIN) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/PALIN%20-%20The%20Next%20Palindrome)
+| 6 | PRIME1 | Prime Generator | [Question](https://www.spoj.com/problems/PRIME1) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/PRIME1%20-%20Prime%20Generator)
+| 7 | SBANK | Sorting Bank Accounts | [Question](https://www.spoj.com/problems/SBANK) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/SBANK%20-%20Sorting%20Bank%20Accounts)
+| 8 | ZSUM | Just Add It | [Question](https://www.spoj.com/problems/ZSUM) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/SPOJ/Codes/ZSUM%20-%20Just%20Add%20It)
 
 
 </div>
