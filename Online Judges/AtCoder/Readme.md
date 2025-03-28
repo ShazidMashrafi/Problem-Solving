@@ -35,14 +35,15 @@ This page contains my solutions of AtCoder problems. They are in C++ language.
 | 24 | abc386 | B | Calculator | [Question](https://atcoder.jp/contests/abc386/tasks/abc386_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc386%20B%20-%20Calculator)
 | 25 | abc388 | B | Heavy Snake | [Question](https://atcoder.jp/contests/abc388/tasks/abc388_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc388%20B%20-%20Heavy%20Snake)
 | 26 | abc390 | A | 12435 | [Question](https://atcoder.jp/contests/abc390/tasks/abc390_a) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc390%20A%20-%2012435)
-| 27 | abc393 | B | A..B..C | [Question](https://atcoder.jp/contests/abc393/tasks/abc393_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc393%20B%20-%20A..B..C)
-| 28 | abc396 | B | Card Pile | [Question](https://atcoder.jp/contests/abc396/tasks/abc396_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc396%20B%20-%20Card%20Pile)
-| 29 | arc178 | A | Good Permutation 2 | [Question](https://atcoder.jp/contests/arc178/tasks/arc178_a) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/arc178%20A%20-%20Good%20Permutation%202)
-| 30 | dp | A | Frog 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_a) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20A%20-%20Frog%201)
-| 31 | dp | B | Frog 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20B%20-%20Frog%202)
-| 32 | dp | C | Vacation | [Question](https://atcoder.jp/contests/dp/tasks/dp_c) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20C%20-%20Vacation)
-| 33 | dp | D | Knapsack 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_d) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20D%20-%20Knapsack%201)
-| 34 | dp | E | Knapsack 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_e) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20E%20-%20Knapsack%202)
+| 27 | abc392 | C | Bib | [Question](https://atcoder.jp/contests/abc392/tasks/abc392_c) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc392%20C%20-%20Bib)
+| 28 | abc393 | B | A..B..C | [Question](https://atcoder.jp/contests/abc393/tasks/abc393_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc393%20B%20-%20A..B..C)
+| 29 | abc396 | B | Card Pile | [Question](https://atcoder.jp/contests/abc396/tasks/abc396_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/abc396%20B%20-%20Card%20Pile)
+| 30 | arc178 | A | Good Permutation 2 | [Question](https://atcoder.jp/contests/arc178/tasks/arc178_a) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/arc178%20A%20-%20Good%20Permutation%202)
+| 31 | dp | A | Frog 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_a) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20A%20-%20Frog%201)
+| 32 | dp | B | Frog 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_b) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20B%20-%20Frog%202)
+| 33 | dp | C | Vacation | [Question](https://atcoder.jp/contests/dp/tasks/dp_c) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20C%20-%20Vacation)
+| 34 | dp | D | Knapsack 1 | [Question](https://atcoder.jp/contests/dp/tasks/dp_d) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20D%20-%20Knapsack%201)
+| 35 | dp | E | Knapsack 2 | [Question](https://atcoder.jp/contests/dp/tasks/dp_e) | [Solution](https://github.com/ShazidMashrafi/Problem-Solving/tree/master/Online%20Judges/AtCoder/Codes/dp%20E%20-%20Knapsack%202)
 
 
 
