@@ -1,14 +1,14 @@
-# AtCoder Solutions
+# Codeforces Solutions
 
-This page contains my solutions of AtCoder problems. They are in C++ language.  
+This page contains my solutions of Codeforces problems. They are in C++ language.  
 
 
 <div align="center">
 
 ## Index 
-
-| Index  | Contest ID  |  Task  | Problem Name | Question | Solution |
-| :----: | :---------: | :----: | :----------: | :------: | :------: |
+#### Sorted by Problem ID 
+|  Index  | Problem ID | Problem Name | Question | Solution |
+| :-----: |  :--------: | :----------: | :------: | :------: |
 | 1 | 1 A | Theatre Square | [Question](https://codeforces.com/problemset/problem/1/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/master/Codes/1%20A%20-%20Theatre%20Square)
 | 2 | 2 A | Winner | [Question](https://codeforces.com/problemset/problem/2/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/master/Codes/2%20A%20-%20Winner)
 | 3 | 4 A | Watermelon | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](https://github.com/ShazidMashrafi/Codeforces/tree/master/Codes/4%20A%20-%20Watermelon)
@@ -497,8 +497,8 @@ This page contains my solutions of AtCoder problems. They are in C++ language.
 
 </div>
 
-## 🚀 About Me
+## About Me :eyes:
 
 I am Shazid Mashrafi.  
-I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.
-Visit my [Website](https://shazidmashrafi.com) and [AtCoder](https://atcoder.jp/users/shazidmashrafi) account.
+I am currently studying Computer Science and Engineering & trying to work my way up in the programming world.     
+Visit my [Website](https://shazidmashrafi.com) and [Codeforces](https://codeforces.com/profile/ShazidMashrafi) account.
